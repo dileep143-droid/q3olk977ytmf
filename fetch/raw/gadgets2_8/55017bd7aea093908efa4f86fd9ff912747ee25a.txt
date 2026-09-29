@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"search":[{"ns":0,"title":"Doraemon (truy\u1ec7n tranh)","pageid":1640,"size":52330,"wordcount":11566,"snippet":"","timestamp":"2019-07-09T15:16:49Z"}]}}

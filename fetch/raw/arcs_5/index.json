@@ -1,0 +1,32 @@
+{
+"https://en.wikipedia.org/w/api.php?action=parse&prop=wikitext&redirects=1&format=json&formatversion=2&page=Re:Zero_season_1": {
+"file": "f8b48d5ca2af9cc72487e66696a6b4b360ce9e40.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=parse&prop=wikitext&redirects=1&format=json&formatversion=2&page=Re:Zero_season_2": {
+"file": "272e23bb3408d96577c863c1a55b7b9b81c9a753.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=parse&prop=wikitext&redirects=1&format=json&formatversion=2&page=Re:Zero_season_3": {
+"file": "591d207245791a7163d7ad4f5f51f0c292d0c2d7.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=parse&prop=wikitext&redirects=1&format=json&formatversion=2&page=Re:Zero_season_4": {
+"file": "a0ce376197c1c155f9851a89049864e73a5f182f.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=parse&prop=wikitext&redirects=1&format=json&formatversion=2&page=List_of_Re:Zero_−_Starting_Life_in_Another_World_characters": {
+"file": "21f3080132ac8493553c8dce4f2bde4c15f427d5.txt",
+"status": 0,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=parse&prop=wikitext&redirects=1&format=json&formatversion=2&page=Re:Zero_−_Starting_Life_in_Another_World_(season_1)": {
+"file": "7cdf2938c4731aecc1dcd29aa85d13456b84f1a8.txt",
+"status": 0,
+"tries": 1
+}
+}

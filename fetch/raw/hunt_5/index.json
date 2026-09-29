@@ -1,0 +1,232 @@
+{
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Mighty_Raju": {
+"file": "c74d4f07416b71a773de7c4af2803ed2cca8e694.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Roll_No._21": {
+"file": "f11051cd4ca4b86fe8bbbc403da7d6c17cbf1e7d.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Chorr_Police": {
+"file": "d46e6f6dbddf6a5e73103b9265e7993ce0e2b8a3.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Vir:_The_Robot_Boy": {
+"file": "9fcfb1f1266809e4492759347ca6516d4f79ac5e.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Keymon_Ache": {
+"file": "e9454b6032af14be9da96ecef976330d67f89da3.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Golmaal_Jr.": {
+"file": "6156884741a0512434311de3cf0f243a2da8be52.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Selfie_with_Bajrangi": {
+"file": "247df47bf25a8da09b1b9bd8cf291af79cafa95f.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Kiteretsu_Daihyakka": {
+"file": "ea8d62ed48bbaa633342007cadb640390be8928a.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=The_Pink_Panther_Show": {
+"file": "59a32b8890a0c1d04daa16ad8dabecf5860fc5bb.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Pink_Panther_and_Pals": {
+"file": "edd9b62eb53a330f67b64a2ecaeaef3ae0d74208.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Tom_%26_Jerry_Kids": {
+"file": "bb9cff8587f0adc5bf62e8ffb74d6e5e7364617d.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Mickey_Mouse_Clubhouse": {
+"file": "38419c7db125d2c3a46e31c570720efd84b81045.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=List_of_Mickey_Mouse_Clubhouse_episodes": {
+"file": "0f3d9798e2aa9e7a39c399e74f4ce2f8fe78445e.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Chhota_Bheem": {
+"file": "2a6dd252b660084564ba9f2adebb8ec24197ade1.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=List_of_Chhota_Bheem_episodes": {
+"file": "e954ad62cfa57ece74002e270e0074c34feb1faf.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Little_Krishna": {
+"file": "45af90b7b4ec46917df2f679ba75de61e957c3eb.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Bal_Ganesh": {
+"file": "868a690ff905deaed36fe600e65a8b7133b0df8a.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Return_of_Hanuman": {
+"file": "312dae3768b6589c16b0624b084f1790175b6b01.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Hanuman_(2005_film)": {
+"file": "952c6fe431871dd99588d07a3dc254d35d71168e.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=List_of_Jackie_Chan_Adventures_episodes": {
+"file": "b9ccd27c3506ede3f71a8ec1550bf532652746ac.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Jackie_Chan_Adventures": {
+"file": "d44176ed5bc8d9241dabde44ed18a49b25e4dab9.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=List_of_Courage_the_Cowardly_Dog_episodes": {
+"file": "3a472a445295919b5db6e0fe887d75bb2daad5f9.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Sakamoto_Days": {
+"file": "e6ac999a93522783c183fdef68739a7b97ddc07e.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Alice_in_Borderland_(TV_series)": {
+"file": "db5264c8238108691166f2eaaea6f23ac314df46.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=The_Wonderfools": {
+"file": "1750599da19608d59482cc8fa5095ae5030eb782.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Shiva_(TV_series)": {
+"file": "bad127036f50022dff5dbd24cc428292965407ab.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=List_of_Perman_episodes": {
+"file": "ef1c209970939d7ebd017a2d7574a6282273bf6c.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=List_of_Kid_vs._Kat_episodes": {
+"file": "0c8001bf53937b2550843678a43e169afd6bea48.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Heidi,_Girl_of_the_Alps": {
+"file": "b6f1cfba24e8fa5f97da0e85fb6e58579cfbb235.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=List_of_Ben_10_(2005_TV_series)_episodes": {
+"file": "7bd3eb355047a45f6cd2fbaf7e55451660cbb662.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=List_of_Kick_Buttowski:_Suburban_Daredevil_episodes": {
+"file": "443e3929841a1b21bd8d69e987756686024bc39b.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=List_of_Motu_Patlu_episodes": {
+"file": "c64e3cecbd1b685e8eff16a948a31c59527aa7d5.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=List_of_Ninja_Hattori-kun_episodes": {
+"file": "ec6ac6046a6743b354a91065e1c9490969a0d83e.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Enthiran": {
+"file": "a165267bb38771b3112ce03d8a25b4cd3e095cbf.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&list=search&format=json&srlimit=10&srsearch=Re:Zero%20episodes": {
+"file": "d80f81ec31a563127b00e1dac53fb237a2d20263.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&list=search&format=json&srlimit=10&srsearch=Mighty%20Raju%20episodes": {
+"file": "d0bea09e97e694fc82b36317fba24ba313db7a68.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&list=search&format=json&srlimit=10&srsearch=Roll%20No%2021%20cartoon": {
+"file": "81bf0cda60b27035ce1897b0da6ec396f1e624db.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&list=search&format=json&srlimit=10&srsearch=Chorr%20Police%20cartoon": {
+"file": "b585cb8eab7f08ff58a15e72cc31c326a740c619.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&list=search&format=json&srlimit=10&srsearch=Vir%20The%20Robot%20Boy%20episodes": {
+"file": "4f4cba0377e7027002d535e91932bee307039e61.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&list=search&format=json&srlimit=10&srsearch=Keymon%20Ache": {
+"file": "2b91fb0b3c254662b0d0c6282b930e765d83c409.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&list=search&format=json&srlimit=10&srsearch=Golmaal%20Jr%20animated": {
+"file": "94e5d83755d798d5e9fda1bffaef96b2c290db51.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&list=search&format=json&srlimit=10&srsearch=Selfie%20with%20Bajrangi": {
+"file": "67d12270ad2cee182d754f7f133bafc10946640d.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&list=search&format=json&srlimit=10&srsearch=Kiteretsu%20episodes": {
+"file": "b8a2104982127cc109c5ece615b9b4f25be7cf70.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&list=search&format=json&srlimit=10&srsearch=Tom%20and%20Jerry%20Kids%20episodes": {
+"file": "830133014eb8092e05f0929e30049a4e2cdebab7.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&list=search&format=json&srlimit=10&srsearch=Little%20Krishna%20animated%20series%20episodes": {
+"file": "495a991844eda514d78214d7a0793c7696934779.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&list=search&format=json&srlimit=10&srsearch=Chhota%20Bheem%20episodes": {
+"file": "fa14d5cdcb04b75742259a2480a55625d090b005.txt",
+"status": 200,
+"tries": 1
+}
+}

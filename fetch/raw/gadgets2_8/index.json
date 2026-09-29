@@ -1,0 +1,627 @@
+{
+"https://doraemon.fandom.com/vi/api.php?action=query&list=search&format=json&srlimit=5&srsearch=23rd-Century%20Racing%20Car": {
+"file": "fd4ee633e1dabee6403cad385aa6e38f0b829125.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/vi/api.php?action=query&list=search&format=json&srlimit=5&srsearch=25th-Century%20Catalogue": {
+"file": "db4c6fb4b4cc2bf2aa30f086f226a0fdef302f20.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/vi/api.php?action=query&list=search&format=json&srlimit=5&srsearch=25th-Century%20Elevator": {
+"file": "b9b925f84a5d98bb4fa1fbbdbfbfddcee933d947.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/vi/api.php?action=query&list=search&format=json&srlimit=5&srsearch=25th-Century%20Kindergarten%20Plane": {
+"file": "4b1b1677979cd86926230be6e35116675e9a3498.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/vi/api.php?action=query&list=search&format=json&srlimit=5&srsearch=25th-Century%20Slope%20Stick": {
+"file": "6ca30951d099e835b4eb9541c2a7f4e3981c9658.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/vi/api.php?action=query&list=search&format=json&srlimit=5&srsearch=25th-Century%20Timer": {
+"file": "55017bd7aea093908efa4f86fd9ff912747ee25a.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/vi/api.php?action=query&list=search&format=json&srlimit=5&srsearch=26th-Century%20Request%20Phone": {
+"file": "9cfa07ddd6604e4e6376c7df036e3fd3ed06547b.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/vi/api.php?action=query&list=search&format=json&srlimit=5&srsearch=4D%20Home%20Extension%20Kit": {
+"file": "60f2a60a07a8380273e1caae355b80b1a8952263.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/vi/api.php?action=query&list=search&format=json&srlimit=5&srsearch=4D%20Priority%20Plate": {
+"file": "f878633fb0dd022368cab8b97cc19c94e31c1efa.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/vi/api.php?action=query&list=search&format=json&srlimit=5&srsearch=Accomplice%20Ticket": {
+"file": "6f24337e488077fc391771e67bae28f9b4ac0b0b.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/vi/api.php?action=query&list=search&format=json&srlimit=5&srsearch=Action%20Camera": {
+"file": "e507bd8510b1443f273565f673de8f10f42bc6e2.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/vi/api.php?action=query&list=search&format=json&srlimit=5&srsearch=Adaptability%20Tea": {
+"file": "86844d1c9488b4ce9a6d2630ef53e46a9e7c05e8.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/vi/api.php?action=query&list=search&format=json&srlimit=5&srsearch=Address-Changing%20Sign": {
+"file": "fd508abc785576bc2e7990e93beb7d4306997ba8.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/vi/api.php?action=query&list=search&format=json&srlimit=5&srsearch=Affection%20Controller": {
+"file": "a9b28d41036329970d685c4f160817843d3a730a.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/vi/api.php?action=query&list=search&format=json&srlimit=5&srsearch=Age%20Meter": {
+"file": "ee749b65e4475b806cc075456d1f2ec65ebd99ca.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/vi/api.php?action=query&list=search&format=json&srlimit=5&srsearch=Air%20Gun%20Drops": {
+"file": "602f836aac1d6fc70f7e66b57c408307b1166d5f.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/vi/api.php?action=query&list=search&format=json&srlimit=5&srsearch=Air-Conditioned%20Cat%20House": {
+"file": "f938093f59e4de330f3476be192336476046c7a2.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/vi/api.php?action=query&list=search&format=json&srlimit=5&srsearch=Anger%20Suppressor": {
+"file": "9af31ac3a59f509cd3d246646b6f8b52f670e094.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/vi/api.php?action=query&list=search&format=json&srlimit=5&srsearch=Animal%20Escape%20Pills": {
+"file": "ff0a16547a36bc7222166cb0ea363690188f5255.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/vi/api.php?action=query&list=search&format=json&srlimit=5&srsearch=Animal%20Protection%20Revenge%20Drops": {
+"file": "be6f3d445da873d77715ce2f95de2ecf44f88c02.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/vi/api.php?action=query&list=search&format=json&srlimit=5&srsearch=Animal%20Ranch%20Door": {
+"file": "17b2cd14de833fca826a53cf6e4386470a4720c7.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/vi/api.php?action=query&list=search&format=json&srlimit=5&srsearch=Animation%20Box": {
+"file": "da03d0338aa3b7cac0a4a33cd3bdda8c912ab3e7.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/vi/api.php?action=query&list=search&format=json&srlimit=5&srsearch=Animation%20Projector": {
+"file": "f8190ae91cdb05ed509b8eb1805eab0702f49793.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/vi/api.php?action=query&list=search&format=json&srlimit=5&srsearch=Anti-Gloom%20Pill": {
+"file": "7dce0c208093485d46b5eed94920a9664ae9c2e8.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/vi/api.php?action=query&list=search&format=json&srlimit=5&srsearch=Anti-Heat%20Syrup": {
+"file": "c43e6d4e3e73baeecd5250c57073421a8913786b.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/vi/api.php?action=query&list=search&format=json&srlimit=5&srsearch=Anti-Nausea%20and%20Heart%20Pills": {
+"file": "940e70b48cf171f2e4aab6dfd89a804ef4acb2cb.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/vi/api.php?action=query&list=search&format=json&srlimit=5&srsearch=Antique%20Trading%20Radio": {
+"file": "0ea885a0c3fb7bc8060b4a0958d87aa66d49a895.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/vi/api.php?action=query&list=search&format=json&srlimit=5&srsearch=Anything%20Controller": {
+"file": "e0583bddd8d9e83c32481c34e0fa96ab96f657a1.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/vi/api.php?action=query&list=search&format=json&srlimit=5&srsearch=Anywhere%20Manhole": {
+"file": "f0f9a685536b02a49b62ce9d9ccf9740cd666ebe.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/vi/api.php?action=query&list=search&format=json&srlimit=5&srsearch=Apology%20Cricket": {
+"file": "6c4100ecfdae25c966b985d79c19deefcd280753.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/vi/api.php?action=query&list=search&format=json&srlimit=5&srsearch=Assorted%20Monsters": {
+"file": "c7e6617000d2ad7731d57a24e20621d2f88a4859.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/vi/api.php?action=query&list=search&format=json&srlimit=5&srsearch=Auto%20Pump": {
+"file": "d6d407a69e4821a29bf3bc1a234b0f3e36c3193b.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/vi/api.php?action=query&list=search&format=json&srlimit=5&srsearch=Avoid-Mother%20Pills": {
+"file": "af2416998dec58e2c2ccd34acc6ba770b884dbee.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/vi/api.php?action=query&list=search&format=json&srlimit=5&srsearch=Bad-Luck%20Tape": {
+"file": "a6e24cea2ddae98cfadb1856fdca97781c359a00.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/vi/api.php?action=query&list=search&format=json&srlimit=5&srsearch=Balance%20Mat": {
+"file": "8bbfa7183a28f2288d99e8b6e9efcb915ed03452.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/vi/api.php?action=query&list=search&format=json&srlimit=5&srsearch=Beast-Hunting%20Ship": {
+"file": "f0e86ebdcefbe08f74c06454c3b880d878e7ddd1.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/vi/api.php?action=query&list=search&format=json&srlimit=5&srsearch=Become-It%20Pill": {
+"file": "ea9cdbfd97fea129883b90c3d592fa6d5f9db514.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/vi/api.php?action=query&list=search&format=json&srlimit=5&srsearch=Belonging%20Incense": {
+"file": "db40d1d45fd4f6902dd773f2353a33ae863c9fa4.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/vi/api.php?action=query&list=search&format=json&srlimit=5&srsearch=Blame%20Gloves": {
+"file": "c91df3eaed6fff0c0fd9a7522f14a965de433d62.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/vi/api.php?action=query&list=search&format=json&srlimit=5&srsearch=Blossom%20Pollen": {
+"file": "d6f0f9ef9134a26222bc2d7fe5f014e2ac6ec0e1.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/vi/api.php?action=query&list=search&format=json&srlimit=5&srsearch=Bogeyman%20Candy": {
+"file": "37c3d21a68d6e42fdd2648812a7ad91f303b28c1.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/vi/api.php?action=query&list=search&format=json&srlimit=5&srsearch=Bottomless%20Bin": {
+"file": "cfa74225e1db1f81e20bfb1c8e9338503fa3d0ef.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/vi/api.php?action=query&list=search&format=json&srlimit=5&srsearch=Braised-Mackerel%20Gum": {
+"file": "b215d3e6d93bcac319555a1c011be6c21422715d.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/vi/api.php?action=query&list=search&format=json&srlimit=5&srsearch=Breeding%20Solution": {
+"file": "b37f937b8c7b7a07c0e47588bef4d8916cdc9219.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/vi/api.php?action=query&list=search&format=json&srlimit=5&srsearch=Bubble%20Raft": {
+"file": "e3ddeea38693dc08fc02e848486d1fdc4d9feb2d.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/vi/api.php?action=query&list=search&format=json&srlimit=5&srsearch=Buddha%20Robot": {
+"file": "2e2cf778ae5d782ee9a7d92e043902556e263699.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/vi/api.php?action=query&list=search&format=json&srlimit=5&srsearch=Bullet-Train%20Chimney": {
+"file": "27e58878fd6bd8f0967b5128ad38c8e6670fac41.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/vi/api.php?action=query&list=search&format=json&srlimit=5&srsearch=Can%27t-Quit%20Pills": {
+"file": "0d8884ec31251b3bb6074046e128a5abc9d3c584.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/vi/api.php?action=query&list=search&format=json&srlimit=5&srsearch=Canned%20Room": {
+"file": "9f5e8babb5b0c1a683a56bd6e8380665b1b28921.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/vi/api.php?action=query&list=search&format=json&srlimit=5&srsearch=Cat%20Training%20Food": {
+"file": "17d12bf5a01f4a78e41d3ffa0e081dc4b2e9c90d.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/vi/api.php?action=query&list=search&format=json&srlimit=5&srsearch=Cat-and-Mouse%20Game": {
+"file": "40830548213f7c2cc717d92ac179cb9d1d841d33.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/vi/api.php?action=query&list=search&format=json&srlimit=5&srsearch=Celebrity%20Portrait%20Paper": {
+"file": "2808db3453ef180f321c51856290ac6754c9c1fa.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/vi/api.php?action=query&list=search&format=json&srlimit=5&srsearch=Central%20Satellite": {
+"file": "616d2a67e1e71bd85a7da1bf81c31b65d48aa279.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/vi/api.php?action=query&list=search&format=json&srlimit=5&srsearch=Charm%20Bow": {
+"file": "fbe4f1c23a4e9901e961ee21c7190d35bb666661.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/vi/api.php?action=query&list=search&format=json&srlimit=5&srsearch=Chess%20Machine": {
+"file": "b07308585bc0c67e4d58f32a934c2241e9e93828.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/vi/api.php?action=query&list=search&format=json&srlimit=5&srsearch=Childless-Couple%20Pill": {
+"file": "eb10183906cada4371ea79212d2383643fb27e64.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/vi/api.php?action=query&list=search&format=json&srlimit=5&srsearch=Clay%20Doll": {
+"file": "710bcf32573f74e1f6ad4a03e01dd4488fb1d1b1.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/vi/api.php?action=query&list=search&format=json&srlimit=5&srsearch=Cleaning%20Whirlwind": {
+"file": "e004dad5e15e9c0d9f01a63682d5719976ecfa95.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/vi/api.php?action=query&list=search&format=json&srlimit=5&srsearch=Climate%20Calendar": {
+"file": "88214f5056da9790c85bea6fede658974e4edc78.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/vi/api.php?action=query&list=search&format=json&srlimit=5&srsearch=Climate%20Relay%20Satellites": {
+"file": "0c56efda6e9f850708b18e9f27bff04513223bd6.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/zh/api.php?action=query&list=search&format=json&srlimit=5&srsearch=23rd-Century%20Racing%20Car": {
+"file": "3ef4d37be17dc64e0542058697ba5e1a1779f73d.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/zh/api.php?action=query&list=search&format=json&srlimit=5&srsearch=25th-Century%20Catalogue": {
+"file": "f9e862f243d06a7c192319c0e01484ec28bbf15d.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/zh/api.php?action=query&list=search&format=json&srlimit=5&srsearch=25th-Century%20Elevator": {
+"file": "28dc17c0d1d46b582f014df2c2af35cf5a8f535c.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/zh/api.php?action=query&list=search&format=json&srlimit=5&srsearch=25th-Century%20Kindergarten%20Plane": {
+"file": "35970959905063b28e91cf73b97cdf8703c9c6c2.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/zh/api.php?action=query&list=search&format=json&srlimit=5&srsearch=25th-Century%20Slope%20Stick": {
+"file": "df55f52cbcfafb1d1b08409af87b09bf3e3fad22.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/zh/api.php?action=query&list=search&format=json&srlimit=5&srsearch=25th-Century%20Timer": {
+"file": "c1e51410ce1a457689664758004905a1f3d234f4.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/zh/api.php?action=query&list=search&format=json&srlimit=5&srsearch=26th-Century%20Request%20Phone": {
+"file": "129781c9717177ea33eb27f4797d28ea7a763135.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/zh/api.php?action=query&list=search&format=json&srlimit=5&srsearch=4D%20Home%20Extension%20Kit": {
+"file": "a4a4689fa002b5c5bcbe25a3bc373a2384027e98.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/zh/api.php?action=query&list=search&format=json&srlimit=5&srsearch=4D%20Priority%20Plate": {
+"file": "e91485ebe4497f3adec0b21a7eb6e0d4b7085bf7.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/zh/api.php?action=query&list=search&format=json&srlimit=5&srsearch=Accomplice%20Ticket": {
+"file": "8623c5e619f67a7352bc74b998fba9fe45a9351a.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/zh/api.php?action=query&list=search&format=json&srlimit=5&srsearch=Action%20Camera": {
+"file": "10a31ffb7bd82aec79b57758dd3dc5867d300312.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/zh/api.php?action=query&list=search&format=json&srlimit=5&srsearch=Adaptability%20Tea": {
+"file": "fd2cfa02a4679893f381b4151041ff484e270dae.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/zh/api.php?action=query&list=search&format=json&srlimit=5&srsearch=Address-Changing%20Sign": {
+"file": "f9e46c8fc157b5f02e434d6054f477caeecbf63a.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/zh/api.php?action=query&list=search&format=json&srlimit=5&srsearch=Affection%20Controller": {
+"file": "1c0b11f4eb23d3dc1e993548407c0147ed6964db.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/zh/api.php?action=query&list=search&format=json&srlimit=5&srsearch=Age%20Meter": {
+"file": "0dab44332edbccf3df36e4886bb9d78a52cea0e3.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/zh/api.php?action=query&list=search&format=json&srlimit=5&srsearch=Air%20Gun%20Drops": {
+"file": "7f02129e704fa36c80a2566fe5f099fb1d52050b.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/zh/api.php?action=query&list=search&format=json&srlimit=5&srsearch=Air-Conditioned%20Cat%20House": {
+"file": "12facc79eb0c4c0b5b8550a65bfce7769fe4db4d.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/zh/api.php?action=query&list=search&format=json&srlimit=5&srsearch=Anger%20Suppressor": {
+"file": "4f4bc06b3d4fecc1628f3ee45d462cc758e7cc31.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/zh/api.php?action=query&list=search&format=json&srlimit=5&srsearch=Animal%20Escape%20Pills": {
+"file": "fce2b2f28e3db6e4d0c2c55a8fc91fd211b2912b.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/zh/api.php?action=query&list=search&format=json&srlimit=5&srsearch=Animal%20Protection%20Revenge%20Drops": {
+"file": "2b50f1077a431064e7d7d519af9db237a42da998.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/zh/api.php?action=query&list=search&format=json&srlimit=5&srsearch=Animal%20Ranch%20Door": {
+"file": "b36a56d9490ae8c74790111d5e8209938b891742.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/zh/api.php?action=query&list=search&format=json&srlimit=5&srsearch=Animation%20Box": {
+"file": "c8645af050b2da2b88b2ff15199ec712490d3e6b.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/zh/api.php?action=query&list=search&format=json&srlimit=5&srsearch=Animation%20Projector": {
+"file": "81911aab55b30d41b261268886c343a7b7a478d0.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/zh/api.php?action=query&list=search&format=json&srlimit=5&srsearch=Anti-Gloom%20Pill": {
+"file": "8310cbf26f031aed8b1b8ccb2a3808c9d9a72dcb.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/zh/api.php?action=query&list=search&format=json&srlimit=5&srsearch=Anti-Heat%20Syrup": {
+"file": "b50cd72de91f7e134e734353015dff60c655730d.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/zh/api.php?action=query&list=search&format=json&srlimit=5&srsearch=Anti-Nausea%20and%20Heart%20Pills": {
+"file": "a9ab14ba2123226ca55144c21aa8df16c80224ba.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/zh/api.php?action=query&list=search&format=json&srlimit=5&srsearch=Antique%20Trading%20Radio": {
+"file": "c6b3c5fe0a88da86a0132c83c63f4e2db0539449.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/zh/api.php?action=query&list=search&format=json&srlimit=5&srsearch=Anything%20Controller": {
+"file": "79c47e8832fa5a7834095e929555de7a6c2b3a9e.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/zh/api.php?action=query&list=search&format=json&srlimit=5&srsearch=Anywhere%20Manhole": {
+"file": "cb90d1eb844a2ced4b5672759f74ae9cb6f6204c.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/zh/api.php?action=query&list=search&format=json&srlimit=5&srsearch=Apology%20Cricket": {
+"file": "f9731879d4c620442172a4131c5af6bc3f5e7a47.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/zh/api.php?action=query&list=search&format=json&srlimit=5&srsearch=Assorted%20Monsters": {
+"file": "27fc3a5b2e3e7d8cd59a817bdb6cd0d30dd216f9.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/zh/api.php?action=query&list=search&format=json&srlimit=5&srsearch=Auto%20Pump": {
+"file": "41ea8ac43982e8cdfa025cbbc6a9d8c57f143686.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/zh/api.php?action=query&list=search&format=json&srlimit=5&srsearch=Avoid-Mother%20Pills": {
+"file": "3e3acc5ce971d9f967f6c41caf1fc491e50d2936.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/zh/api.php?action=query&list=search&format=json&srlimit=5&srsearch=Bad-Luck%20Tape": {
+"file": "8568b3fd4118ab5bd3b0de8bd8048cf04b50fe91.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/zh/api.php?action=query&list=search&format=json&srlimit=5&srsearch=Balance%20Mat": {
+"file": "60731ca4535aeaa21b2d4f660c9ab83f5d0d2b12.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/zh/api.php?action=query&list=search&format=json&srlimit=5&srsearch=Beast-Hunting%20Ship": {
+"file": "46c4cfdbbf44ab359a8ea026932394de91bc50bf.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/zh/api.php?action=query&list=search&format=json&srlimit=5&srsearch=Become-It%20Pill": {
+"file": "d7826f89e5f0afb708de4c9a66078646850e2aa6.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/zh/api.php?action=query&list=search&format=json&srlimit=5&srsearch=Belonging%20Incense": {
+"file": "30b8551078513ea9b9bf2a130c18b3b522319d4f.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/zh/api.php?action=query&list=search&format=json&srlimit=5&srsearch=Blame%20Gloves": {
+"file": "f09743c65f6f26ce2f68512fa73ad2479f9d91f6.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/zh/api.php?action=query&list=search&format=json&srlimit=5&srsearch=Blossom%20Pollen": {
+"file": "81df70fb3d9bc181035d493c49190c6e9b01d669.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/zh/api.php?action=query&list=search&format=json&srlimit=5&srsearch=Bogeyman%20Candy": {
+"file": "2e02140448e86dde1f278e4d27db75ea82d679bb.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/zh/api.php?action=query&list=search&format=json&srlimit=5&srsearch=Bottomless%20Bin": {
+"file": "0c126756d720c2c3e68f6c7561b62030b7f8050c.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/zh/api.php?action=query&list=search&format=json&srlimit=5&srsearch=Braised-Mackerel%20Gum": {
+"file": "9a189d9f62b076994bdbe5aa2d137a2cdba47ab6.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/zh/api.php?action=query&list=search&format=json&srlimit=5&srsearch=Breeding%20Solution": {
+"file": "b6c62664b34d70b485023cd0557f30b703714f14.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/zh/api.php?action=query&list=search&format=json&srlimit=5&srsearch=Bubble%20Raft": {
+"file": "ad60f2b5a2946df4c1c60961efd758846bdef00c.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/zh/api.php?action=query&list=search&format=json&srlimit=5&srsearch=Buddha%20Robot": {
+"file": "0faa34a2c3d543751baf7b731598f7550c9b6bda.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/zh/api.php?action=query&list=search&format=json&srlimit=5&srsearch=Bullet-Train%20Chimney": {
+"file": "b052f7cfea0406858bac0e765dec3ac7d8de16f5.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/zh/api.php?action=query&list=search&format=json&srlimit=5&srsearch=Can%27t-Quit%20Pills": {
+"file": "8adaaf32dfb7b185366ecd44995ecce3f2eb9889.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/zh/api.php?action=query&list=search&format=json&srlimit=5&srsearch=Canned%20Room": {
+"file": "7126dda14733f5853ce643abc33aa10c00b405b6.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/zh/api.php?action=query&list=search&format=json&srlimit=5&srsearch=Cat%20Training%20Food": {
+"file": "00977b6544b2a0a757bd688cfcc3bd5209f1d323.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/zh/api.php?action=query&list=search&format=json&srlimit=5&srsearch=Cat-and-Mouse%20Game": {
+"file": "ac8ce3caf11ef5fb30e94deecdcec6d0a3a9d78e.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/zh/api.php?action=query&list=search&format=json&srlimit=5&srsearch=Celebrity%20Portrait%20Paper": {
+"file": "ccc1d9355dadba3e0c59eb684f86e3ca6f568b6c.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/zh/api.php?action=query&list=search&format=json&srlimit=5&srsearch=Central%20Satellite": {
+"file": "c8d1d80e9c4f6ce9f84bbb867e02ad2a6f4830e4.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/zh/api.php?action=query&list=search&format=json&srlimit=5&srsearch=Charm%20Bow": {
+"file": "20563ddc78b79dfa2188489ba8a86780be4b6ab3.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/zh/api.php?action=query&list=search&format=json&srlimit=5&srsearch=Chess%20Machine": {
+"file": "40a60b0a5d0503d1bf0cbe254fc0fe4efbafe52d.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/zh/api.php?action=query&list=search&format=json&srlimit=5&srsearch=Childless-Couple%20Pill": {
+"file": "b07629b4fad88dc515f69aebf225d990384720fb.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/zh/api.php?action=query&list=search&format=json&srlimit=5&srsearch=Clay%20Doll": {
+"file": "f7a26ad3518c6c4aaeee291fc24d5fdd7283206e.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/zh/api.php?action=query&list=search&format=json&srlimit=5&srsearch=Cleaning%20Whirlwind": {
+"file": "3f8d838356d975fa131e9b6f4db1c7c86722d4ab.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/zh/api.php?action=query&list=search&format=json&srlimit=5&srsearch=Climate%20Calendar": {
+"file": "38a34c7f1e04378aa2a78026af69408da3933b35.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/zh/api.php?action=query&list=search&format=json&srlimit=5&srsearch=Climate%20Relay%20Satellites": {
+"file": "f59877356f3dff9283053f0269d91fb25b89e32c.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/ja/api.php?action=query&list=search&format=json&srlimit=5&srsearch=Momotarou-jirushi%20no%20Kibidango%20%28%E6%A1%83%E5%A4%AA%E9%83%8E%E5%8D%B0%E3%81%AE%E3%81%8D%E3%81%B3%E3%81%A0%E3%82%93%E3%81%94%29": {
+"file": "e3f283fb579a55e2702fc626ed686aaaec6e5fef.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/ja/api.php?action=query&list=search&format=json&srlimit=5&srsearch=%E6%A1%83%E5%A4%AA%E9%83%8E%E5%8D%B0%E3%81%AE%E3%81%8D%E3%81%B3%E3%81%A0%E3%82%93%E3%81%94%20Momotar%C5%8D%20Jirushi%20no%20Kibidango": {
+"file": "fda50d6aa1559d89200720d697a851b0b9444908.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/ja/api.php?action=query&list=search&format=json&srlimit=5&srsearch=Kagegari%20%28%E3%81%8B%E3%81%92%E3%81%8C%E3%82%8A%29": {
+"file": "4c8cef114deed467b0e083dce765afa133e90784.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/ja/api.php?action=query&list=search&format=json&srlimit=5&srsearch=Irekae%20Bou%20%28%E5%85%A5%E3%82%8C%E3%81%8B%E3%81%88%E6%A3%92%29": {
+"file": "314fe17d4d8875bd09b2c42197d03b74ffa72c0d.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/ja/api.php?action=query&list=search&format=json&srlimit=5&srsearch=%E3%82%B0%E3%83%AC%E3%83%BC%E3%83%89%E3%82%A2%E3%83%83%E3%83%97%E3%83%A9%E3%82%A4%E3%83%88%20Gur%C4%93do%20Appu%20Raito": {
+"file": "c06bd545359794a989ba4fac71e90945815cc5cc.txt",
+"status": 200,
+"tries": 1
+}
+}
