@@ -1,0 +1,7 @@
+{
+"https://en.wikipedia.org/w/api.php?action=query&meta=siteinfo&format=json": {
+"file": "fd17155deb7b6e92e47fee54f4f9e054e9853dbc.txt",
+"status": 200,
+"tries": 1
+}
+}
