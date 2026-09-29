@@ -1,0 +1,57 @@
+name: Fetch queued web pages
+on:
+  push:
+    paths: ['fetch/queue/**']
+  workflow_dispatch:
+concurrency: { group: fetch, cancel-in-progress: false }
+permissions: { contents: write, actions: write }
+env:
+  # This repo may use at most this many Actions minutes per month, so the Telegram bot (upsc-prep) never runs out.
+  MONTHLY_CAP_MIN: 100000
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+        with: { ref: main }
+      - id: guard
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          since=$(date -u +%Y-%m-01)
+          used=$(gh api --paginate "repos/${{ github.repository }}/actions/runs?created=>=$since&per_page=100" \
+            --jq '[.workflow_runs[] | select(.status=="completed" and .run_started_at!=null) | (((.updated_at|fromdateiso8601) - (.run_started_at|fromdateiso8601))/60|ceil)] | add // 0' \
+            | awk '{s+=$1} END{print s+0}')
+          echo "this repo has used $used of $MONTHLY_CAP_MIN minutes this month"
+          skip=false
+          [ -f fetch/PAUSE ] && skip=true && echo "::warning::fetch/PAUSE exists, skipping"
+          [ "$used" -ge "$MONTHLY_CAP_MIN" ] && skip=true && echo "::warning::monthly cap reached ($used min), skipping to protect other workflows"
+          echo "skip=$skip" >> "$GITHUB_OUTPUT"
+      - if: steps.guard.outputs.skip != 'true'
+        run: git pull -q --rebase origin main || true
+      - id: fetch
+        if: steps.guard.outputs.skip != 'true'
+        run: |
+          set +e
+          python3 fetch/fetch_urls.py; rc=$?
+          echo "rc=$rc" >> "$GITHUB_OUTPUT"
+          [ $rc -eq 0 ] || [ $rc -eq 3 ]
+      - if: steps.guard.outputs.skip != 'true'
+        run: |
+          git config user.name "fetch-bot"; git config user.email "fetch-bot@users.noreply.github.com"
+          git add fetch/raw
+          git diff --cached --quiet && exit 0
+          git commit -qm "fetch: results"
+          for i in $(seq 1 40); do
+            if ! git pull --rebase -q origin main; then
+              python3 fetch/merge_index.py || { git rebase --abort; sleep 5; continue; }
+            fi
+            git push -q origin HEAD:main && echo pushed && exit 0
+            sleep $((RANDOM % 8 + 3))
+          done
+          echo "::error::could not push fetch results after 40 attempts"; exit 1
+      - if: steps.guard.outputs.skip != 'true' && steps.fetch.outputs.rc == '3'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run fetch.yml --ref main
