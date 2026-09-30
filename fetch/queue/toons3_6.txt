@@ -1,0 +1,10 @@
+https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=List_of_Pok%C3%A9mon_anime_episodes
+https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=List_of_Courage_the_Cowardly_Dog_episodes
+https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=List_of_The_Powerpuff_Girls_%281998_TV_series%29_episodes
+https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=List_of_Ben_10_%282005_TV_series%29_episodes
+https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=List_of_Kick_Buttowski%3A_Suburban_Daredevil_episodes
+https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=List_of_Pink_Panther_cartoons
+https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=List_of_Mickey_Mouse_Clubhouse_episodes
+https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=List_of_Dora_the_Explorer_episodes
+https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=List_of_Oggy_and_the_Cockroaches_episodes
+https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=List_of_Tom_and_Jerry_Kids_episodes
