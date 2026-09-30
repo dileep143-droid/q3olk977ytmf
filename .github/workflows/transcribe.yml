@@ -1,0 +1,27 @@
+name: Transcribe Telugu episodes (6 shards)
+on:
+  workflow_dispatch:
+    inputs:
+      shards:
+        description: "number of parallel shards (one per Gemini key)"
+        default: "6"
+  schedule:
+    - cron: "17 1 * * *"   # 06:47 IST daily, until the queue is empty
+jobs:
+  shard:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    strategy:
+      fail-fast: false
+      matrix:
+        shard: [0, 1, 2, 3, 4, 5]
+    steps:
+      - uses: actions/checkout@v4
+      - run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg > /dev/null && pip install -q -U yt-dlp
+      - env:
+          GEMINI_API_KEYS: ${{ secrets.GEMINI_API_KEYS }}
+          REPO_TOKEN: ${{ secrets.REPO_TOKEN }}
+          SHARD: ${{ matrix.shard }}
+          SHARDS: ${{ github.event.inputs.shards || '6' }}
+          PRIVATE_REPO: dileep143-droid/upsc-cloud
+        run: python3 transcribe_shard.py

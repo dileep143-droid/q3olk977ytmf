@@ -1,0 +1,17 @@
+name: yt check
+on:
+  workflow_dispatch:
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - run: pip install -q -U yt-dlp
+      - run: |
+          for v in PzpCxGdBwC0 S52oAm5NKRA 5pffikpLakA; do
+            echo "== $v"
+            python3 -m yt_dlp --no-warnings --simulate --extractor-args "youtube:player_client=android,web" --print "%(id)s %(duration)s %(title).50s" "https://www.youtube.com/watch?v=$v" || echo "SIMULATE FAILED"
+          done
+          echo "== download test"
+          python3 -m yt_dlp --no-warnings --extractor-args "youtube:player_client=android,web" -f "bestaudio/best" -o "t.%(ext)s" "https://www.youtube.com/watch?v=PzpCxGdBwC0" && ls -la t.* && echo "DOWNLOAD OK" || echo "DOWNLOAD FAILED"
+          rm -f t.*
