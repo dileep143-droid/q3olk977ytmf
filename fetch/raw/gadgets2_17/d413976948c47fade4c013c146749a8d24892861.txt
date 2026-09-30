@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"-1":{"ns":0,"title":"\u305d\u3046\u3060\u3093\u96fb\u8a71","missing":""}}}}
