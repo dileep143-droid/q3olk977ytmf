@@ -1,0 +1,277 @@
+{
+"https://doraemon.fandom.com/zh/api.php?action=query&list=search&srsearch=%E3%82%A8%E3%83%BC%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%83%E3%83%97%20%C4%92su%20Kyappu&srlimit=3&format=json": {
+"file": "b63c0a17d647dccc62518178ef727a65bda74ee3.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/zh/api.php?action=query&list=search&srsearch=%E3%82%B8%E3%82%AD%E3%83%AB%E3%83%8F%E3%82%A4%E3%83%89%20Jekiru%20Haido&srlimit=3&format=json": {
+"file": "7b9f1872ab6e3981964a52300305874cf1845697.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/zh/api.php?action=query&list=search&srsearch=%E3%82%B0%E3%83%83%E3%82%B9%E3%83%AA%E3%81%BE%E3%81%8F%E3%82%89%20Gussuri%20Makura&srlimit=3&format=json": {
+"file": "c4388274ad4f5cfaede10c2a2027040a9e7be2b5.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/zh/api.php?action=query&list=search&srsearch=%E3%81%8A%E3%82%82%E3%81%8B%E3%82%8B%E3%81%A8%E3%81%86%20Omokaru-t%C5%8D&srlimit=3&format=json": {
+"file": "c486a99d772267b5f2485bf7fa685b5b016f2e54.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/zh/api.php?action=query&list=search&srsearch=%E3%81%8A%E3%81%8F%E3%82%8C%E3%82%AB%E3%83%A1%E3%83%A9%20Okure%20Kamera&srlimit=3&format=json": {
+"file": "07ada120e664145eddcae1a58fe8894acf7fe5c6.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/zh/api.php?action=query&list=search&srsearch=%E3%81%82%E3%81%B9%E3%81%93%E3%81%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0%20Abekobe%20Kur%C4%ABmu&srlimit=3&format=json": {
+"file": "639af6adbfd75c53202eafeee0f5a62efe32a47d.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/zh/api.php?action=query&list=search&srsearch=%E3%83%89%E3%83%AD%E3%83%B3%E8%91%89%20Doronpa&srlimit=3&format=json": {
+"file": "a462315834288383abb508715838db03e42b1e17.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/zh/api.php?action=query&list=search&srsearch=%E3%82%A8%E3%83%A9%E3%83%BB%E3%83%81%E3%83%A5%E3%83%BC%E3%83%96%20Era%20Ch%C5%ABbu&srlimit=3&format=json": {
+"file": "ec2d7b5f4a995c4d42f3c369b8db231a71cd5a22.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/zh/api.php?action=query&list=search&srsearch=%E3%82%A2%E3%83%A9%E3%83%93%E3%83%B3%E3%81%AE%E3%83%A9%E3%83%B3%E3%83%97%20Arabin%20no%20Ranpu&srlimit=3&format=json": {
+"file": "25120951c6e1176bdf8d4679f349e9ce3a5c947e.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/zh/api.php?action=query&list=search&srsearch=%E3%82%AA%E3%83%BC%E3%83%AB%E3%82%B7%E3%83%BC%E3%82%BA%E3%83%B3%E3%83%90%E3%83%83%E3%82%B8%20%C5%8Cru%20Sh%C4%ABzun%20Bajji&srlimit=3&format=json": {
+"file": "43415352287690de8884522a179d527384e16305.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/zh/api.php?action=query&list=search&srsearch=%E5%8B%95%E7%89%A9%E3%83%A9%E3%82%A4%E3%83%88%20D%C5%8Dbutsu%20Raito&srlimit=3&format=json": {
+"file": "4da9785dedf9dd0cfb3452db4b3f8bb9402a3652.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/zh/api.php?action=query&list=search&srsearch=%E3%82%84%E3%81%8F%E3%82%88%E3%81%91%E3%82%B7%E3%83%BC%E3%83%AB%20Yakuyoke%20Sh%C4%ABru&srlimit=3&format=json": {
+"file": "320b392ab909bb96d84103c215120e7c189652ff.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/zh/api.php?action=query&list=search&srsearch=%E3%82%A2%E3%82%BF%E3%83%BC%E3%83%AB%E3%82%AC%E3%83%B3%20At%C4%81ru%20Gan&srlimit=3&format=json": {
+"file": "3a75b7e8d166e9f65e23cc2102776ea2cdd97c37.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/zh/api.php?action=query&list=search&srsearch=%E5%AE%87%E5%AE%99%E6%97%85%E8%A1%8C%E7%94%A8%E3%82%AA%E3%83%BC%E3%83%88%E3%83%9E%E3%83%81%E3%83%83%E3%82%AF%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88%20Uch%C5%AB%20Ryok%C5%8D-y%C5%8D%20%C5%8Ctomachikku%20Roketto&srlimit=3&format=json": {
+"file": "2a8893ffef5fd1a1ddf4fbff55874fcaea8813c5.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/zh/api.php?action=query&list=search&srsearch=%E8%87%AA%E5%8B%95%E8%B2%B7%E3%81%84%E7%89%A9%E3%81%8B%E3%81%94%20Jid%C5%8D%20Kaimono%20Kago&srlimit=3&format=json": {
+"file": "30babf82ad840fde88f9142492f487f7c0ed833d.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/zh/api.php?action=query&list=search&srsearch=Furidashi%20ni%20Modoru%20%28%E3%81%B5%E3%82%8A%E3%81%A0%E3%81%97%E3%81%AB%E3%82%82%E3%81%A9%E3%82%8B%29&srlimit=3&format=json": {
+"file": "ea26e46353a45414279382d1063cfc4fae9d69e0.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/zh/api.php?action=query&list=search&srsearch=%E8%A6%AA%E5%8F%8B%E3%83%86%E3%83%AC%E3%82%AB%20Shin%27y%C5%AB%20Tereka&srlimit=3&format=json": {
+"file": "3bde13944bde9698a01c3b3aa77093f02fe535b8.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/zh/api.php?action=query&list=search&srsearch=%E5%88%86%E8%BA%AB%E3%83%8F%E3%83%B3%E3%83%9E%E3%83%BC%20Bunshin%20Hanm%C4%81&srlimit=3&format=json": {
+"file": "010b523a0f88f1c31be1abdde0bc717c4aa021e7.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/zh/api.php?action=query&list=search&srsearch=Abekobe%20Cream%20%28%E3%81%82%E3%81%B9%E3%81%93%E3%81%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0%29&srlimit=3&format=json": {
+"file": "9ddd2d25d90e55b05d6f94548dcf50972c15becc.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/zh/api.php?action=query&list=search&srsearch=Abekobe%20Mic%20%28%E3%82%A2%E3%83%99%E3%82%B3%E3%83%99%E3%83%9E%E3%82%A4%E3%82%AF%29&srlimit=3&format=json": {
+"file": "4b03dec5bdbf975c022f60a936d8ad57a1581baa.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/zh/api.php?action=query&list=search&srsearch=Uchuu%20Kanzen%20Daihyakka%20%28%E5%AE%87%E5%AE%99%E5%AE%8C%E5%85%A8%E5%A4%A7%E7%99%BE%E7%A7%91%29&srlimit=3&format=json": {
+"file": "44dc1351c83c84a61abdf813282047086c2ece01.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/zh/api.php?action=query&list=search&srsearch=%E3%83%80%E3%82%A4%E3%83%AA%E3%82%AC%E3%83%A0%20Dairi%20Gamu&srlimit=3&format=json": {
+"file": "d2f7c56201eb99e64db28531ad6a1c854704efca.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/zh/api.php?action=query&list=search&srsearch=%E3%81%A9%E3%81%8F%E3%81%95%E3%81%84%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81%20Dokusai%20Suitchi&srlimit=3&format=json": {
+"file": "17c4e95f454a08600d5b1ac893a976057c5bc80a.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/zh/api.php?action=query&list=search&srsearch=%E3%83%84%E3%83%A2%E3%83%AA%E3%82%AC%E3%83%B3%20Tsumori%20Gan&srlimit=3&format=json": {
+"file": "4efc82f7266e50df5b5bbabbc0a4e9cd7db006dd.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/zh/api.php?action=query&list=search&srsearch=%E3%83%A6%E3%83%A1%E3%83%86%E3%83%AC%E3%83%93%20Yume%20Terebi&srlimit=3&format=json": {
+"file": "48b25762bfc338e454302a161c47c73d819bddf6.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/zh/api.php?action=query&list=search&srsearch=%E3%82%89%E3%81%8F%E3%81%8C%E3%81%8A%E3%83%9A%E3%83%B3%20Rakugao%20Pen&srlimit=3&format=json": {
+"file": "f7d16d04477ede3826545f7d9f7fec8fb74ab487.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/zh/api.php?action=query&list=search&srsearch=%E5%AE%B6%E6%97%8F%E5%90%88%E3%82%8F%E3%81%9B%E3%82%B1%E3%83%BC%E3%82%B9%20Kazoku%20Awase%20K%C4%93su&srlimit=3&format=json": {
+"file": "97f531e6111cae2f312e5b7869edb5a132c36a55.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/zh/api.php?action=query&list=search&srsearch=%E3%83%9A%E3%82%BF%E3%83%B3%E3%82%B3%E3%82%A2%E3%82%A4%E3%83%AD%E3%83%B3%20Petanko%20Airon&srlimit=3&format=json": {
+"file": "e4e1d402526ca7c2c5bd23e531dec6beb26f0de1.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/zh/api.php?action=query&list=search&srsearch=Wasurero%20Gusa%20%28%E3%82%8F%E3%81%99%E3%82%8C%E3%82%8D%E8%8D%89%29&srlimit=3&format=json": {
+"file": "b08653eca439c08aa934f65c7256445219835445.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/zh/api.php?action=query&list=search&srsearch=%E3%82%8F%E3%81%99%E3%82%8C%E3%82%8D%E8%8D%89%20Wasurerogusa&srlimit=3&format=json": {
+"file": "a1c13642c856ea10af0724ddb0208642ed12b2a1.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/zh/api.php?action=query&list=search&srsearch=%E3%82%B1%E3%83%8E%E3%83%93%E3%83%BC%E3%83%AD%20Kenob%C4%ABro&srlimit=3&format=json": {
+"file": "91cdbcb3889b9819bfc9153e114f8603218f9a36.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/zh/api.php?action=query&list=search&srsearch=Shoujiki%20Tarou%20%28%E6%AD%A3%E7%9B%B4%E5%A4%AA%E9%83%8E%29&srlimit=3&format=json": {
+"file": "b7902347e431df88ba315aa945d94fa082969722.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/zh/api.php?action=query&list=search&srsearch=%E4%BA%BA%E9%96%93%E6%A9%9F%E9%96%A2%E8%BB%8A%E3%82%BB%E3%83%83%E3%83%88%20Ningen%20Kikansha%20Setto&srlimit=3&format=json": {
+"file": "08c2d3ec859d4c82a9f45e8218a5eb4efc2fa6df.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/zh/api.php?action=query&list=search&srsearch=%E7%84%A1%E7%94%9F%E7%89%A9%E3%81%95%E3%81%84%E3%81%BF%E3%82%93%E3%83%A1%E3%82%AC%E3%83%9B%E3%83%B3%20Museibutsu%20Saimin%20Megahon&srlimit=3&format=json": {
+"file": "951414da9aeee7926c6a044d986b79fdac89a9b5.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/zh/api.php?action=query&list=search&srsearch=%E3%82%B1%E3%83%83%E3%82%B7%E3%83%B3%E3%82%B3%E3%83%B3%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%88%20Kesshin%20Konkur%C4%ABto&srlimit=3&format=json": {
+"file": "64ffb27984d78759b892690ad5138165def74b65.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/zh/api.php?action=query&list=search&srsearch=%E3%81%8A%E3%81%93%E3%81%BC%E3%82%8C%E3%83%AF%E3%83%B3%E3%83%AF%E3%83%B3%20Okobore%20Wanwan&srlimit=3&format=json": {
+"file": "e69460e448e1591564377cde96267cf014140691.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/zh/api.php?action=query&list=search&srsearch=Jinsei%20Yarinaoshi%20Ki%20%28%E4%BA%BA%E7%94%9F%E3%82%84%E3%82%8A%E3%81%AA%E3%81%8A%E3%81%97%E6%A9%9F%29&srlimit=3&format=json": {
+"file": "f3d31891e99e3812a848e7eebd22dc841480be67.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/zh/api.php?action=query&list=search&srsearch=%E3%83%A1%E3%83%A2%E3%83%AA%E3%83%BC%E3%83%AD%E3%83%BC%E3%83%B3%20Memor%C4%AB%20R%C5%8Dn&srlimit=3&format=json": {
+"file": "e32f1ac7c8af68a9503cd6ce76512ecef490bd9d.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/zh/api.php?action=query&list=search&srsearch=%E3%83%90%E3%82%A4%E3%83%90%E3%82%A4%E3%83%B3%20Baibain&srlimit=3&format=json": {
+"file": "47383dc1372250dfb11daf98d3a7e41a9cfff175.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/zh/api.php?action=query&list=search&srsearch=%E3%83%9A%E3%82%B3%E3%83%9A%E3%82%B3%E3%83%90%E3%83%83%E3%82%BF%20Peko%20Peko%20Batta&srlimit=3&format=json": {
+"file": "ab22097894268734add0fc0c58e547fdb3c956cc.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/zh/api.php?action=query&list=search&srsearch=%E3%83%A2%E3%83%86%E3%83%A2%E3%83%86%E3%83%BC%E3%83%AB%20Motemot%C4%93ru&srlimit=3&format=json": {
+"file": "225bea1f5d9c7f6cd0e81ddbab797011bc7f3195.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/zh/api.php?action=query&list=search&srsearch=%E3%82%A8%E3%82%A4%E3%82%B3%E3%83%BC%E3%83%8E%E3%83%88%E3%83%93%E3%83%A9%20Eik%C5%8D%20no%20Tobira&srlimit=3&format=json": {
+"file": "6efda0cc4baa9d860cae500ff559ebcd67143564.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/zh/api.php?action=query&list=search&srsearch=Fukugen%20Kousen%20%28%E5%BE%A9%E5%85%83%E5%85%89%E7%B7%9A%29&srlimit=3&format=json": {
+"file": "6c123af064b93e8513f5578b9bed2b8e801abfe9.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/zh/api.php?action=query&list=search&srsearch=Abekonbe%20%28%E3%82%A2%E3%83%99%E3%82%B3%E3%83%B3%E3%83%99%29&srlimit=3&format=json": {
+"file": "e9815d5271ed28f99d284e295017d4e53bf2d652.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/zh/api.php?action=query&list=search&srsearch=%E3%81%8A%E3%81%BF%E3%82%84%E3%81%92%E3%83%95%E3%83%AD%E3%82%B7%E3%82%AD%20Omiyage%20Furoshiki&srlimit=3&format=json": {
+"file": "8c12251ddd3dab797b06a2f9839ba6a565975f40.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/zh/api.php?action=query&list=search&srsearch=%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E7%AE%B8%20S%C5%ABp%C4%81%20Bashi&srlimit=3&format=json": {
+"file": "004f04539fb87381e72121a407888b4826dade81.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/zh/api.php?action=query&list=search&srsearch=%E3%82%BF%E3%83%83%E3%83%81%E6%89%8B%E3%81%B6%E3%81%8F%E3%82%8D%20Tatchi%20Tebukuro&srlimit=3&format=json": {
+"file": "e4dfdc987babea586c12d374837dae4a01415f8f.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/zh/api.php?action=query&list=search&srsearch=Zeikin%20Dori%20%28%E7%A8%8E%E9%87%91%E9%B3%A5%29&srlimit=3&format=json": {
+"file": "8db7db24af2a89ed6baba861a964b0f558048c6c.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/zh/api.php?action=query&list=search&srsearch=%E6%99%82%E9%96%80%20Jimon&srlimit=3&format=json": {
+"file": "4ddd816b4f979eeebf8b9f77da657d45622daa2f.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/zh/api.php?action=query&list=search&srsearch=Tanma%20Watch%20%28%E3%82%BF%E3%83%B3%E3%83%9E%E3%82%A6%E3%82%A9%E3%83%83%E3%83%81%29&srlimit=3&format=json": {
+"file": "5ac70d1cfbcb0266a055ab4ca1708bfd99c21bd0.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/zh/api.php?action=query&list=search&srsearch=%E9%81%A0%E5%86%99%E3%81%8B%E3%81%8C%E3%81%BF%20Ensha%20Kagami&srlimit=3&format=json": {
+"file": "b18fc1170cd51ee1b081b0004746aaf10980874d.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/zh/api.php?action=query&list=search&srsearch=%E6%BD%9C%E5%9C%B0%E6%9C%8D%20Senchi-fuku&srlimit=3&format=json": {
+"file": "4f53330db8bfbe8dad410e1bbb588339412f3d1c.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/zh/api.php?action=query&list=search&srsearch=%E3%81%8A%E3%81%8A%E3%81%8B%E3%81%BF%E7%94%B7%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0%20%C5%8Ckami%20Otoko%20Kur%C4%ABmu&srlimit=3&format=json": {
+"file": "1ed12e4a8f2d74bfbd76e581bab6ee84a4f96c4d.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/zh/api.php?action=query&list=search&srsearch=%E3%81%BE%E3%82%8B%E3%81%94%E3%81%A8%E3%82%B3%E3%83%94%E3%83%BC%E3%82%AB%E3%83%A0%20Marugoto%20Kop%C4%AB%20Kamu&srlimit=3&format=json": {
+"file": "810a8aeb2323f7099d332cd89e660689cc1bc7d9.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/zh/api.php?action=query&list=search&srsearch=%E5%8B%95%E7%89%A9%E3%81%8C%E3%81%9F%E3%81%AB%E3%81%92%E3%81%A0%E3%81%97%E3%81%98%E3%82%87%E3%81%86&srlimit=3&format=json": {
+"file": "a9338f0df7a737f0c422c105e0501fc1c05d0e39.txt",
+"status": 200,
+"tries": 1
+}
+}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"search":[{"ns":0,"title":"C\u00e2y g\u1eady Moses","pageid":839,"size":2749,"wordcount":668,"snippet":"","timestamp":"2025-09-16T06:25:23Z"}]}}
