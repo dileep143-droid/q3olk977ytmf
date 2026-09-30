@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"normalized":[{"from":"Tokyo_Revengers_(TV_series)","to":"Tokyo Revengers (TV series)"}],"pages":{"-1":{"ns":0,"title":"Tokyo Revengers (TV series)","missing":""}}}}

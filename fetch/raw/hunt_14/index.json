@@ -1,0 +1,217 @@
+{
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Demon_Slayer%3A_Kimetsu_no_Yaiba": {
+"file": "067489017690938a78572a9b5f8afc4a8096ae42.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Death_Note": {
+"file": "e331263b7943809a4553e5c3757cb62b68636c56.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Dr._Stone": {
+"file": "963cd716c517211d9f62c45de946080722a61f70.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=One_Piece": {
+"file": "b0172f8330ba286bc11f97d06c71939687c2d51d.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Naruto": {
+"file": "462538aafee1abae324befcb379101655c4268b6.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Bleach_%28TV_series%29": {
+"file": "221b3e46f38b767d48cfc43ee1cbc63c29f062b7.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Attack_on_Titan": {
+"file": "481738a5b4e524fee148faa4f0f1e6634836255c.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=My_Hero_Academia": {
+"file": "598dbe7299e6e6ab8e8977628fe5ecd4988ebdcc.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Jujutsu_Kaisen": {
+"file": "db60409a9bc1e5c8c0f228efcfe71369fd5dfac4.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Spy_%C3%97_Family": {
+"file": "97845bc6de8267e17dede8d37d9e702a7133762e.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Solo_Leveling": {
+"file": "7fbfacb29bbb78c8b55b6716c8aa0714e7f9b9bf.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Tokyo_Revengers_%28TV_series%29": {
+"file": "f74e016c3ea7f5f6956c094541fa71dbc10cfcbd.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Komi_Can%27t_Communicate": {
+"file": "6cc3bb009af7be05fcf2565bf452686904d202e8.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Rent-a-Girlfriend": {
+"file": "0994fbd0124e4048915d5dfe9f2bca8d644e630a.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Vinland_Saga_%28TV_series%29": {
+"file": "ce452e8eb4e97245d85d514e98ca2a8717800d73.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=One-Punch_Man": {
+"file": "cf79bb713b8ba4dd440c0ebd2a0972f4d04316e9.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Classroom_of_the_Elite": {
+"file": "b4e7451f5bc7835dbff3b4e78b021d62127d7913.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Monster_%28manga%29": {
+"file": "b4f8423419d1d6c6f456cc97905c028033676235.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Hunter_%C3%97_Hunter_%282011_TV_series%29": {
+"file": "197c68379d652dde0163845bec546162734caf2f.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Black_Clover": {
+"file": "6f7e2d1db2699f4f4498551847099fa4100a961f.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Re%3AZero": {
+"file": "182816ae618cc9be3c106970d4f78ebf503679af.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Doraemon": {
+"file": "054f4162c8ec39583788e0a89c9f286dc71d6b38.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Crayon_Shin-chan": {
+"file": "32efba8a8f551c13b7be94ead7053dd43bc51c47.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Mr._Bean%3A_The_Animated_Series": {
+"file": "72ec5a1879950d974ac686edbe35ed0e1e941538.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Phineas_and_Ferb": {
+"file": "5cbc2253394bcf5df961a72f1cd3f57703cfb466.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Oggy_and_the_Cockroaches": {
+"file": "41e9e25a48fdd531569d90bc0a5acb34b0947208.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Pok%C3%A9mon_%28TV_series%29": {
+"file": "da1927463c4a47fba7a42cd4ed446c886cb32657.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Tom_and_Jerry": {
+"file": "e0340f9e1cc503c83d74b0c198cdee9cdcae8768.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=The_Powerpuff_Girls": {
+"file": "6a3122eaa0c6992cfc0cd6b2662459da27905c92.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Dora_the_Explorer": {
+"file": "11e980857edd53c20a81893443c22039e785870b.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Lookism": {
+"file": "bd0822cf9e6463739f60e505c7bb5b2fe4b2dae1.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Stranger_Things": {
+"file": "218f04f88dc54b1d191719a5295a0dd7480dc31f.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Doraemon_%282005_TV_series%29": {
+"file": "fbadbb08e53072fe474b2635f40de3bc0bd03465.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Doraemon_%281979_TV_series%29": {
+"file": "196c05c0ab55a2c06c6452790454f0eafde4353f.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=List_of_Doraemon_episodes": {
+"file": "9c3f5195933971f1762054d044ae653b9cb8f3f8.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=List_of_Crayon_Shin-chan_episodes": {
+"file": "b7f296975a486b0e88d6fae166850c918b0db375.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Mighty_Raju_%28TV_series%29": {
+"file": "905fecfa6f13d2bbd94959b851d709df49dc17bd.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Mighty_Raju": {
+"file": "c74d4f07416b71a773de7c4af2803ed2cca8e694.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Vir%3A_The_Robot_Boy_%28TV_series%29": {
+"file": "e0b826dc9bc4dd66159459e9c52545da910837f4.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Vir%3A_The_Robot_Boy": {
+"file": "72823f13c50226f3d8484e3ade1ca41d0c532e17.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Shiva_%28Indian_TV_series%29": {
+"file": "8a6af506cb57514299fadb233a9695f3138ae829.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Chorr_Police": {
+"file": "d46e6f6dbddf6a5e73103b9265e7993ce0e2b8a3.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=The_Daily_Life_of_the_Immortal_King": {
+"file": "1b8f291be5f71564a481942b0629e8773abd1ad4.txt",
+"status": 200,
+"tries": 1
+}
+}
