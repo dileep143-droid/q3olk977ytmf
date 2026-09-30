@@ -1,0 +1,1 @@
+{"batchcomplete":"","warnings":{"main":{"*":"Unrecognized parameter: explaintext."},"query":{"*":"Unrecognized value for parameter \"prop\": extracts"}},"query":{"normalized":[{"from":"Permanent_Retirement","to":"Permanent Retirement"}],"pages":{"1906":{"pageid":1906,"ns":0,"title":"Permanent Retirement"}}}}

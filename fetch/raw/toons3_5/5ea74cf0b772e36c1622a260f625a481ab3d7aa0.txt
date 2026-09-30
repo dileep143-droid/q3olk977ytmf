@@ -1,0 +1,1 @@
+{"batchcomplete":"","warnings":{"main":{"*":"Unrecognized parameter: explaintext."},"query":{"*":"Unrecognized value for parameter \"prop\": extracts"}},"query":{"normalized":[{"from":"Mommy_Fearest","to":"Mommy Fearest"}],"pages":{"1956":{"pageid":1956,"ns":0,"title":"Mommy Fearest"}}}}

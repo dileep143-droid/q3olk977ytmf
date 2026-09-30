@@ -1,0 +1,1 @@
+{"batchcomplete":"","warnings":{"main":{"*":"Unrecognized parameter: explaintext."},"query":{"*":"Unrecognized value for parameter \"prop\": extracts"}},"query":{"normalized":[{"from":"Mother's_Day","to":"Mother's Day"}],"pages":{"1904":{"pageid":1904,"ns":0,"title":"Mother's Day"}}}}

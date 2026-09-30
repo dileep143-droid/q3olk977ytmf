@@ -1,0 +1,1 @@
+{"batchcomplete":"","warnings":{"main":{"*":"Unrecognized parameter: explaintext."},"query":{"*":"Unrecognized value for parameter \"prop\": extracts"}},"query":{"normalized":[{"from":"Ben_10_vs._the_Negative_10","to":"Ben 10 vs. the Negative 10"}],"pages":{"-1":{"ns":0,"title":"Ben 10 vs. the Negative 10","missing":""}}}}

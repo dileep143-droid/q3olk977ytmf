@@ -1,0 +1,1 @@
+{"batchcomplete":"","warnings":{"main":{"*":"Unrecognized parameter: explaintext."},"query":{"*":"Unrecognized value for parameter \"prop\": extracts"}},"query":{"normalized":[{"from":"Ben_Gets_Ben_10_Coming","to":"Ben Gets Ben 10 Coming"}],"pages":{"-1":{"ns":0,"title":"Ben Gets Ben 10 Coming","missing":""}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","warnings":{"main":{"*":"Unrecognized parameter: explaintext."},"query":{"*":"Unrecognized value for parameter \"prop\": extracts"}},"query":{"normalized":[{"from":"The_Chicken_from_Outer_Space","to":"The Chicken from Outer Space"}],"pages":{"4181":{"pageid":4181,"ns":0,"title":"The Chicken from Outer Space"}}}}

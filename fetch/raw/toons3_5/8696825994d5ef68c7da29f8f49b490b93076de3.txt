@@ -1,0 +1,1 @@
+{"batchcomplete":"","warnings":{"main":{"*":"Unrecognized parameter: explaintext."},"query":{"*":"Unrecognized value for parameter \"prop\": extracts"}},"query":{"normalized":[{"from":"Twisted_Sister","to":"Twisted Sister"}],"pages":{"2433":{"pageid":2433,"ns":0,"title":"Twisted Sister"}}}}

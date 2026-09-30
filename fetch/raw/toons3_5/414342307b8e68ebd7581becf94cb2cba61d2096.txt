@@ -1,0 +1,1 @@
+{"batchcomplete":"","warnings":{"main":{"*":"Unrecognized parameter: explaintext."},"query":{"*":"Unrecognized value for parameter \"prop\": extracts"}},"query":{"normalized":[{"from":"Tourist_Trap","to":"Tourist Trap"}],"pages":{"1908":{"pageid":1908,"ns":0,"title":"Tourist Trap"}}}}

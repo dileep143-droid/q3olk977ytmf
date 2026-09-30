@@ -1,0 +1,1 @@
+{"batchcomplete":"","warnings":{"main":{"*":"Unrecognized parameter: explaintext."},"query":{"*":"Unrecognized value for parameter \"prop\": extracts"}},"query":{"normalized":[{"from":"The_Demon_in_the_Mattress","to":"The Demon in the Mattress"}],"pages":{"1956":{"pageid":1956,"ns":0,"title":"The Demon in the Mattress"}}}}

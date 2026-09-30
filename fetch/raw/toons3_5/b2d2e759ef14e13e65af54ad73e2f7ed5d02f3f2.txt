@@ -1,0 +1,1 @@
+{"batchcomplete":"","warnings":{"main":{"*":"Unrecognized parameter: explaintext."},"query":{"*":"Unrecognized value for parameter \"prop\": extracts"}},"query":{"normalized":[{"from":"And_Then_There_Were_10","to":"And Then There Were 10"}],"pages":{"1957":{"pageid":1957,"ns":0,"title":"And Then There Were 10"}}}}

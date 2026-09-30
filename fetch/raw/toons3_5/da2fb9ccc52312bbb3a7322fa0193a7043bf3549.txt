@@ -1,0 +1,1 @@
+{"batchcomplete":"","warnings":{"main":{"*":"Unrecognized parameter: explaintext."},"query":{"*":"Unrecognized value for parameter \"prop\": extracts"}},"query":{"normalized":[{"from":"Tough_Luck?","to":"Tough Luck?"}],"pages":{"-1":{"ns":0,"title":"Tough Luck?","missing":""}}}}

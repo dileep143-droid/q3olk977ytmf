@@ -1,0 +1,1 @@
+{"batchcomplete":"","warnings":{"main":{"*":"Unrecognized parameter: explaintext."},"query":{"*":"Unrecognized value for parameter \"prop\": extracts"}},"query":{"normalized":[{"from":"Ken_10","to":"Ken 10"}],"pages":{"2073":{"pageid":2073,"ns":0,"title":"Ken 10"}}}}

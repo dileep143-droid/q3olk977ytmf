@@ -1,0 +1,1 @@
+{"batchcomplete":"","warnings":{"main":{"*":"Unrecognized parameter: explaintext."},"query":{"*":"Unrecognized value for parameter \"prop\": extracts"}},"query":{"normalized":[{"from":"Freaky_Fred","to":"Freaky Fred"}],"redirects":[{"from":"Freaky Fred","to":"Fred"}],"pages":{"2038":{"pageid":2038,"ns":0,"title":"Fred"}}}}

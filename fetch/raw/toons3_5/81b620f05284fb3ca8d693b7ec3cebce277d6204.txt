@@ -1,0 +1,1 @@
+{"batchcomplete":"","warnings":{"main":{"*":"Unrecognized parameter: explaintext."},"query":{"*":"Unrecognized value for parameter \"prop\": extracts"}},"query":{"normalized":[{"from":"The_Clutching_Foot","to":"The Clutching Foot"}],"pages":{"2127":{"pageid":2127,"ns":0,"title":"The Clutching Foot"}}}}

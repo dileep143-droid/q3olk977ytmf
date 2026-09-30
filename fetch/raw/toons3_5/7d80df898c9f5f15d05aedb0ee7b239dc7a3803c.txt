@@ -1,0 +1,1 @@
+{"batchcomplete":"","warnings":{"main":{"*":"Unrecognized parameter: explaintext."},"query":{"*":"Unrecognized value for parameter \"prop\": extracts"}},"query":{"normalized":[{"from":"Mime_for_a_Change","to":"Mime for a Change"}],"pages":{"2221":{"pageid":2221,"ns":0,"title":"Mime for a Change"}}}}

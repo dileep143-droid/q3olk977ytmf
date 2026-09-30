@@ -1,0 +1,192 @@
+{
+"https://ben10.fandom.com/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=And_Then_There_Were_10": {
+"file": "b2d2e759ef14e13e65af54ad73e2f7ed5d02f3f2.txt",
+"status": 200,
+"tries": 1
+},
+"https://courage-the-cowardly-dog.fandom.com/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=The_Chicken_from_Outer_Space": {
+"file": "f6c8daf2a14ecd5f6ff8a222833b462ce925b62c.txt",
+"status": 200,
+"tries": 1
+},
+"https://powerpuff.fandom.com/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Monkey_See,_Doggie_Do": {
+"file": "7009d4a65052bef8d70e6c70d85929135d4d555f.txt",
+"status": 200,
+"tries": 1
+},
+"https://ben10.fandom.com/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Washington_B.C.": {
+"file": "c3f816efff14a4f644e6533c019132f172cabe56.txt",
+"status": 200,
+"tries": 1
+},
+"https://courage-the-cowardly-dog.fandom.com/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Courage_in_the_Big_Stinkin'_City": {
+"file": "6a1952b8c5e9ac8005ff6c7293ff09d21c5a4e29.txt",
+"status": 200,
+"tries": 1
+},
+"https://powerpuff.fandom.com/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Octi_Evil": {
+"file": "80e8c75d1f407abbb19a485141ccaffa04dd97f5.txt",
+"status": 200,
+"tries": 1
+},
+"https://ben10.fandom.com/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Permanent_Retirement": {
+"file": "70dee0853f76fc5011bcea0502ab531a614737d5.txt",
+"status": 200,
+"tries": 1
+},
+"https://courage-the-cowardly-dog.fandom.com/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Le_Quack_Attack": {
+"file": "86bd8cd2208e918d169aad7fbb513c52381a479d.txt",
+"status": 200,
+"tries": 1
+},
+"https://powerpuff.fandom.com/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Meet_the_Beat-Alls": {
+"file": "77c9083aec18f4c75e8ae96ccf61263877d018f7.txt",
+"status": 200,
+"tries": 1
+},
+"https://ben10.fandom.com/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Tourist_Trap": {
+"file": "414342307b8e68ebd7581becf94cb2cba61d2096.txt",
+"status": 200,
+"tries": 1
+},
+"https://courage-the-cowardly-dog.fandom.com/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Courage_Meets_the_Mummy": {
+"file": "4c366bbf653204dcd99a63e5bc9bf02ba27383aa.txt",
+"status": 200,
+"tries": 1
+},
+"https://powerpuff.fandom.com/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Mommy_Fearest": {
+"file": "5ea74cf0b772e36c1622a260f625a481ab3d7aa0.txt",
+"status": 200,
+"tries": 1
+},
+"https://ben10.fandom.com/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Secret_of_the_Omnitrix": {
+"file": "5169de7a033f4a485ec1a3692dca7decae078aba.txt",
+"status": 200,
+"tries": 1
+},
+"https://courage-the-cowardly-dog.fandom.com/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=King_Ramses'_Curse": {
+"file": "c97f33544ccaa1e8dac44dccce2d0c1587976f87.txt",
+"status": 200,
+"tries": 1
+},
+"https://powerpuff.fandom.com/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Powerprof": {
+"file": "1350f517dec60ffd7cf6490e6f9b15ed2de11104.txt",
+"status": 200,
+"tries": 1
+},
+"https://ben10.fandom.com/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Ghostfreaked_Out": {
+"file": "399f289c0db9c88dbaea9a15db44d86686197703.txt",
+"status": 200,
+"tries": 1
+},
+"https://courage-the-cowardly-dog.fandom.com/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Freaky_Fred": {
+"file": "2aa56bb17b938127e65578fc3831db9f891872e4.txt",
+"status": 200,
+"tries": 1
+},
+"https://powerpuff.fandom.com/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Twisted_Sister": {
+"file": "8696825994d5ef68c7da29f8f49b490b93076de3.txt",
+"status": 200,
+"tries": 1
+},
+"https://ben10.fandom.com/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Kevin_11": {
+"file": "de3f0a14643cb15263f4f777b1f0ccd01c2630b2.txt",
+"status": 200,
+"tries": 1
+},
+"https://ben10.fandom.com/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=The_Krakken": {
+"file": "b29079af8cf74dea3c3aa511f2f122b694d52e88.txt",
+"status": 200,
+"tries": 1
+},
+"https://courage-the-cowardly-dog.fandom.com/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=The_Clutching_Foot": {
+"file": "81b620f05284fb3ca8d693b7ec3cebce277d6204.txt",
+"status": 200,
+"tries": 1
+},
+"https://powerpuff.fandom.com/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Mime_for_a_Change": {
+"file": "7d80df898c9f5f15d05aedb0ee7b239dc7a3803c.txt",
+"status": 200,
+"tries": 1
+},
+"https://ben10.fandom.com/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Ben_10_vs._the_Negative_10": {
+"file": "1753c040902c72c27c034818210191d9595e025e.txt",
+"status": 200,
+"tries": 1
+},
+"https://courage-the-cowardly-dog.fandom.com/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Perfect": {
+"file": "ccfafe6577b8ac4e88a67076403214b9e6596721.txt",
+"status": 200,
+"tries": 1
+},
+"https://powerpuff.fandom.com/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Bubblevicious": {
+"file": "84b3dcc89589726ee97a8d5c68bb7a17833aff35.txt",
+"status": 200,
+"tries": 1
+},
+"https://ben10.fandom.com/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Ken_10": {
+"file": "8de577c406a385ed927c84d9a68944e2bd7f5fe4.txt",
+"status": 200,
+"tries": 1
+},
+"https://courage-the-cowardly-dog.fandom.com/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=The_Demon_in_the_Mattress": {
+"file": "b15e85a22c931aaa29a5a60efe1dd1c9aa314e69.txt",
+"status": 200,
+"tries": 1
+},
+"https://powerpuff.fandom.com/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Ice_Sore": {
+"file": "0acc790237bf9ad97d82fa0b9fde93a61a805507.txt",
+"status": 200,
+"tries": 1
+},
+"https://ben10.fandom.com/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Tough_Luck?": {
+"file": "da2fb9ccc52312bbb3a7322fa0193a7043bf3549.txt",
+"status": 200,
+"tries": 1
+},
+"https://courage-the-cowardly-dog.fandom.com/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Mother's_Day": {
+"file": "9a23e049a1ea7ce208a302f7749305bc7042e301.txt",
+"status": 200,
+"tries": 1
+},
+"https://powerpuff.fandom.com/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Members_Only": {
+"file": "81b47bdb3fb0fe71ebc77967bca242944ea623a9.txt",
+"status": 200,
+"tries": 1
+},
+"https://ben10.fandom.com/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Haywire": {
+"file": "cccbaa0a4004a59088e2099338e7b2dc2ed60f90.txt",
+"status": 200,
+"tries": 1
+},
+"https://courage-the-cowardly-dog.fandom.com/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Nowhere_TV": {
+"file": "3562e64586177f3e94923fcae193a22979d525b6.txt",
+"status": 200,
+"tries": 1
+},
+"https://ben10.fandom.com/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Side_Effects": {
+"file": "86d8ca150938ae8cf46ade7b12d7c66b81f3cd0e.txt",
+"status": 200,
+"tries": 1
+},
+"https://courage-the-cowardly-dog.fandom.com/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Fishy_Business": {
+"file": "cfb59a773fa40e4c8d1822bcae51934e14de0053.txt",
+"status": 200,
+"tries": 1
+},
+"https://ben10.fandom.com/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Framed": {
+"file": "52da44f5f0638cdbeac076b122cfa79c65e6063c.txt",
+"status": 200,
+"tries": 1
+},
+"https://ben10.fandom.com/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Truth": {
+"file": "af9fbd9a9d9d58325b3a69c6e65fc2b20bbfba88.txt",
+"status": 200,
+"tries": 1
+},
+"https://ben10.fandom.com/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Ben_Gets_Ben_10_Coming": {
+"file": "6e27ca8e28613158b2d2b609b96227b777efb2a0.txt",
+"status": 200,
+"tries": 1
+}
+}

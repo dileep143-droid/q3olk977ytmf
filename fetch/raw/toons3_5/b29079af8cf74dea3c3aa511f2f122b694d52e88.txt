@@ -1,0 +1,1 @@
+{"batchcomplete":"","warnings":{"main":{"*":"Unrecognized parameter: explaintext."},"query":{"*":"Unrecognized value for parameter \"prop\": extracts"}},"query":{"normalized":[{"from":"The_Krakken","to":"The Krakken"}],"pages":{"28888":{"pageid":28888,"ns":0,"title":"The Krakken"}}}}

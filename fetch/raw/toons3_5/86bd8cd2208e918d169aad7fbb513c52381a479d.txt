@@ -1,0 +1,1 @@
+{"batchcomplete":"","warnings":{"main":{"*":"Unrecognized parameter: explaintext."},"query":{"*":"Unrecognized value for parameter \"prop\": extracts"}},"query":{"normalized":[{"from":"Le_Quack_Attack","to":"Le Quack Attack"}],"pages":{"-1":{"ns":0,"title":"Le Quack Attack","missing":""}}}}

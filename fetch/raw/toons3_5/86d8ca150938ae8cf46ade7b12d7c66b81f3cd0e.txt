@@ -1,0 +1,1 @@
+{"batchcomplete":"","warnings":{"main":{"*":"Unrecognized parameter: explaintext."},"query":{"*":"Unrecognized value for parameter \"prop\": extracts"}},"query":{"normalized":[{"from":"Side_Effects","to":"Side Effects"}],"pages":{"1928":{"pageid":1928,"ns":0,"title":"Side Effects"}}}}

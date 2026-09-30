@@ -1,0 +1,1 @@
+{"batchcomplete":"","warnings":{"main":{"*":"Unrecognized parameter: explaintext."},"query":{"*":"Unrecognized value for parameter \"prop\": extracts"}},"query":{"normalized":[{"from":"Courage_Meets_the_Mummy","to":"Courage Meets the Mummy"}],"pages":{"2240":{"pageid":2240,"ns":0,"title":"Courage Meets the Mummy"}}}}

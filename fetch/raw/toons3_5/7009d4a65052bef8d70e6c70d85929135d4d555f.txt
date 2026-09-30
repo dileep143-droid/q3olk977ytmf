@@ -1,0 +1,1 @@
+{"batchcomplete":"","warnings":{"main":{"*":"Unrecognized parameter: explaintext."},"query":{"*":"Unrecognized value for parameter \"prop\": extracts"}},"query":{"normalized":[{"from":"Monkey_See,_Doggie_Do","to":"Monkey See, Doggie Do"}],"pages":{"2795":{"pageid":2795,"ns":0,"title":"Monkey See, Doggie Do"}}}}

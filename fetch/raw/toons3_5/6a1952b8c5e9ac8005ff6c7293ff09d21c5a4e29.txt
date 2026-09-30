@@ -1,0 +1,1 @@
+{"batchcomplete":"","warnings":{"main":{"*":"Unrecognized parameter: explaintext."},"query":{"*":"Unrecognized value for parameter \"prop\": extracts"}},"query":{"normalized":[{"from":"Courage_in_the_Big_Stinkin'_City","to":"Courage in the Big Stinkin' City"}],"pages":{"2301":{"pageid":2301,"ns":0,"title":"Courage in the Big Stinkin' City"}}}}

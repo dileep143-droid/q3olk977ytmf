@@ -1,0 +1,1 @@
+{"batchcomplete":"","warnings":{"main":{"*":"Unrecognized parameter: explaintext."},"query":{"*":"Unrecognized value for parameter \"prop\": extracts"}},"query":{"normalized":[{"from":"Octi_Evil","to":"Octi Evil"}],"pages":{"2209":{"pageid":2209,"ns":0,"title":"Octi Evil"}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","warnings":{"main":{"*":"Unrecognized parameter: explaintext."},"query":{"*":"Unrecognized value for parameter \"prop\": extracts"}},"query":{"normalized":[{"from":"Ice_Sore","to":"Ice Sore"}],"pages":{"2175":{"pageid":2175,"ns":0,"title":"Ice Sore"}}}}
