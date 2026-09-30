@@ -1,0 +1,287 @@
+{
+"https://doraemon.fandom.com/ja/api.php?action=query&prop=revisions&rvprop=content&rvslots=main&format=json&titles=%E3%81%A9%E3%81%93%E3%81%A7%E3%82%82%E3%83%9E%E3%83%B3%E3%83%9B%E3%83%BC%E3%83%AB": {
+"file": "ee9bd1eb41ee6347c45dd488d58750336774f9c1.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/ja/api.php?action=query&prop=revisions&rvprop=content&rvslots=main&format=json&titles=%E3%81%B5%E3%81%86%E3%82%93%E3%83%86%E3%83%BC%E3%83%97": {
+"file": "561237c7cbdddde909604514fb3780e366e4e4f5.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/ja/api.php?action=query&prop=revisions&rvprop=content&rvslots=main&format=json&titles=%E3%81%94%E3%82%81%E3%82%93%E3%81%AD%E3%82%B3%E3%82%AA%E3%83%AD%E3%82%AE": {
+"file": "7790913a942fe7dd5523320b48b345fa79d31a7f.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/ja/api.php?action=query&prop=revisions&rvprop=content&rvslots=main&format=json&titles=%E3%83%8A%E3%83%B3%E3%83%87%E3%83%A2%E3%83%8A%E3%83%AA%E3%82%BF%E3%82%A4%E4%B8%B8": {
+"file": "518245d732365fc63674a181590ff98108530215.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/ja/api.php?action=query&prop=revisions&rvprop=content&rvslots=main&format=json&titles=%E3%83%9B%E3%83%AC%E3%83%9B%E3%83%AC%E5%BC%93": {
+"file": "65263949979a35825a0fddf71d87b751979616c1.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/ja/api.php?action=query&prop=revisions&rvprop=content&rvslots=main&format=json&titles=%E3%83%89%E3%83%A9%E3%81%88%E3%82%82%E3%82%93%E3%81%AE%E6%97%A5%E8%A8%98": {
+"file": "b403b37bb4c56ae9b88290931403f9d3bc455641.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/ja/api.php?action=query&prop=revisions&rvprop=content&rvslots=main&format=json&titles=%E5%A4%A2%E8%A6%8B%E3%83%9C%E3%82%BF%E3%83%B3": {
+"file": "536d259254b54d7f780cbf75f1230d0423bafc27.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/ja/api.php?action=query&prop=revisions&rvprop=content&rvslots=main&format=json&titles=%E3%81%8D%E3%81%A4%E3%81%AD%E3%81%AE%E8%B2%A1%E5%B8%83": {
+"file": "c7241c3889d7da365226c2ec1bcd6bb4c04bbdd7.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/ja/api.php?action=query&prop=revisions&rvprop=content&rvslots=main&format=json&titles=%E8%B2%A7%E4%B9%8F%E7%A5%9E": {
+"file": "33fc51077bd07236e48888e4ae3c414a8b193c45.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/ja/api.php?action=query&prop=revisions&rvprop=content&rvslots=main&format=json&titles=%E7%A6%8F%E3%81%AE%E7%A5%9E": {
+"file": "4254c05b7eaf3da48b80e53e7f07f811b52e4bc4.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/ja/api.php?action=query&prop=revisions&rvprop=content&rvslots=main&format=json&titles=%E3%82%B5%E3%82%A4%E3%83%AC%E3%83%B3%E3%83%9B%E3%82%A4%E3%83%83%E3%82%B9%E3%83%AB": {
+"file": "946f598c5b8f5cccf8a81267e454e03e6e9e49c5.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/ja/api.php?action=query&prop=revisions&rvprop=content&rvslots=main&format=json&titles=%E3%83%81%E3%82%A7%E3%82%B9%E3%83%9E%E3%82%B7%E3%83%B3": {
+"file": "812178cb3938c411239c1727644e5b1e799d73a6.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/ja/api.php?action=query&prop=revisions&rvprop=content&rvslots=main&format=json&titles=%E7%84%A1%E9%99%90%E3%82%B4%E3%83%9F%E7%AE%B1": {
+"file": "57f71d6eedc1d083d1477d21b42b9a22cd990c77.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/ja/api.php?action=query&prop=revisions&rvprop=content&rvslots=main&format=json&titles=%E9%AD%9A%E5%AF%84%E3%81%9B": {
+"file": "dd8af2d94ab201f9752a81b5a37cb3514c0e6e30.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/ja/api.php?action=query&prop=revisions&rvprop=content&rvslots=main&format=json&titles=%E7%A9%BA%E6%B0%97%E7%A0%B2": {
+"file": "2611517bff5fb122198da0eff6a592faddca0373.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/ja/api.php?action=query&prop=revisions&rvprop=content&rvslots=main&format=json&titles=%E7%81%AB%E4%BA%8B%E4%BA%88%E5%A0%B1%E3%82%A2%E3%83%B3%E3%83%86%E3%83%8A": {
+"file": "6561cbbb61a4f565ad936d98b92b7a0601ab10bf.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/ja/api.php?action=query&prop=revisions&rvprop=content&rvslots=main&format=json&titles=%E3%81%99%E3%81%8F%E3%81%99%E3%81%8F%E3%81%9F%E3%81%BE%E3%81%94": {
+"file": "7725b9788785a7b9b0b596aa380fbcf1c3581b36.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/ja/api.php?action=query&prop=revisions&rvprop=content&rvslots=main&format=json&titles=%E6%B5%AE%E3%81%8D%E3%81%A0%E3%81%BE": {
+"file": "8a6d611fc7bcb9b78db6d3484c95fb15fd76dfd3.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/ja/api.php?action=query&prop=revisions&rvprop=content&rvslots=main&format=json&titles=%E3%82%B4%E3%83%BC%E3%83%9B%E3%83%BC%E3%83%A0%E3%82%B9%E3%83%97%E3%83%AC%E3%83%BC": {
+"file": "1d0407fa66568c51ae75753fce1de641c5268c9f.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/ja/api.php?action=query&prop=revisions&rvprop=content&rvslots=main&format=json&titles=%E3%81%B5%E3%82%8A%E3%81%A0%E3%81%97%E3%82%B9%E3%83%97%E3%83%AC%E3%83%BC": {
+"file": "4311b11844308c77ec8a568fb69bfba29e3838fa.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/ja/api.php?action=query&prop=revisions&rvprop=content&rvslots=main&format=json&titles=%E3%81%8B%E3%81%9F%E3%81%A5%E3%81%91%E5%A4%A7%E6%97%8B%E9%A2%A8": {
+"file": "31d0b1736d4a8cc68ad3a3cefb85a158a9587ccf.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/ja/api.php?action=query&prop=revisions&rvprop=content&rvslots=main&format=json&titles=%E3%81%8D%E3%81%9B%E3%81%8B%E3%81%88%E3%82%AB%E3%83%A1%E3%83%A9": {
+"file": "c2d34993c8f65f81c5803ca035fd37ed0edbdf7a.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/ja/api.php?action=query&prop=revisions&rvprop=content&rvslots=main&format=json&titles=%E6%B5%81%E8%A1%8C%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9": {
+"file": "55e96ac6ef38481a469ce5ca79730561ac2ef6d9.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/ja/api.php?action=query&prop=revisions&rvprop=content&rvslots=main&format=json&titles=%E9%81%8B%E5%91%BD%E3%81%AE%E9%8F%A1": {
+"file": "229bc2f73562ad01fb1588756f4374ab94589324.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/ja/api.php?action=query&prop=revisions&rvprop=content&rvslots=main&format=json&titles=%E6%9C%AA%E6%9D%A5%E3%82%AC%E3%83%A9%E3%82%B9": {
+"file": "7e0a04d24191c5f4cc493f6493e6de9e88131e8b.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/ja/api.php?action=query&prop=revisions&rvprop=content&rvslots=main&format=json&titles=%E3%83%95%E3%83%AA%E3%83%BC%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AC%E3%81%84%E3%81%90%E3%82%8B%E3%81%BF": {
+"file": "3f58e52c2a273f0cd17035dae525dff4300ed6bb.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/ja/api.php?action=query&prop=revisions&rvprop=content&rvslots=main&format=json&titles=%E3%81%B2%E3%81%A8%E3%82%8A%E3%82%82%E3%81%A1": {
+"file": "ee3ec2b8d4eec10b81f777d90636124e41aba5f1.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/ja/api.php?action=query&prop=revisions&rvprop=content&rvslots=main&format=json&titles=%E3%83%89%E3%83%AA%E3%83%BC%E3%83%A0%E3%83%9E%E3%82%B7%E3%83%B3": {
+"file": "c2e0ac56f0c6bb793f2829f89e3b3450f61c01dc.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/ja/api.php?action=query&prop=revisions&rvprop=content&rvslots=main&format=json&titles=%E3%81%8A%E5%8A%A9%E3%81%91%E3%83%81%E3%82%A7%E3%83%83%E3%82%AB%E3%83%BC": {
+"file": "27ac49bbf643325e649ab75d58c0de0354c57b8b.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/ja/api.php?action=query&prop=revisions&rvprop=content&rvslots=main&format=json&titles=%E3%82%B8%E3%83%A3%E3%82%A4%E3%82%A2%E3%83%B3%E3%82%B7%E3%83%81%E3%83%A5%E3%83%BC": {
+"file": "4a85d987faa16fe6022558e0ba5ec43df9472961.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/ja/api.php?action=query&prop=revisions&rvprop=content&rvslots=main&format=json&titles=%E3%82%B4%E3%83%AB%E3%83%95%E9%81%93%E5%85%B7": {
+"file": "34240f1814200dcbcabbbcc1ac75863c0534bc5b.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/ja/api.php?action=query&prop=revisions&rvprop=content&rvslots=main&format=json&titles=%E3%81%AD%E3%81%8C%E3%81%84%E3%81%94%E3%81%A8%E3%82%AB%E3%83%A1%E3%83%A9": {
+"file": "57507033d39eef6e017b442f1c08418cdc42d051.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/ja/api.php?action=query&prop=revisions&rvprop=content&rvslots=main&format=json&titles=%E6%B0%97%E8%B1%A1%E3%82%AB%E3%83%AC%E3%83%B3%E3%83%80%E3%83%BC": {
+"file": "61e3b640f4a1015143653cb29bb22e8fdb5bed85.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/ja/api.php?action=query&prop=revisions&rvprop=content&rvslots=main&format=json&titles=%E5%9C%B0%E7%90%83%E5%84%80%E3%83%9A%E3%83%B3%E3%82%B7%E3%83%AB": {
+"file": "97cff261444fb1c5cdbe6ed97c640e21b3fbce4c.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/ja/api.php?action=query&prop=revisions&rvprop=content&rvslots=main&format=json&titles=%E3%83%9B%E3%83%BC%E3%83%A0%E3%82%B7%E3%83%83%E3%82%AF": {
+"file": "5aa946260905f77c188e936a2485e4005c0970e2.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/ja/api.php?action=query&prop=revisions&rvprop=content&rvslots=main&format=json&titles=%E3%82%AA%E3%82%B3%E3%83%8E%E3%83%9F%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9": {
+"file": "019fc459ad5d0e99f63ab69af4886c756dfd6abd.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/ja/api.php?action=query&prop=revisions&rvprop=content&rvslots=main&format=json&titles=%E3%81%86%E3%81%9D800": {
+"file": "096e2989334afe799c78cc967fd2ebb957f86639.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/ja/api.php?action=query&prop=revisions&rvprop=content&rvslots=main&format=json&titles=%E3%82%BD%E3%83%8E%E3%82%A6%E3%82%BD%E3%83%9B%E3%83%B3%E3%83%88": {
+"file": "c4de09c6c8103c64a18f774a66475abd68be890b.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/ja/api.php?action=query&prop=revisions&rvprop=content&rvslots=main&format=json&titles=%E3%83%89%E3%83%A9%E3%81%88%E3%82%82%E3%82%93%E3%82%A6%E3%82%A9%E3%83%83%E3%83%81": {
+"file": "56464c65e0a750c3754eb93c3cccc222d9c5a383.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/ja/api.php?action=query&prop=revisions&rvprop=content&rvslots=main&format=json&titles=%E3%81%8A%E3%82%82%E3%81%84%E3%81%A7%E3%82%AB%E3%82%BB%E3%83%83%E3%83%88": {
+"file": "cdcf90838018e32e90d606f887769b870296faf6.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/ja/api.php?action=query&prop=revisions&rvprop=content&rvslots=main&format=json&titles=%E3%81%86%E3%82%8F%E3%81%95%E9%80%9A%E4%BF%A1%E6%A9%9F": {
+"file": "617783c64ccd685ff27a206c45dd818e9c55751a.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/ja/api.php?action=query&prop=revisions&rvprop=content&rvslots=main&format=json&titles=%E3%82%BF%E3%82%A4%E3%83%A0%E3%81%B5%E3%82%8D%E3%81%97%E3%81%8D": {
+"file": "b45c4516d6763cf11ae472ffd8159d0e380fbbf7.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/ja/api.php?action=query&prop=revisions&rvprop=content&rvslots=main&format=json&titles=%E4%BA%BA%E9%96%93%E3%82%AB%E3%83%A1%E3%83%A9": {
+"file": "69a6d4b6f572755ca76c14fca07b05b44d3b51aa.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/ja/api.php?action=query&prop=revisions&rvprop=content&rvslots=main&format=json&titles=%E3%81%B5%E3%81%97%E3%81%8E%E3%81%AA%E8%B1%86": {
+"file": "0f930dfc64536addc46dec82ae482ad02de53b3b.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/ja/api.php?action=query&prop=revisions&rvprop=content&rvslots=main&format=json&titles=%E9%80%86%E3%81%95%E5%91%BC%E5%90%B8": {
+"file": "fc349dba2651e86faf0ab32346ab45f59842bff2.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/ja/api.php?action=query&prop=revisions&rvprop=content&rvslots=main&format=json&titles=%E3%81%AE%E3%82%8D%E3%81%84%E3%81%AE%E3%82%AB%E3%83%A1%E3%83%A9": {
+"file": "6b7652fa6c9edc35300fb57a2ecb8528a29b5f51.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/ja/api.php?action=query&prop=revisions&rvprop=content&rvslots=main&format=json&titles=%E3%82%B5%E3%82%A4%E3%82%B3%E3%83%AD%E4%BA%BA%E5%BD%A2": {
+"file": "d7dc6330af64fcec8d65c4bd106815b54b8da478.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/ja/api.php?action=query&prop=revisions&rvprop=content&rvslots=main&format=json&titles=%E3%83%9F%E3%83%8B%E3%83%81%E3%83%A5%E3%82%A2%E3%83%A9%E3%83%B3%E3%83%89": {
+"file": "d34bb2a46a3b5dfd00637a6080601f4183c4da8d.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/ja/api.php?action=query&prop=revisions&rvprop=content&rvslots=main&format=json&titles=%E7%A9%BA%E6%83%B3%E3%83%9A%E3%83%B3%E3%82%B7%E3%83%AB": {
+"file": "230e223cf2bc3cc4ce17737510eb464976ecdb0d.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/ja/api.php?action=query&prop=revisions&rvprop=content&rvslots=main&format=json&titles=%E9%A2%A8%E8%88%B9%E9%9B%BB%E8%A9%B1": {
+"file": "92ac359d792d698c3273e9fd2913b31b89efebf0.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/ja/api.php?action=query&prop=revisions&rvprop=content&rvslots=main&format=json&titles=%E3%81%8A%E3%81%B0%E3%81%91%E5%B1%8B%E6%95%B7": {
+"file": "5895a12f91afa1753896032c2353c2f49aa2d87e.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/ja/api.php?action=query&prop=revisions&rvprop=content&rvslots=main&format=json&titles=%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%9C%E4%BA%BA%E5%BD%A2": {
+"file": "e564fc5ee5fcca055a136de25db4c64463179226.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/ja/api.php?action=query&prop=revisions&rvprop=content&rvslots=main&format=json&titles=%E3%82%AB%E3%83%AA%E3%82%AB%E3%83%AA%E4%B8%B8": {
+"file": "c1c4b8c016123954d9acf9723c671d17441ab70d.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/ja/api.php?action=query&prop=revisions&rvprop=content&rvslots=main&format=json&titles=%E3%83%9C%E3%82%B1%E9%98%B2%E6%AD%A2%E8%96%AC": {
+"file": "c0e668efc90ce58b4c3dc480353969a25399639b.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/ja/api.php?action=query&prop=revisions&rvprop=content&rvslots=main&format=json&titles=%E3%82%82%E3%81%AE%E3%81%BE%E3%81%AD%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88": {
+"file": "679382d07754c7a74790e9e5792e7810a887a8d2.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/ja/api.php?action=query&prop=revisions&rvprop=content&rvslots=main&format=json&titles=%E3%82%B4%E3%83%B3%E3%82%B9%E3%82%B1": {
+"file": "206a0cfd8c5ebaa61c7dd2c5d7737190a501ccaf.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/ja/api.php?action=query&prop=revisions&rvprop=content&rvslots=main&format=json&titles=%E3%81%BB%E3%82%93%E3%82%84%E3%81%8F%E3%82%B3%E3%83%B3%E3%83%8B%E3%83%A3%E3%82%AF": {
+"file": "b09edd9aab0e1d9888a6fb5de58e4842c98afd9b.txt",
+"status": 200,
+"tries": 1
+}
+}
