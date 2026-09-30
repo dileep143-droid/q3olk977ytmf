@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"search":[{"ns":0,"title":"\u30af\u30ed\u30fc\u30f3","pageid":10517,"size":661,"wordcount":3,"snippet":"","timestamp":"2019-03-24T13:50:49Z"},{"ns":0,"title":"\u9053\u5177\u4e00\u89a7","pageid":1434,"size":60321,"wordcount":50,"snippet":"","timestamp":"2024-02-10T08:44:05Z"}]}}

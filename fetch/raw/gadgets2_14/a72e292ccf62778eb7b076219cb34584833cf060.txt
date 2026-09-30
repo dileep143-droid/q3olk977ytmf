@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"search":[{"ns":0,"title":"\u304a\u305f\u3075\u304f\u304b\u305c","pageid":9615,"size":1122,"wordcount":5,"snippet":"","timestamp":"2019-03-24T11:55:29Z"},{"ns":0,"title":"\u3057\u3083\u308c\u5b50\u3061\u3083\u3093","pageid":8088,"size":519,"wordcount":4,"snippet":"","timestamp":"2023-07-18T08:25:58Z"}]}}
