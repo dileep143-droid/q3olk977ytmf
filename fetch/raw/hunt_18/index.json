@@ -1,0 +1,142 @@
+{
+"https://hi.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=%E0%A4%9B%E0%A5%8B%E0%A4%9F%E0%A4%BE%20%E0%A4%AD%E0%A5%80%E0%A4%AE": {
+"file": "992c580d6022d0f04f776f98f3cf9de1cb21d52b.txt",
+"status": 200,
+"tries": 1
+},
+"https://ja.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Mr.%E3%83%93%E3%83%BC%E3%83%B3": {
+"file": "efeb187ce616a5c1fd95ef267ab01cddf41a4352.txt",
+"status": 200,
+"tries": 1
+},
+"https://zh.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=%E9%BB%91%E8%89%B2%E4%BA%94%E8%91%89%E8%8D%89": {
+"file": "8c1c76679dfd4c3b01541093270f8811ed340227.txt",
+"status": 200,
+"tries": 1
+},
+"https://hi.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=%E0%A4%97%E0%A5%8B%E0%A4%B2%E0%A4%AE%E0%A4%BE%E0%A4%B2%20%E0%A4%9C%E0%A5%82%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%B0": {
+"file": "28282ce758b4ebe3d8395de29e79d32b72f96844.txt",
+"status": 200,
+"tries": 1
+},
+"https://zh.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=BLEACH%20%28%E5%8B%95%E7%95%AB%29": {
+"file": "d93ec7b9c1eb74a505e9fe87364f31e80718edb9.txt",
+"status": 200,
+"tries": 1
+},
+"https://ja.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=%E6%9D%B1%E4%BA%AC%E5%8D%8D%E3%83%AA%E3%83%99%E3%83%B3%E3%82%B8%E3%83%A3%E3%83%BC%E3%82%BA": {
+"file": "227bf01aa0ea2683c0b0bbb4379d0543e8fe1eb5.txt",
+"status": 200,
+"tries": 1
+},
+"https://hi.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=%E0%A4%95%E0%A5%80%E0%A4%AE%E0%A5%8B%E0%A4%A8%20%E0%A4%90%E0%A4%9A%E0%A5%87": {
+"file": "11bf144ff2d76491f1e6c3f4313cee9e864d740a.txt",
+"status": 200,
+"tries": 1
+},
+"https://zh.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Dr.STONE%20%E6%96%B0%E7%9F%B3%E7%B4%80": {
+"file": "212fd0696fab4663429122780760c41010d2846a.txt",
+"status": 200,
+"tries": 1
+},
+"https://hi.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=%E0%A4%AE%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A4%B0%20%E0%A4%AC%E0%A5%80%E0%A4%A8": {
+"file": "748367401f7b5bf25fcda1e3d02106d62d7405fd.txt",
+"status": 200,
+"tries": 1
+},
+"https://zh.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=%E9%98%BF%E5%B0%94%E5%8D%91%E6%96%AF%E5%B1%B1%E7%9A%84%E5%B0%91%E5%A5%B3": {
+"file": "e108ef6831738a6cc27e8c5e960be9bed7d639a1.txt",
+"status": 200,
+"tries": 1
+},
+"https://zh.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=HUNTER%C3%97HUNTER%20%282011%E5%B9%B4%E5%8B%95%E7%95%AB%29": {
+"file": "813b62ab205857496da95ca3ef14c5c61374d1cd.txt",
+"status": 200,
+"tries": 1
+},
+"https://hi.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=%E0%A4%B0%E0%A5%8B%E0%A4%B2%20%E0%A4%A8%E0%A4%82%E0%A4%AC%E0%A4%B0%2021": {
+"file": "5e4a59757a1a9c305ab5ce6bb2057c60f27aafa0.txt",
+"status": 200,
+"tries": 1
+},
+"https://zh.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=%E5%86%92%E9%9A%AA%E7%8E%8B%E5%A5%87%E5%85%8B": {
+"file": "59cce032cf158a5e05b392de915509764c310cb1.txt",
+"status": 200,
+"tries": 1
+},
+"https://hi.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=%E0%A4%B5%E0%A5%80%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%3A%20%E0%A4%A6%20%E0%A4%B0%E0%A5%8B%E0%A4%AC%E0%A5%8B%E0%A4%9F%20%E0%A4%AC%E0%A5%89%E0%A4%AF": {
+"file": "7968bb12d4e65d5b2d52f67577480540e42ca912.txt",
+"status": 200,
+"tries": 1
+},
+"https://zh.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=%E7%94%B7%E5%AD%A9%E5%92%8C%E5%86%A4%E5%AE%B6%E7%8C%AB": {
+"file": "e3befc3f4a30380d492c6cc6a6a2e2a9c00fc8ad.txt",
+"status": 200,
+"tries": 1
+},
+"https://zh.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=%E5%A5%87%E5%A4%A9%E7%83%88%E5%A4%A7%E7%99%BE%E7%A7%91": {
+"file": "ad46df567f5b27a101c4e7210c9bd1ae67bfde43.txt",
+"status": 200,
+"tries": 1
+},
+"https://zh.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=%E5%8F%A4%E8%A7%81%E5%90%8C%E5%AD%A6%E6%9C%89%E4%BA%A4%E6%B5%81%E9%9A%9C%E7%A2%8D%E7%97%87": {
+"file": "a32f6ca5390e0fbb9dc750c078a09eac13cd355d.txt",
+"status": 200,
+"tries": 1
+},
+"https://zh.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=%E5%A4%96%E8%B2%8C%E6%AD%A7%E8%A6%96": {
+"file": "6cc9c204b0e0b31aab4e0894a8e6d2f7c2f168a8.txt",
+"status": 200,
+"tries": 1
+},
+"https://zh.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=%E7%B1%B3%E5%A5%87%E5%A6%99%E5%A6%99%E5%B1%8B": {
+"file": "2f1602c9156f06fe4426aab8df53ebdd62b3dc4a.txt",
+"status": 200,
+"tries": 1
+},
+"https://zh.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=MONSTER%20%28%E6%BC%AB%E7%95%AB%29": {
+"file": "92fff5dc972f35ed9d822b939d086f7f5eb47b4e.txt",
+"status": 200,
+"tries": 1
+},
+"https://zh.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=%E6%88%87%E8%B1%86%E5%85%88%E7%94%9F": {
+"file": "e7c58d890c8e85de9dc1ef90de67bdb8633f3675.txt",
+"status": 200,
+"tries": 1
+},
+"https://zh.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=%E6%88%91%E7%9A%84%E8%8B%B1%E9%9B%84%E5%AD%B8%E9%99%A2": {
+"file": "04aa65cf502f935b93c8bc8a1e3866cc61506a1b.txt",
+"status": 200,
+"tries": 1
+},
+"https://zh.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=%E9%A3%9B%E5%93%A5%E8%88%87%E5%B0%8F%E4%BD%9B": {
+"file": "b0cd4bce2f72bad722ca21296c67e82780aad926.txt",
+"status": 200,
+"tries": 1
+},
+"https://zh.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Re%3A%E5%BE%9E%E9%9B%B6%E9%96%8B%E5%A7%8B%E7%9A%84%E7%95%B0%E4%B8%96%E7%95%8C%E7%94%9F%E6%B4%BB": {
+"file": "c6a258251a42b2bc1cb65f9b5e6490defc92339c.txt",
+"status": 200,
+"tries": 1
+},
+"https://zh.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=SAKAMOTO%20DAYS%20%E5%9D%82%E6%9C%AC%E6%97%A5%E5%B8%B8": {
+"file": "d5bd909c9148327972468de93e9764f2f8b23620.txt",
+"status": 200,
+"tries": 1
+},
+"https://zh.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=%E6%88%91%E7%8D%A8%E8%87%AA%E5%8D%87%E7%B4%9A": {
+"file": "40721efcee63a813937245be28e81db09f212908.txt",
+"status": 200,
+"tries": 1
+},
+"https://zh.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=%E4%BB%99%E7%8E%8B%E7%9A%84%E6%97%A5%E5%B8%B8%E7%94%9F%E6%B4%BB": {
+"file": "5a24a9afa1e9feeaf9fa55824db93ffab64a05a9.txt",
+"status": 200,
+"tries": 1
+},
+"https://zh.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=%E6%9D%B1%E4%BA%AC%E5%8D%8D%E5%BE%A9%E4%BB%87%E8%80%85": {
+"file": "58db8c381ed0a65341322425c8d6f8b17a49872b.txt",
+"status": 200,
+"tries": 1
+}
+}
