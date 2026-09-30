@@ -7,11 +7,15 @@ jobs:
     timeout-minutes: 8
     steps:
       - run: pip install -q -U yt-dlp
-      - run: |
+      - env:
+          YT_COOKIES: ${{ secrets.YT_COOKIES }}
+        run: |
+          C=""
+          if [ -n "$YT_COOKIES" ]; then printf '%s\n' "$YT_COOKIES" > cookies.txt; C="--cookies cookies.txt"; echo "cookies: $(grep -vc '^#' cookies.txt) lines"; else echo "no cookies secret"; fi
           for v in PzpCxGdBwC0 S52oAm5NKRA 5pffikpLakA; do
             echo "== $v"
-            python3 -m yt_dlp --no-warnings --simulate --extractor-args "youtube:player_client=android,web" --print "%(id)s %(duration)s %(title).50s" "https://www.youtube.com/watch?v=$v" || echo "SIMULATE FAILED"
+            python3 -m yt_dlp --no-warnings --simulate $C --extractor-args "youtube:player_client=web,android" --print "%(id)s %(duration)s %(title).50s" "https://www.youtube.com/watch?v=$v" || echo "SIMULATE FAILED"
           done
           echo "== download test"
-          python3 -m yt_dlp --no-warnings --extractor-args "youtube:player_client=android,web" -f "bestaudio/best" -o "t.%(ext)s" "https://www.youtube.com/watch?v=PzpCxGdBwC0" && ls -la t.* && echo "DOWNLOAD OK" || echo "DOWNLOAD FAILED"
-          rm -f t.*
+          python3 -m yt_dlp --no-warnings $C --extractor-args "youtube:player_client=web,android" -f "bestaudio/best" -o "t.%(ext)s" "https://www.youtube.com/watch?v=PzpCxGdBwC0" && ls -la t.* && echo "DOWNLOAD OK" || echo "DOWNLOAD FAILED"
+          rm -f t.* cookies.txt

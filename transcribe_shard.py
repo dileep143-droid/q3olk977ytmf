@@ -32,6 +32,10 @@ FAN = re.compile(r"gta|franklin|minecraft|gameplay|free ?fire|real life|thug lif
 TEL = re.compile(r"telugu|[ఀ-౿]", re.I)
 BLOCK = re.compile(r"not a bot|Sign in to confirm|This video is not available|HTTP Error 429|timed out|Requested format|ffmpeg", re.I)
 CLIENT = ["--extractor-args", "youtube:player_client=android,web"]
+if os.environ.get("YT_COOKIES", "").strip():           # the owner's own YouTube cookies (Netscape format) from the YT_COOKIES secret
+    open("cookies.txt", "w", encoding="utf-8").write(os.environ["YT_COOKIES"])
+    CLIENT = ["--cookies", "cookies.txt", "--extractor-args", "youtube:player_client=web,android"]
+    print("using cookies", flush=True)
 def all_progress():
     p = {}
     for f in glob.glob(os.path.join(OUT, "progress*.json")):

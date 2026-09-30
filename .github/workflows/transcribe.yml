@@ -21,6 +21,7 @@ jobs:
       - env:
           GEMINI_API_KEYS: ${{ secrets.GEMINI_API_KEYS }}
           REPO_TOKEN: ${{ secrets.REPO_TOKEN }}
+          YT_COOKIES: ${{ secrets.YT_COOKIES }}
           SHARD: ${{ matrix.shard }}
           SHARDS: ${{ github.event.inputs.shards || '6' }}
           PRIVATE_REPO: dileep143-droid/upsc-cloud
