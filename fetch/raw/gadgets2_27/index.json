@@ -1,0 +1,32 @@
+{
+"https://doraemon.fandom.com/wiki/Human_Controller?action=raw": {
+"file": "5064a45f50b04eeb6a25647bf44e1dcde1f1a8ea.txt",
+"status": 403,
+"tries": 1
+},
+"https://doraemon.fandom.com/wiki/Forgetting_Bird?action=raw": {
+"file": "0cb30987e818605edf51f29b645135dd1ffed4fc.txt",
+"status": 403,
+"tries": 1
+},
+"https://doraemon.fandom.com/wiki/Speed_Clock?action=raw": {
+"file": "fba2c398ed1f6aaeafdc5f9667ce627e75f920b3.txt",
+"status": 403,
+"tries": 1
+},
+"https://doraemon.fandom.com/wiki/Human_Controller_Frame?action=raw": {
+"file": "5954c3b5888aaad00fb8d7da03dbbf2159cce9ab.txt",
+"status": 403,
+"tries": 1
+},
+"https://doraemon.fandom.com/wiki/Reminder_Bird?action=raw": {
+"file": "a215a608a0cbb299a3de1ff5ca343803aeb1c5db.txt",
+"status": 403,
+"tries": 1
+},
+"https://doraemon.fandom.com/wiki/Day-Night_Speed_Clock?action=raw": {
+"file": "606d26359d0a1d4457a4e9923dc44744ce0a19c5.txt",
+"status": 403,
+"tries": 1
+}
+}
