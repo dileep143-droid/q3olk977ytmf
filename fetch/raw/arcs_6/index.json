@@ -1,0 +1,37 @@
+{
+"https://en.wikipedia.org/w/api.php?action=parse&prop=wikitext&redirects=1&format=json&formatversion=2&page=Bleach:_Thousand-Year_Blood_War": {
+"file": "c575da7e0169267823ead5176543d4f95fdef46e.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=parse&prop=wikitext&redirects=1&format=json&formatversion=2&page=Bleach:_Thousand-Year_Blood_War_(season_1)": {
+"file": "5912721940d49a034e307f7a317b73eaaf31eb34.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=parse&prop=wikitext&redirects=1&format=json&formatversion=2&page=Black_Clover_(season_4)": {
+"file": "8e8b81d0ba7156a5c89b5e206b708025758f074b.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=parse&prop=wikitext&redirects=1&format=json&formatversion=2&page=Black_Clover_season_4": {
+"file": "42434cb0db27a00434753ab7235963d3bdd73511.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=parse&prop=wikitext&redirects=1&format=json&formatversion=2&page=List_of_Black_Clover_episodes": {
+"file": "42a64ba782100fe21d59e7af51d77ea46b3bc493.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=parse&prop=wikitext&redirects=1&format=json&formatversion=2&page=Black_Clover": {
+"file": "7dfb439cdd9404cefe871b7205540c298c2d50ef.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=parse&prop=wikitext&redirects=1&format=json&formatversion=2&page=Bleach_(TV_series)": {
+"file": "d7d22b8ba69f1c311999ba8c64cce784d3d3bc2c.txt",
+"status": 200,
+"tries": 1
+}
+}
