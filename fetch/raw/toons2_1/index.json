@@ -2,7 +2,7 @@
 "https://ja.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&format=json&titles=パーマン": {
 "file": "c0cb204227bbea0fc973ccf6cecc86d1a9c4d9d6.txt",
 "status": 0,
-"tries": 1
+"tries": 2
 },
 "https://chhotabheem.fandom.com/api.php?action=query&list=allpages&aplimit=500&format=json": {
 "file": "cf608bef3b48df44290b8abec85cadc81f0d2ea9.txt",
@@ -37,7 +37,7 @@
 "https://ja.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&format=json&titles=パーマン_(アニメ)": {
 "file": "1a22e67eb557785252ee4ebf94f5ccc9541be125.txt",
 "status": 0,
-"tries": 1
+"tries": 2
 },
 "https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&format=json&titles=List_of_Chhota_Bheem_films": {
 "file": "42e1011c051db8f18f5cd30bb31d1fc2369ec35d.txt",
@@ -57,7 +57,7 @@
 "https://ja.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&format=json&titles=キテレツ大百科": {
 "file": "2b2d91b35742d71d731d421499103b7aa8f6d70f.txt",
 "status": 0,
-"tries": 1
+"tries": 2
 },
 "https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&format=json&titles=Mighty_Raju": {
 "file": "36fe8267e2d1eafef70e6743ccbfa1c37d7db866.txt",
@@ -67,7 +67,7 @@
 "https://ja.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&format=json&titles=キテレツ大百科の登場人物": {
 "file": "04a7b9b5e6f5787b5feaccb7283fd94299bb28b3.txt",
 "status": 0,
-"tries": 1
+"tries": 2
 },
 "https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&format=json&titles=Mighty_Raju_Rio_Calling": {
 "file": "f2b2443b278cf2b6c9b830c81c8cc0096bddb864.txt",

@@ -1,0 +1,226 @@
+{{short description|Japanese manga series by Fujiko F. Fujio}}
+{{More citations needed|date=July 2025}}
+{{Use mdy dates|date=July 2025}}
+
+{{Infobox animanga/Header
+| name = Kiteretsu Daihyakka
+| image = KiteretsuDaihyakka-vol1.jpg
+| caption = Volume 1 of the ''Kiteretsu Daihyakka'' manga
+| ja_kanji = キテレツ大百科
+| ja_romaji = 
+| genre = <!-- Note: Use and cite reliable sources to identify genre/s, not personal interpretation. Please don't include more than three genres (per [[MOS:A&M]]). -->
+}}
+{{Infobox animanga/Print
+| type        = manga
+| author      = [[Fujiko Fujio]] (Fujimoto alone){{efn|Fujimoto used the pen name "Fujiko F. Fujio" from 1989 onwards.}}
+| publisher   = [[Central Union of Agricultural Cooperatives|Family Light Association]] (Magazine)<br/>[[Shogakukan]] (Volumes)
+| imprint     = Tentōmushi Comics
+| magazine    = [[Chagurin|Kodomo no Hikari]]
+| first       = April 1974
+| last        = July 1977
+| volumes     = 3
+| volume_list = 
+}}
+{{Infobox animanga/Video
+| type            = tv film
+| title           = Fujiko Fujio's Kiteretsu Daihyakka
+| director        = [[Takashi Watanabe]]
+| producer        = 
+| music           = {{ill|Katsunori Ichida|ja|石田勝範}}
+| studio          = [[Gallop (studio)|Studio Gallop]]
+| network         = [[Fuji Network System|FNS]] ([[Fuji Television|Fuji TV]])
+| released        = November 2, 1987
+}}
+{{Infobox animanga/Video
+| type            = tv series
+| director        = Hiro Katsuoka<br/>Keiji Hayakawa
+| producer        = {{unbulleted list|Kenji Shimizu (Fuji TV)|Minoru Wada (Fuji TV)|[[Yoshihiro Suzuki]] (Fuji TV)|Yoshio Kataoka (Asatsu)|Kazuhiko Ishikawa (Asatsu)|Tateshi Yamazaki (Asatsu)|Yutaka Sugiyama (Asatsu)|Akio Wakana ([[Gallop (studio)|Gallop]])|[[Tetsuo Kanno]] (Staff 21)}}
+| writer          = {{unbulleted list|[[Shun'ichi Yukimuro]]|[[Takashi Yamada]]|Toshiyuki Aoshima|Satoshi Namiki|Tadaaki Yamazaki}}
+| music           = [[Shunsuke Kikuchi]]
+| studio          = [[Gallop (studio)|Studio Gallop]]
+| network         = FNS (Fuji TV)
+| network_en      = {{English anime networks
+| IN = [[Cartoon Network (India)|Cartoon Network]]
+}}
+| first           = March 27, 1988
+| last            = June 9, 1996
+| episodes        = 331 
+| episode_list    = List of Kiteretsu episodes
+}}
+<!--{{Infobox animanga/Video
+| type            = tv series
+| director        = Hiro Katsuoka<br/>Keiji Hayakawa
+| producer        = {{unbulleted list|Kenji Shimizu (Fuji TV)|Minoru Wada (Fuji TV)|[[Yoshihiro Suzuki]] (Fuji TV)|Yoshio Kataoka (Asatsu)|Kazuhiko Ishikawa (Asatsu)|Tateshi Yamazaki (Asatsu)|Yutaka Sugiyama (Asatsu)|Akio Wakana ([[Gallop (studio)|Gallop]])|[[Tetsuo Kanno]] (Staff 21)}}
+| writer          = {{unbulleted list|[[Shun'ichi Yukimuro]]|[[Takashi Yamada]]|Toshiyuki Aoshima|Satoshi Namiki|Tadaaki Yamazaki}}
+| music           = [[Shunsuke Kikuchi]]
+| studio          = [[Gallop (studio)|Gallop]]
+| network         = [[Fuji TV]]
+| network_en      = {{English anime networks
+| IN = [[Cartoon Network (India)|Cartoon Network]]
+}}
+| first           = '''Special'''<br/>November 2, 1987<br/>'''Regular episodes'''<br/>March 27, 1988
+| last            = June 9, 1996
+| episodes        = 331 + 1 special
+| episode_list    = List of Kiteretsu episodes
+}} -->
+{{Infobox animanga/Print
+| type        = manga
+| title       = Shin Kiteretsu Daihyakka
+| author      = {{ill|Fujiko F. Fujio|ja|藤子・F・不二雄}}
+| illustrator = Michiaki Tanaka
+| publisher   = [[Shogakukan]]
+| imprint     = Tentōmushi Comics
+| magazine    = [[CoroCoro Comic]]
+| first       = May 1988
+| last        = February 1994
+| volumes     = 6
+| volume_list = 
+}}
+{{Infobox animanga/Other
+|title = Video games
+|content =
+* ''Kiteretsu Daihyakka'' (1990)
+* ''Kiteretsu Daihyakka: Bouken Ouedo Juraki'' (1994)
+* ''Kiteretsu Daihyakka: Chōjikū Sugoroku'' (1995)
+}}
+{{Infobox animanga/Footer}}
+{{nihongo|'''''Kiteretsu Daihyakka'''''|キテレツ大百科||"Kiteretsu Large Encyclopedia"; commonly shortened to '''''Kiteretsu'''''}} is a Japanese [[manga]] series by {{ill|Fujiko F. Fujio|ja|藤子・F・不二雄}},{{efn|Previously credited under the [[Fujiko Fujio]] name until 1987.}} which ran in the children's [[magazine]] ''[[Chagurin|Kodomo no Hikari]]'' from April 1974 to July 1977. The manga was later made into an animated anthology television special which aired in 1987 on [[Fuji Television]] and its affiliates and a [[Kiteretsu Daihyakka (TV series)|331-episode]] [[anime]] television series that ran on the same channel from March 27, 1988, to June 9, 1996.
+
+==Plot==
+The series is the story of a scientific inventor boy genius named Eiichi Kite, a descendant of an inventor named Kiteretsu Saisama, who has built a companion robot named Korosuke. His friends are Miyoko, a girl in his neighborhood who has a crush on him, Buta Gorira (Kumada Kaoru), a local bully, and Tongari, a rich boy. They all attend the same school and are in the same grade. Eiichi goes on frequent adventures with his friends and Korosuke in the time machine which he built.
+
+==Characters==
+[[File:Kawasakicitybus-w-1878.jpg|thumb|upright=1.14|Drawings of Eiichi Kite and friends used on buses to and from the Fujiko F. Fujio Museum]]
+
+; {{nihongo|Eiichi Kite|木手英一|Kite Eiichi}} (a.k.a., {{nihongo|Kiteretsu|キテレツ|}})
+: An 11-year-old 5th grader who lives in [[Tokyo]]. He is a child prodigy with a strong mechanical and inventive attitude, but the only thing he is weak at is [[sports]]. He can repair normal machines and invent variations of the Daihyakka gadgets. {{voiced by|[[Toshiko Fujita]]}}.
+; {{nihongo|Korosuke|コロ助|}}
+: Kiteretsu's lazy robot assistant who usually ends his sentences with {{nihongo|''nari''|ナリ|}}. He usually wears an artificial samurai sword. He is an invention in the encyclopedia. He was made by Kiteretsu himself. {{voiced by|[[Mami Koyama]] and later by [[Kazuko Sugiyama]]}}.
+; {{nihongo|Miyoko Nonohana|野々花みよ子|Nonoha Miyoko}} (a.k.a., {{nihongo|Miyo-chan|みよちゃん|}}))
+: A very intelligent girl who is one of Kiteretsu's best friends, and Kiteretsu's love interest. She is shown to be Kiteretsu's future wife in several time-travel episodes. She resembles Michiko Sawada from [[Perman]]. {{voiced by|[[Yuriko Yamamoto]], followed by [[Mayumi Shō]] and [[Chieko Honda]]}}.
+; {{nihongo|Kaoru Kumada|熊田薫|Kumada Kaoru}} (a.k.a., {{nihongo|Butagorira|ブタゴリラ|}})
+: One of Kiteretsu's friends who is the son of a green grocer who loves vegetables. He is a typical bully, but is mostly comic relief. {{voiced by|[[Hiroshi Ōtake]] and later by [[Naoki Tatsuta]]}}.
+; {{nihongo|Kōji Tongari|尖浩二|Tongari Kōji}} (a.k.a., {{nihongo|Tongari|トンガリ|}})
+: A rich boy and one of Kiteretsu's friends. He is easily frightened, and a best friend of Butagorira, though is quite often bullied by him. {{voiced by|[[Ryū Manatsu]] and later by [[Yūji Mitsuya]]}}.
+; Benzō Karino
+: A friend and mentor of Kiteretsu and his friends, as well as a university student. He owns a car.  {{voiced by|[[Kaneta Kimotsuki]]}}.
+; Kiteretsu Saisama                                                                                                                       
+: Kiteretsu Saisama is the great grand father of Eiatro Kite and the great great grandfather of Eiichi Kite. In Eiichi's dreams he mostly speaks to him. An ancestor respected by Eiichi Kite and an inventor of the [[Edo period|Edo]] period.{{voiced by|Adult [[Katsuji Mori]] and Child by [[Daisuke Sakaguchi]]}}.                                 
+                                                                                                                                 
+; Michiko Kite (木手美智子 Kite Michiko)
+: Kiteretsu's mother. {{voiced by|Yuri Nashiwa and later by [[Sumi Shimamoto]]}}.
+; Eitarō Kite
+: Kiteretsu's father. {{voiced by|[[Hideyuki Tanaka]] and later by [[Yusaku Yara]]}}.
+; Kumahachi Kumada
+: Butagorira's father.He owns a vegetable shop {{voiced by|[[Takeshi Aono]]}}.
+; Sayuri Kumada
+: Butagorira's mother. {{voiced by|[[Noriko Uemura]]}}.
+; Kōichi Tongari
+: Tongari's father. {{voiced by|Sanshirō Niita, followed by [[Hirohiko Kakegawa]] and [[Masato Hirano (voice actor)|Masato Hirano]]}}.
+; Takako Tongari
+: Tongari's mother. {{voiced by|Yuka Ōno}}.
+
+==Media==
+===Manga===
+*''Kiteretsu Daihyakka'' vol. 1–3 (Tentōmushi Comics, [[Shogakukan]], 1977)
+*''Kiteretsu Daihyakka'' vol. 1–4 (Fujiko F. Fujio Land, [[Chūō Kōron Shinsha]], 1984)
+*''Kiteretsu Daihyakka'' vol. 1–2 (Shogakukan Koro r Bunko, Shogakukan, 1984)
+*''My First BIG Kiteretsu'' vol. 1–2 (Shogakukan, 2003)
+
+===Anime===
+The manga was later adapted into an anime series, which aired on [[Fuji Television|Fuji TV]] between March 27, 1988, and June 9, 1996.
+
+====Staff====
+*Planning: Taihei Ishikawa→Kenji Shimizu ([[Fuji Television|Fuji TV]]), [[Yoshirō Kataoka]] ([[Asatsu]])
+*Producers:
+**Kenji Shimizu→Minoru Wada→[[Yoshihiro Suzuki]] (Fuji TV)
+**Yoshio Kataoka→Kazuhiko Ishikawa→Tateshi Yamazaki→Yutaka Sugiyama (Asatsu)
+**Akio Wakana ([[Gallop (studio)|Gallop]])
+**[[Tetsuo Kanno]] (Staff 21)
+*Script: [[Shun'ichi Yukimuro]], [[Takashi Yamada]], Toshiyuki Aoshima, Satoshi Namiki, Tadaaki Yamazaki
+*General Animation Directors: Tsukasa Tannai, Kazuyuki Kobayashi, [[Watanabe Hajime (animator)|Hajime Watanabe]], Nobuyuki Tokinaga, Shōjurō Yamauchi
+*Art director: Shichirō Kobayashi→Satoshi Shibata
+*Backgrounds: Kobayashi Production, Studio Kanon
+*Director of photography: Shigeo Sugimura (credited as Yasuhiro Shimizu for part of it)→Hiroaki Edamitsu
+*Music director: Nobuhiro Komatsu
+*Music: [[Shunsuke Kikuchi]]
+*Director: Hiro Katsuoka→Keiji Hayakawa
+*Executive Producer: Mikio Wakana
+*Sound Producer: [[Yōsuke Kuroda]]
+
+====Theme songs====
+=====Opening theme songs=====
+Listing includes the song title followed by the episodes and the singer in parentheses.
+
+*''Kiteretsu Daihyakka no Uta'' (キテレツ大百科のうた "The Song of Kiterestu Encyclopedia") (90-minute special on November 2, 1987, [[Mitsuko Horie]])
+#''Oyome-san ni Natte Agenaizo'' (お嫁さんになってあげないゾ "I won't be your bride") (ep. 1–24, [[Kaori Moritani]])
+#''Body dake Lady'' (ボディーだけレディー "Only a body is a lady") (ep. 25–60, Junko Uchida)
+#''Yumemiru Jikan'' (夢みる時間 "Dreaming time") (ep. 61–86, Megumi Mori)
+#''Hajimete no Chū'' (はじめてのチュウ "My first kiss") (ep. 87–108, Anshin Papa)
+#''Suimin Busoku'' (スイミン不足 "Lack of sleep") (ep. 109–170, Chicks)
+#''Oryōri Kōshinkyoku'' (お料理行進曲 "Cooking march") (ep. 171–331, [[Yuka (singer, born 1970)|Yuka]])
+
+=====Ending theme songs=====
+Listing includes the song title followed by the episodes and the singer in parentheses.
+
+*''Korosuke Machi wo Yuku'' (コロ助まちをゆく) (90-minute special, [[Fushigi Yamada|Kyōko Yamada]])
+#''Magical Boy Magical Heart'' (マジカルBoyマジカルHeart) (ep. 1–16, Kaori Moritani)
+#''Lace no Cardigan'' (レースのカーディガン) (ep. 17–24, [[Kaori Sakagami]])
+#''Korosuke Rock'' (コロ助ROCK) (ep. 25–60, Junko Uchida)
+#''Felt no Pencase'' (フェルトのペンケース) (ep. 61–86, Megumi Mori)
+#''Merry ha tada no Tomodachi'' (メリーはただのトモダチ) (ep. 87–108, [[Toshiko Fujita]])
+#''Hajimete no Chū'' (はじめてのチュウ) (ep. 109–170, 213–290, 311–331, Anshin Papa)
+#''Happy Birthday'' (ep. 171–212, Yuka)
+#''Uwasa  Kiss'' (うわさのキッス) (ep. 291–310, [[TOKIO]])
+
+====International broadcast====
+In Spain, The series was licensed for Spain by LUK Internacional under the title of "Kiteretsu, el primo más listo de [[Nobita Nobi|Nobita]]" (English translation: ''Kiteretsu, Nobita's Smarter Cousin'').<ref>{{Cite web|title=LUK Internacional|url=http://lukinternacional.com/es/catalogo/kiteretsu.html|access-date=2021-06-24|website=lukinternacional.com|archive-date=2021-06-24|archive-url=https://web.archive.org/web/20210624204038/http://lukinternacional.com/es/catalogo/kiteretsu.html|url-status=dead}}</ref>
+
+===Games===                                                                                                                                   
+* On February 23, 1990, [[Epoch (company)|Epoch]] released an action game for the [[Nintendo Entertainment System|Famicom]].
+* On July 15, 1994, another action game, ''Kiteretsu Daihyakka: Bouken Ouedo Juraki'', was released by Video System for the Game Boy.
+* A [[board game]] titled ''Kiteretsu Daihyakka: Chōjikū Sugoroku'' was released on January 27, 1995, by Video System for the [[Super Nintendo Entertainment System|Super Famicom]].
+* Another game was made for the [[Sega Pico]].{{Citation needed|date=June 2012}}
+
+===Television drama===  
+A 1 hour-15 minute one-shot live action [[Japanese television drama|drama]] adaptation aired on [[NHK Educational TV]] on January 1, 2002. The adaptation featured a [[computer-generated imagery|CGI]] Korosuke voiced by [[Mami Koyama]].<ref>{{cite web |script-title=ja:ドラマ愛の詩スペシャル・キテレツ |url=https://www.nhk.or.jp/archives/chronicle/detail/?crnid=A200201011830001300200 |website=NHK Chronicle |publisher=[[NHK|Japan Broadcasting Corporation]] |access-date=May 21, 2025 |language=ja}}</ref>
+
+==Reception==
+The anime was ranked 31st on a list published by [[TV Asahi]] in 2005 of the top 100 anime.<ref>{{cite web|url=https://www.animenewsnetwork.com/news/2005-09-23/tv-asahi-top-100-anime-part-2|title=TV Asahi Top 100 Anime Part 2|date=September 23, 2005|access-date=May 9, 2015|work=[[Anime News Network]]}}</ref> The series was said to be "little more than a respray of the creators' earlier and far more successful ''[[Doraemon]]''".<ref>{{Cite book |last=Clements |first=Jonathan |url=https://www.google.pt/books/edition/The_Anime_Encyclopedia_3rd_Revised_Editi/E03KBgAAQBAJ?hl=fr&gbpv=1&dq=Kiteretsu+Daihyakka+(1988+TV+series)&pg=PT1054&printsec=frontcover |title=The Anime Encyclopedia, 3rd Revised Edition: A Century of Japanese Animation |last2=McCarthy |first2=Helen |date=2015-02-09 |publisher=Stone Bridge Press |isbn=978-1-61172-909-2 |language=en}}</ref> The Review Geek indeed noted that, "In some instances, ''Kiteretsu Encyclopedia'' feels like a ''Doraemon'' clone. This series not only shares the same creator as ''Doraemon''; it follows a similar episodic premise involving a robot and a human. This show includes a cartoon-like art style and is an enjoyable series to watch when you feel stressed or worn out".<ref>{{Cite web |last=Arroyo |first=Jose |date=2022-10-21 |title=10 TV Shows/Anime Like Doraemon {{!}} TheReviewGeek Recommends |url=https://www.thereviewgeek.com/10tvshows-doraemon/ |access-date=2025-02-01 |website=The Review Geek |language=en-GB}}</ref>
+
+The same media wrote that the series "relie[d] on its charming family dynamics and varied humor to keep the audience entertained".<ref>{{Cite web |last=Arroyo |first=Jose |date=2023-05-19 |title=10 TV Shows/Anime Like Crayon Shin-Chan {{!}} TheReviewGeek Recommends |url=https://www.thereviewgeek.com/10tvshows-crayonshinchan/ |access-date=2025-02-01 |website=The Review Geek |language=en-GB}}</ref>
+
+==Notes==
+{{reflist|group="n"}}
+{{reflist|group="lower-alpha"}}
+
+==References==
+{{reflist}}
+
+==External links==
+{{Portal|Children's literature}}
+*[http://www.mxtv.co.jp/kiteretsu/ Official Tokyo MX website] {{Webarchive|url=https://web.archive.org/web/20150407065917/http://www.mxtv.co.jp/kiteretsu/|date=2015-04-07}}
+*{{anime News Network|anime|228}}
+
+{{Portal bar|Japan|Science fiction|Anime and manga|1970s|1980s|1990s}}
+{{Fujiko Fujio}}
+
+[[Category:1974 manga]]
+[[Category:1977 comics endings]]
+[[Category:1988 manga]]
+[[Category:1994 comics endings]]
+[[Category:1987 television films]]
+[[Category:1987 anime films]]
+[[Category:1988 Japanese television series debuts]]
+[[Category:1996 Japanese television series endings]]
+[[Category:Japanese children's animated comedy television series]]
+[[Category:Animated children's television sitcoms]]
+[[Category:Anime series based on manga]]
+[[Category:Fuji Television original programming]]
+[[Category:Gallop (studio)]]
+[[Category:Children's manga]]
+[[Category:CoroCoro Comic]]
+[[Category:Fujiko F Fujio]]
+[[Category:Shogakukan manga]]
+[[Category:Shogakukan franchises]]
+[[Category:Shunsuke Kikuchi]]

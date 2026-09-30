@@ -1,0 +1,698 @@
+{{Otheruses}}
+{{Redirectlist|キテレツ|コンテンツ制作会社|KITERETSU|アイドルグループ|KEY TO LIT}}
+{{Pathnavbox|
+* {{Pathnav|[[藤子不二雄]]（[[藤子不二雄の連載一覧|連載]]）|[[藤子・F・不二雄]]（[[藤子・F・不二雄の著作一覧|著作]]）}}
+* {{Pathnav|[[藤子不二雄]]|[[藤子不二雄#実写|実写]]|this=キテレツ}}
+}}
+{{特殊文字|説明=藤子不二雄(A)/(F)の丸A/F}}
+{{Infobox animanga/Header
+|タイトル=キテレツ大百科
+|ジャンル=[[幼年漫画|児童]]・[[SF漫画|SF]]・[[生活]]・[[ギャグ漫画]]
+}}
+{{Infobox animanga/Manga
+|作者=[[藤子不二雄]]<ref group="注">発表当時は[[藤子不二雄]]名義 （[[藤本弘]]単独執筆作）。1988年の独立を経て、1989年以降は単行本の名義を[[藤子・F・不二雄]]に変更。</ref>
+|出版社=[[家の光協会]]
+|他出版社= [[小学館]]（TC、文庫、F全）<br />[[中央公論新社|中央公論社]]（FF）<br />{{flagicon|TWN}} [[大然文化]]<br />{{flagicon|HKG}} 安樂文潮
+|掲載誌=[[ちゃぐりん|こどもの光]]
+|レーベル= [[てんとう虫コミックス]] (TC)<br />[[藤子不二雄ランド]] (FF)<br />[[小学館コロコロ文庫]]（文庫）<br />[[藤子・F・不二雄大全集]]（F全）
+|開始号=1974年4月号
+|終了号=1977年7月号
+|巻数= TC：全3巻<br />FF：全4巻<br />文庫・F全：全2巻
+|話数=全40話
+|その他=
+}}
+{{Infobox animanga/Manga
+|タイトル=新キテレツ大百科
+|作者=藤子・F・不二雄
+|作画=[[田中道明]]
+|出版社=小学館
+|他出版社={{flagicon|TWN}} [[青文出版社]]<br />{{flagicon|HKG}} 安樂文潮
+|掲載誌=[[月刊コロコロコミック]]
+|レーベル= てんとう虫コミックス
+|開始号=1988年5月号
+|終了号=1994年2月号
+|巻数= 全6巻
+|話数=
+|その他=
+}}
+{{Infobox animanga/TVDrama
+|タイトル=キテレツ
+|原作= 藤子・F・不二雄
+|監督=
+|演出= 一色隆司
+|制作= [[NHKエンタープライズ|NHKエンタープライズ21]]
+|放送局=[[NHK教育テレビジョン]]
+|放送開始=2002年1月1日18:30
+|放送終了=19:45
+|話数=1話
+|その他=
+}}
+{{Infobox animanga/Other
+|タイトル = アニメ
+|コンテンツ =
+* [[キテレツ大百科 (アニメ)|キテレツ大百科]]
+** 90分スペシャル（1987年）
+** テレビシリーズ（1988年 - 1996年）
+}}
+{{Infobox animanga/Footer}}
+
+『'''キテレツ大百科'''』（キテレツだいひゃっか）は、[[藤子不二雄]]名義で1974年に発表された[[日本]]の児童向け[[SF漫画|SF]][[生活]][[ギャグ漫画]]作品<ref name="mori36-37">「第1の森 生活ギャグ漫画の世界」『Fの森の歩き方』36-37頁</ref>。
+
+藤本弘（後の[[藤子・F・不二雄]]）による単独執筆作。
+
+以下、記事中の各話の話数・副題は、特記のない限り〈[[藤子・F・不二雄大全集]]〉版に準拠する。
+
+== 概要 ==
+=== 特徴 ===
+[[発明]]好きの小学生・[[木手英一]]（通称：'''キテレツ'''）が、[[江戸時代]]の発明家であった先祖・'''キテレツ斎'''の残した書物『'''奇天烈大百科'''』（キテレツだいひゃっか）を基に様々な発明道具を作り、その発明道具で起こす騒動を描く。
+
+[[タイムマシン]]が登場するなど、[[サイエンス・フィクション]]作品としての一面を持つ<ref>『藤子・F・不二雄大全集 月報』2-2（『キテレツ大百科』2巻付録）2頁</ref>。
+
+藤本は平凡な日常の中に異世界のキャラクターを投入してそのズレによって笑いを作り出す「生活ギャグ漫画」を多く執筆したが、本作はこの「生活ギャグ漫画」から発展した作品の一つであり、異世界要素である発明道具を主人公自らが作り上げ、ものを作り上げる喜びや楽しみが描かれている点が大きな特徴となっている<ref name="mori36-37" /><ref>「キテレツ大百科」『Fの森の歩き方』86-87頁</ref>。こうしたものを作り上げる喜びや楽しみ描写は、工作を愛した藤本の趣味が反映されたものと考えられている<ref name="mori36-37" />。
+
+=== 初出・収録 ===
+初出は子ども向け雑誌『[[ちゃぐりん|こどもの光]]』（[[家の光協会]]）で、1974年（昭和49年）4月号から1977年（昭和52年）7月号にかけて全40回が[[藤子不二雄]]名義で連載された。
+
+同誌における藤本の連載作としては『[[ドビンソン漂流記]]』<ref group="注">1971年1月号から1972年12月号まで連載。</ref>の終了よりおよそ1年ぶりの作品であり、3作目<ref group="注">ただし、連載1作目の「[[名犬タンタン]]」は[[安孫子素雄]]との合作（連載開始当初の原作は[[久米みのる]]）。</ref>かつ最後の連載作品となっている<ref group="注">読切はこの後にも2編（共に[[藤子・F・不二雄のSF短編|少年SF短編]]）が掲載されている。</ref>。
+
+本作は藤本が多くの連載を抱えていた時期に連載されている。本作と同時に連載されていたのは最大で8タイトル。本作の連載開始から終了までの間には合計14タイトルが並行して連載されている（詳細は[[#並行連載]]を参照）。
+
+発行元の[[家の光協会]]が[[農業協同組合|農協]]系の出版団体であったために掲載誌の『[[ちゃぐりん|こどもの光]]』は一般書店では取り扱いがなく、連載当時にはマイナーな作品であった<ref group="注">藤子ファンであり、『キテレツ大百科』連載中の1975年頃に[[アシスタント (漫画)|アシスタント]]となった[[田中道明]]も、アシスタントに入るまで本作を知らなかった。</ref><ref name="cwff1" />。
+
+本作は連載中には単行本化されなかった。1977年6月に本作の最終回が掲載された『こどもの光』7月号が発行され、その2か月後の8月に最初の単行本の第1巻が[[小学館]]の〈[[てんとう虫コミックス]]〉レーベル（以下てんコミ）で発行された。同10月に第2巻、同12月に第3巻が発行され完結した。単行本への収録にあたり、多くの加筆・修正が行われた。ただし、全40話のうち、7話は単行本に収録されなかった。
+
+本作の全40話が収録された初の単行本は、1985年に[[中央公論社]]の〈[[藤子不二雄ランド]]〉で発行された（全4巻）。この際にも多数の加筆・修正が行われた。
+
+本作の漫画本編を藤本が執筆した年代をまとめると下記の通りになる。
+
+* 1974年〜1977年：雑誌連載。
+* 1977年：てんとう虫コミックス用の加筆・修正。
+* 1985年：藤子不二雄ランド用の加筆・修正。
+
+話によってキャラクターの設定や顔が異なっている箇所があるが、いずれの単行本でも統一・修正はされていない<ref group="注">例：キテレツの父親は第1話をはじめとしてほとんどの場合は眼鏡をかけた厚い唇の人物として描かれているが、最終話では眼鏡をかけず唇も厚くはなく、全く外見の異なる人物として描かれている。</ref>。
+
+その他の単行本を含む詳細は[[#単行本]]を参照。
+
+=== メディア展開 ===
+連載終了より10年以上が経った1987年（昭和62年）に[[テレビアニメ]]化され、翌1988年（昭和63年）からレギュラー放送を開始し、8年続く長寿番組となった（詳細は[[キテレツ大百科 (アニメ)]]を参照）。このアニメ化に合わせて<ref name="cwff1">[[田中道明]]「藤子まんがから僕が学んだこと」『キテレツ大百科』2巻 〈藤子・F・不二雄大全集〉352-355頁。</ref>、同年より[[田中道明]]によるリメイク作品『新キテレツ大百科』が『[[月刊コロコロコミック]]』で連載されている（詳細は[[#新キテレツ大百科]]を参照。なお連載時には「新」の文字はなく、単行本のみにあった）。このアニメ化に伴い、それまでマイナー作品だった本作の知名度は大きく上昇することとなった。
+
+1990年（平成2年）以降、4度ゲーム化された（詳細は[[#ゲーム]]を参照）。
+
+2002年（平成14年）には『キテレツ』のタイトルで[[テレビドラマ]]化された（詳細は[[#テレビドラマ]]を参照）。
+
+== あらすじ ==
+'''キテレツ'''こと木手英一は[[発明]]が大好きな小学生だが発明品はいつも失敗ばかり。
+
+ある日、[[発明家]]であった先祖の'''キテレツ斎'''がその発明道具を書き記したと伝えられる'''奇天烈大百科'''を父から譲り受けるも全てが白紙で何も書かれていなかった。一度は落胆するも共に伝わった[[眼鏡]]・'''神通鏡'''を通して見た場合にのみ読めることを発見し、第1作として、からくり人間（[[ロボット]]）の'''[[コロ助]]'''を作り上げる。
+
+以降、キテレツはコロ助を助手とし、大百科の発明を次々と作り上げ、時に人助けを行い、時にトラブルを起こしていく。
+
+だが、一年以上たった<ref group="注">「潜地球」の回で「'''去年作った'''かべぬけ服」という説明があるので、最低でも「モグラ・マンション」から「潜地球」で1年間経過している。</ref>ある日大百科を母親がゴミと間違えて捨ててしまい、必死の捜索も間に合わずに大百科は灰燼に帰してしまう。大百科を失ったキテレツだが、大百科に頼らない自力での発明を目指し勉強を始める。コロ助はキテレツの成長を喜ぶのだった。
+
+== 登場人物==<!-- 漫画での名前、設定のみを記載 -->
+[[File:Kawasakicitybus-w-1878.jpg|thumb|250px|藤子・F・不二雄ミュージアム発着バスに使用されているキテレツたちのイラスト]]
+{{Main|キテレツ大百科の登場人物}}
+; [[キテレツ大百科の登場人物#木手家|キテレツ]]（木手英一）
+: 本作の主人公で、発明が大好きな小学生<ref name="アニメージュ198805">『[[アニメージュ]]』1988年5月号、131頁</ref>。『奇天烈大百科』を参考として、様々な発明道具を自作する。常に[[バイザー|サンバイザー]]と神通鏡を身につけている。発明に夢中になると群を抜いた集中力を見せ、周りが見えなくなる<ref>「F系男子という生き方」『Fの森の歩き方』182頁</ref><ref name="mori88">『Fの森の歩き方』88頁</ref>。<!-- 自作の発明品を用いた不正を好まず ※#2からイカサマ野球を自らしているのでひとまずコメントアウトしました-->、困難に対しては自分の力で挑戦しようとする信念を持つ。
+: TVアニメ版では、表野町小学校の五年生。『奇天烈大百科』の内容は全てデータ化してパソコンに保存してある。優秀で知的な[[秀才]]的な側面が強調されて描かれており、このタイプの主人公は藤本作品では例が少ない<ref name="mori88" /><!-- 漫画版は間の抜けた描写も多く、知的で優等生的なふるまいはアニメに多いので、優秀で知的という形容部分はひとまずアニメの段落に入れました -->。運動神経が悪いのが欠点。『奇天烈大百科』から自作した様々な発明品でトラブルを解決する存在として、作中の様々なキャラクターから信頼を集めており、冒険先でもリーダーシップを発揮して仲間達を導く。理科や算数などが得意で、自室の[[パソコン]]に保存してあるデータから自作の発明品を参照する際、[[ブラウン管|CRT]]に（本来ならば[[高等学校]]の[[教育課程]]の[[学習指導要領]]で[[学習]]する）[[数学|高等学校数学]]の[[方程式]]が瞬間的に表示される場面がある。色々な発明品を作ったりする都合上、手先が非常に器用でピッキングによって鍵を開けるという隠れた能力を持っている。
+; [[コロ助]]
+: 本作の準主人公。<!-- マスコットキャラクター。※作中でマスコットとして扱われていると誤解されかねないのでひとまずコメントアウトしました -->意思や感情を持ちしゃべることもできるからくり人間<ref name="mori88" />。キテレツが『奇天烈大百科』を読んではじめに作った発明品であり<ref name="ep1">第1話「ワガハイはコロ助ナリ」</ref>、以降キテレツの助手を務める。頭に[[丁髷]]を結い、語尾に「〜ナリ」をつけて話す<ref name="アニメージュ198805"/>。<!-- ロボットである為性別は存在しないが、名前や性格は男性寄り。-->キテレツと共に全話に登場している。
+; [[キテレツ大百科の登場人物#キテレツ斎|キテレツ斎]]
+: キテレツが尊敬している先祖で、[[江戸時代]]の発明家。[[オットー・リリエンタール|リリエンタール]]の[[グライダー]]よりも前に[[飛行機]]を完成させたが、「怪しげな術を用いて世間を騒がせた」として捕まり、死ぬまで[[座敷牢]]に軟禁された。自分の発明を密かに『奇天烈大百科』として書き残し子孫に伝えた<ref name="アニメージュ198805"/><ref name="ep1" />。
+; [[キテレツ大百科の登場人物#みよちゃんとその家族|みよちゃん]]（みよ子<ref>名字は不明。</ref>）
+: 本作のヒロイン。キテレツとは昔からの友達<ref>第23話「人間植物リリー」</ref>でクラスメイト<ref>『Fの森の歩き方』89頁</ref>。キテレツとは互いに密かに思いを寄せ合っている<ref>『Fの森の歩き方』94頁</ref>。
+; [[キテレツ大百科の登場人物#ブタゴリラとその家族|ブタゴリラ]]<!-- 熊田薫はアニメのみの設定なのでここには記載しない -->
+: キテレツのクラスメイトで[[ガキ大将]]<ref name="アニメージュ198805"/>。コロ助をよくからかっている<ref name="アニメージュ198805"/>。
+; [[キテレツ大百科の登場人物#トンガリとその家族|トンガリ]]<!-- 尖浩二はアニメのみの設定なのでここには記載しない -->
+: キテレツのクラスメイトで資産家の息子。ブタゴリラの腰巾着のような存在<ref name="アニメージュ198805"/>。
+
+== 発明道具 ==
+本作はキテレツが『奇天烈大百科』を参考として発明道具を作り、その発明道具によって騒動が起きるというのが基本[[プロット (物語)|プロット]]となっている。毎話新しい発明道具が必ず登場し、一度出た道具の再登場はほとんどない。例外は第25話「物置でアフリカへ」に登場した熱気球が第38話「仙鏡水」にも再登場しているのみ。
+
+『奇天烈大百科』は目には見えない光を出すインクで書かれており、この光を感知できる眼鏡・'''神通鏡'''を通さなければ読むことができない。
+
+以下、各話に登場する発明道具と簡単な説明を列記する。各発明道具の詳細については、発明道具名からのリンク（いずれも[[キテレツ大百科の発明道具]]内の該当記述へリンクしている）先を参照のこと。
+
+{| class="wikitable" style="font-size:smaller; float:left"
+! style="white-space:nowrap" | 話 !! 副題 !! 発明道具 !! 説明
+|-
+! 1
+| ワガハイはコロ助ナリ || からくり人形 || [[ロボット]]（[[コロ助]]）
+|-
+! 2
+| 脱時機でのんびり || [[キテレツ大百科の発明道具#脱時機|脱時機]] || 時間を止める
+|-
+! 3
+| しん気ろうでやっつけろ || [[キテレツ大百科の発明道具#蜃気楼鏡|蜃気楼鏡]] || [[蜃気楼]]を作る
+|-
+! rowspan="2" | 4
+| rowspan="2" | キッコー船の冒険 || [[キテレツ大百科の発明道具#亀甲船|亀甲船]] || [[潜水艦]]
+|-
+| style="white-space:nowrap" | [[キテレツ大百科の発明道具#酸素製造薬|酸素製造薬]]<ref group="注" name="noname">名称は作中では登場しないため、『Fの森の歩き方』に因る。</ref> || [[水]]から[[酸素]]を作る
+|-
+! 5
+| 聞き耳ずきん || [[キテレツ大百科の発明道具#聞き耳ずきん|聞き耳ずきん]] || 動物と話せる
+|-
+! 6
+| 片道タイムマシン || [[キテレツ大百科の発明道具#航時機|航時機]] || [[タイムマシン]]
+|-
+! 7
+| モグラ・マンション || [[キテレツ大百科の発明道具#かべぬけ服|かべぬけ服]] || 物体をすり抜ける
+|-
+! rowspan="2" | 8
+| rowspan="2" | 江戸時代の月面図 || [[キテレツ大百科の発明道具#昇月紗|昇月紗]] || [[重力]]を調整する
+|-
+| [[キテレツ大百科の発明道具#千里鏡|千里鏡]] || 無線[[ファクシミリ|ファックス]]
+|-
+! 9
+| 公園の恐竜 || [[キテレツ大百科の発明道具#夢遊境|夢遊境]] || 場所を入れ替える
+|-
+! 10
+| キテレツの団体 || [[キテレツ大百科の発明道具#分身機|分身機]] || 複製を作る
+|-
+! 11
+| 冥府刀 || [[キテレツ大百科の発明道具#冥府刀|冥府刀]] || [[4次元|四次元]]へ行く
+|-
+! rowspan="2" | 12
+| rowspan="2" | 一寸ガードマン || [[キテレツ大百科の発明道具#一寸法師|一寸法師]] || [[警備員|ガードマン]]ロボット
+|-
+| [[キテレツ大百科の発明道具#一寸法師|打ち出のマイク]] || 一寸法師に命令する
+|-
+! 13
+| style="white-space:nowrap" | チョーチンおばけ捕物帖 || [[キテレツ大百科の発明道具#召し捕り人|召し捕り人]] || 不正取締りロボット
+|-
+! 14
+| 地震の作り方 || [[キテレツ大百科の発明道具#地震発生機|地震発生機]] || 疑似[[地震]]を発生
+|-
+! 15
+| サイボーグキンちゃん || [[キテレツ大百科の発明道具#加楽利生物台|加楽利生物台]] || 生物を[[サイボーグ]]化
+|-
+! 16
+| 潜地球 || [[キテレツ大百科の発明道具#潜地球|潜地球]] || 地中に潜る乗り物
+|-
+! rowspan="2" | 17
+| rowspan="2" | 水ねん土で子どもビル || [[キテレツ大百科の発明道具#粘土水|粘土水]] || [[水]]を[[粘土]]の様にする
+|-
+| [[キテレツ大百科の発明道具#粘土水|戻すガス]]<ref group="注">名称は作中では登場しない</ref> || 元の水に戻す
+|-
+! 18
+| うらみキャンデー || [[キテレツ大百科の発明道具#うらみ糖|うらみ糖]] || style="white-space:nowrap" | 恨みを[[幽霊]]に実体化
+|-
+! 19
+| 失恋はラブミ膏 || [[キテレツ大百科の発明道具#羅部身膏|羅部身膏]] || 異性を惹く
+|-
+! 20
+| らくらくハイキング || [[キテレツ大百科の発明道具#天狗の抜け穴|天狗の抜け穴]] || [[ワープ#時空間歪曲型|ワープ]]道具
+|}
+{| class="wikitable" style="font-size:smaller; float:left"
+! style="white-space:nowrap" | 話 !! 副題 !! colspan="2" | 発明道具 !! colspan="2" | 説明
+|-
+! 21
+| 念力帽 || colspan="2" | [[キテレツ大百科の発明道具#念力帽|念力帽]] || colspan="2" | [[念力]]が使える
+|-
+! 22
+| 如意光で引っこし || colspan="2" | [[キテレツ大百科の発明道具#如意光|如意光]] || colspan="2" | 物体を拡大・縮小
+|-
+! 23
+| 人間植物リリー || colspan="2" | [[キテレツ大百科の発明道具#人間植物|人間植物]] || colspan="2" | 人間のような植物
+|-
+! 24
+| わすれん帽 || colspan="2" | [[キテレツ大百科の発明道具#忘れん帽|忘れん帽]] || colspan="2" | 嫌な記憶を吸い取る
+|-
+! 25
+| 物置でアフリカへ || colspan="2" | [[キテレツ大百科の発明道具#熱気球|熱気球]] || colspan="2" | 小型で高性能な[[熱気球]]
+|-
+! 26
+| 宇宙怪魔人 || colspan="2" | [[キテレツ大百科の発明道具#夢幻燈|夢幻燈]] || colspan="2" | 高性能[[ビデオカメラ]]
+|-
+! 27
+| style="white-space:nowrap" | 動物芝居を作るナリ || colspan="2" | [[キテレツ大百科の発明道具#獣類操り機|獣類操り機]] || colspan="2" | 動物を操る
+|-
+! 28
+| 地獄へいらっしゃい || colspan="2" | [[キテレツ大百科の発明道具#地獄|地獄]] || colspan="2" | [[テーマパーク]]
+|-
+! rowspan="2" | 29
+| rowspan="2" | 海底の五億円 || colspan="2" | [[キテレツ大百科の発明道具#宝物探知機|宝物探知機]] || colspan="2" | [[宝|宝物]]の探知機
+|-
+| colspan="2" | [[キテレツ大百科の発明道具#水中呼吸膏|水中呼吸膏]]<ref group="注" name="noname" /> || colspan="2" | 水中で[[呼吸]]可能になる
+|-
+! 30
+| ネパール・オパール || colspan="2" | [[キテレツ大百科の発明道具#ビードロ丹|ビードロ丹]] || colspan="2" | [[透明人間]]になる薬
+|-
+! 31
+| ボール紙の町 || style="white-space:nowrap" colspan="2" | [[キテレツ大百科の発明道具#こども町正門|こども町正門]]<ref group="注" name="noname" /> || colspan="2" | 通ると小さくなる
+|-
+! rowspan="2" | 32
+| rowspan="2" | スーパー天狗 || rowspan="2" | [[キテレツ大百科の発明道具#枢破天狗|枢破天狗]] || 怪力面 || style="white-space:nowrap" | 怪力になる|| rowspan="2" | 正義の味方<br />変身セット
+|-
+| style="white-space:nowrap" | 羽うちわ || 風を操る
+|-
+! 33
+| おもい出カメラ || colspan="2" | [[キテレツ大百科の発明道具#回古鏡|回古鏡]] || colspan="2" | 過去を写す[[カメラ]]
+|-
+! 34
+| 空き地の銀世界 || colspan="2" | [[キテレツ大百科の発明道具#奇天烈スキー|奇天烈スキー]]<ref group="注" name="noname" /> || colspan="2" | 周りを広く感じる
+|-
+! 35
+| ままごとハウス || colspan="2" | [[キテレツ大百科の発明道具#こころみの家|こころみの家]] || style="white-space:nowrap" colspan="2" | 入ると疑似[[夫婦]]になる
+|-
+! 36
+| 遊魂帽
+| colspan="2" | [[キテレツ大百科の発明道具#遊魂帽|遊魂帽]] || colspan="2" | [[幽体離脱]]ができる
+|-
+! 37
+| 超鈍速ジェット機 || colspan="2" | [[キテレツ大百科の発明道具#空中遊歩台|空中遊歩台]] || colspan="2" | 超鈍足[[ジェット機]]
+|-
+! rowspan="3" | 38
+| rowspan="3" | 仙鏡水 || colspan="2" | [[キテレツ大百科の発明道具#仙鏡水|仙鏡水]] || colspan="2" | 乗れる[[雲]]を作る
+|-
+| colspan="2" | [[キテレツ大百科の発明道具#仙鏡水|雲シャベル]] || colspan="2" | 乗れる雲を加工する
+|-
+| colspan="2" | [[キテレツ大百科の発明道具#熱気球|熱気球]] || colspan="2" | 25話からの再登場
+|-
+! 39
+| 唐倶利武者 || colspan="2" | [[キテレツ大百科の発明道具#唐倶利武者|唐倶利武者]] || colspan="2" | [[侍]]のロボット
+|-
+! 40
+| さらば大百科 || colspan="2" | [[キテレツ大百科の発明道具#操縦座|操縦座]] || colspan="2" | 動物の体内に入って操る
+|}
+{{clear}}
+
+== 単行本 ==
+本作の単行本は下表の通り（各単行本の書誌情報は[[#書誌情報]]を参照）。
+
+書名はいずれも『キテレツ大百科』。
+
+著者名は、1987年までは[[藤子不二雄]]。1989年以降に重版、または新たに発行された単行本の著者名は[[藤子・F・不二雄]]。
+
+* 話数列には「収録話数/未収録話数」の形で記載。
+{| class="wikitable" style="text-align:center; font-size:smaller"
+! nowrap="nowrap" | 発行年 !!出版社 !! レーベル !! 判型 !! style="white-space:nowrap" | 巻数 !! 話数 !! 解説
+|-
+| style="white-space:nowrap" | 1977年 || 小学館 || [[てんとう虫コミックス]] || 新書 || 全3 || style="white-space:nowrap" | 33/7 || style="text-align:left" | 連載終了の同年に発売された最初の単行本。選集であり、7話が未収録となっている。また、第22話「如意光で引っ越し」内の1ページが未収録となっている。<br />1995年に増刷されたものでは「きちがい」などの[[差別用語]]とされるものが改変された<ref group="注">例：第1話でキテレツの父がキテレツ斎の最後を語る時の台詞が、てんコミでは「きちがいになった」のが、藤子不二雄ランドでは「気がへんになった」、大全集では「おかしくなった」にそれぞれ改変された。</ref>。
+|-
+| 1985年 || style="white-space:nowrap" | [[中央公論新社|中央公論社]] || style="white-space:nowrap" | 中公コミックス<br />[[藤子不二雄ランド]] || style="white-space:nowrap" | B6 || 全4 || 40/0 || style="text-align:left" | [[藤子不二雄]]の全集として発行された藤子不二雄ランド内の4冊で、唯一小学館以外から発行された単行本。全話・全ページを完全に収録。3・4巻にはそれぞれ、[[藤子・F・不二雄のSF短編|少年SF短編]]の「ぼくのオキちゃん」・「ボクラ共和国」を併録。
+|-
+| 1995年 || rowspan="4" | 小学館 || 小学館コロコロ文庫|| 文庫 || 全2 || 32/8 || style="text-align:left" | てんコミをベースとしており、てんコミ未収録のものはそのまま未収録となっている。また、てんコミに収録されていた第14話「地震の作り方」が[[阪神・淡路大震災|阪神･淡路大震災]]への配慮という形で未収録となった。2巻とも巻末に解説などが掲載されていない。
+|-
+| 2003年 || [[コンビニコミック#小学館|My First BIG]] ||  || 全2 || 32/8 || style="text-align:left" | 文庫版をベースとした[[コンビニエンスストア|コンビニ]]販売用廉価版[[ペーパーバック]]。収録話は文庫版と同様。
+|-
+| 2009年 || style="white-space:nowrap" | [[藤子・F・不二雄大全集]] || A5 || 全2 || 40/0 || style="text-align:left" | [[藤子・F・不二雄]]の全集として発行された[[藤子・F・不二雄大全集]]の第1期で発行。全話・全ページを完全に収録しており、発表順に第1話から第20話を1巻に、第21話から第40話を2巻に収録。原稿紛失のため、「聞き耳ずきん」の全ページと「如意光で引っ越し」のてんコミで割愛された1ページを初出の『[[ちゃぐりん|こどもの光]]』より印刷物複写の形で復刻している<ref>「初出掲載リスト」『キテレツ大百科』1巻〈藤子・F・不二雄大全集〉334頁</ref><ref>「初出掲載リスト」『キテレツ大百科』2巻〈藤子・F・不二雄大全集〉347頁</ref>。<br />各巻巻頭にはカラーイラスト、巻末には初出掲載リスト・新連載予告のカット等の特別資料・解説が収録されている。解説は1巻では『新キテレツ』の作画を担当した[[田中道明]]、2巻ではアニメの脚本を担当した[[雪室俊一]]がそれぞれ執筆している。
+|-
+| 2016年 || てんとう虫コミックス || 新書 || 全3 || style="white-space:nowrap" | 33/7 || style="text-align:left" | コミックス40周年&アニメ30周年を記念した新装版。『藤子・F・不二雄大全集』における原稿スキャン版を用いている。収録話は旧装版と同様。
+|}
+
+=== 未収録話 ===
+てんコミで7話、文庫版・廉価版で8話が未収録となっている。また、これらの単行本では第22話「如意光で引っ越し」の1ページ（7ページ目）も未収録となっている。
+
+* てんコミ未収録話
+** 第5話「聞き耳ずきん」
+** 第9話「公園の恐竜」
+** 第11話「冥府刀」
+** 第12話「一寸ガードマン」
+** 第32話「スーパー天狗」
+** 第38話「仙鏡水」
+** 第39話「唐倶利武者」
+* 文庫版・廉価版での追加未収録話
+** 第14話「地震の作り方」
+
+== 並行連載 ==
+<ref>この節は、『Fの森の歩き方』の「藤子・F・不二雄まんが連載史大年表」（7-10頁）および「「藤子・F・不二雄まんが連載史大年表」を味わう! パート2」（226-227頁）を参照。</ref>『キテレツ大百科』の連載時期は、藤本が多くの作品を並行して連載していた時期にあたる。連載開始から終了までの間に合計で14タイトルが本作と並行して連載されており、この他にも40本の読切漫画（内32本が[[藤子・F・不二雄のSF短編|SF短編]]）が『キテレツ大百科』の連載中に発表されている。
+
+特に1974年（昭和49年）9月号掲載分としては、『キテレツ』を含めて連載9タイトルに読切「[[間引き (漫画)|間引き]]」を合わせた10タイトル・20本を発表しており、一月当たりのタイトル数としては最多、本数としても最多記録の21本（1966年1月号掲載分）に次ぐ本数となっている。
+
+週刊の「[[Uボー]]」と隔週刊「[[エスパー魔美]]」を除き、並行連載作品は全て月刊連載であった。
+
+=== 年表 ===
+<small>
+
+* 凡例
+** [[小学館の学年別学習雑誌|小学館の学年誌]]（『小学一年生』から『小学六年生』までの6誌に加え、便宜的に『[[幼稚園 (雑誌)|幼稚園]]』も含める）については、3月号の続きは1学年上の4月号に掲載されるという連載の特色を重視し、年度毎に学年を繰り上げる形で記載。各雑誌における表中の左端に学年を以下の形で記載した。
+*** 『幼』：[[幼稚園 (雑誌)|幼稚園]]
+*** 『一』 - 『六』：小学一年生 - 小学六年生
+** 表の範囲よりも広く継続している連載については矢印を記載。
+*** ←：1974年3月以前より連載開始。学年誌の場合は一つ下の学年より繰り上がっての継続。
+*** →：1977年8月以降まで連載が継続。
+** タイトル右の ( ) 付き数字は[[#一覧]]の通し番号に対応し、一覧内の対応するデータを表示するためのリンクとなっている。
+</small>
+
+<div style="overflow:auto">
+{| style="border-style:solid; border-collapse:collapse; height:1em; font-size:smaller; width:90em; background-color:#fff"
+|-style="color:#f00"
+! style="border-right:1px solid #733; width:10em" colspan="2" rowspan="3" | !! colspan="12" | 1974年度 !! style="border-left:1px solid #f00" colspan="12" | 1975年度 !! style="border-left:1px solid #f00" colspan="12" | 1976年度 !! style="border-left:1px solid #f00" colspan="4" | 1977年度
+|- style="border:1px solid #733"
+! colspan="9" | 1974年 !! style="border-left:1px solid #733" colspan="12" | 1975年 !! style="border-left:1px solid #733" colspan="12" | 1976年 !! style="border-left:1px solid #733" colspan="7" | 1977年
+|- style="border-bottom:1px solid #733"
+! style="border-left:1px solid #733; width:2em" | 4 !! style="width:2em" | 5 !! style="width:2em" | 6 !! style="width:2em" | 7 !! style="width:2em" | 8 !! style="width:2em" | 9 !! style="width:2em" | 10 !! style="width:2em" | 11 !! style="width:2em" | 12 !! style="border-left:1px solid #733; width:2em" | 1 !! style="width:2em" |2 !! style="width:2em" | 3 !! style="width:2em; border-left:1px solid #f00" | 4 !! style="width:2em" | 5 !! style="width:2em" | 6 !! style="width:2em" | 7 !! style="width:2em" | 8 !! style="width:2em" | 9 !! style="width:2em" | 10 !! style="width:2em" | 11 !! style="width:2em" | 12 !! style="border-left:1px solid #733; width:2em" | 1 !! style="width:2em" | 2 !! style="width:2em" | 3 !! style="width:2em; border-left:1px solid #f00" | 4 !! style="width:2em" | 5 !! style="width:2em" | 6 !! style="width:2em" | 7 !! style="width:2em" | 8 !! style="width:2em" | 9 !! style="width:2em" | 10 !! style="width:2em" | 11 !! style="width:2em" | 12 !! style="border-left:1px solid #733; width:2em" | 1 !! style="width:2em" | 2 !! style="width:2em" | 3 !! style="width:2em; border-left:1px solid #f00" | 4 !! style="width:2em" | 5 !! style="width:2em" | 6 !! style="width:2em" | 7
+|-style="border-bottom:1px solid #777"
+| style="text-align:center; border-bottom:1px solid #733; width:3em" rowspan="15"| [[小学館の学年別学習雑誌|小<br />学<br />館<br />の<br />学<br />年<br />誌]] || style="border-right:1px solid #733; text-align:right; width:7em" | 1962年度生 || style="background-color:#2bf" | ← || style="background-color:#2bf" colspan="11"| 『六』 [[ドラえもん]] [[#list1|(1)]]<span id="tl1"> || style="border-left:1px solid #f00" colspan="9" | || style="border-left:1px solid #733" colspan="3" | || style="border-left:1px solid #f00" colspan="9" | || style="border-left:1px solid #733" colspan="3" | ||style="border-left:1px solid #f00" colspan="4" |
+|-
+| style="border-right:1px solid #733; text-align:right" rowspan="2" | 1963年度生 || style="background-color:#2bf" | ← || style="background-color:#2bf" colspan="11"| 『五』 [[ドラえもん]] [[#list2|(2)]]<span id="tl2"> || style="background-color:#2bf; border-left:1px solid #f00" colspan="12" | 『六』 || style="border-left:1px solid #f00" colspan="9" | || style="border-left:1px solid #733" colspan="3" | ||style="border-left:1px solid #f00" colspan="4" |
+|-style="border-bottom:1px solid #777"
+| || style="background-color:#aaf" colspan="11"| 『五』 [[みきおとミキオ]] [[#list3|(3)]]<span id="tl3"> || style="border-left:1px solid #f00" colspan="9" | || style="border-left:1px solid #733" colspan="3" | || style="border-left:1px solid #f00" colspan="9" | || style="border-left:1px solid #733" colspan="3" | ||style="border-left:1px solid #f00" colspan="4" |
+|- style="background-color:#2bf"
+|style="border-right:1px solid #733; background-color:#fff; text-align:right" rowspan="2" | 1964年度生 || ← ||  colspan="11"| 『四』 [[ドラえもん]] [[#list4|(4)]]<span id="tl4"> || style="border-left:1px solid #f00" colspan="12" | 『五』 || style="border-left:1px solid #f00" colspan="12" | 『六』 || style="background-color:#fff; border-left:1px solid #f00" colspan="4" |
+|-style="border-bottom:1px solid #777"
+| || style="background-color:#aaf" colspan="11"| 『四』 [[みきおとミキオ]] [[#list5|(5)]]<span id="tl5"> || style="border-left:1px solid #f00" colspan="9" | || style="border-left:1px solid #733" colspan="3" | || style="border-left:1px solid #f00" colspan="9" | || style="border-left:1px solid #733" colspan="3" | ||style="border-left:1px solid #f00" colspan="4" |
+|- style="background-color:#2bf"
+| style="border-right:1px solid #733; background-color:#fff; text-align:right" rowspan="2" | 1965年度生 || ← || colspan="11" | 『三』 [[ドラえもん]] [[#list6|(6)]]<span id="tl6"> || style="border-left:1px solid #f00" colspan="12" | 『四』 || style="border-left:1px solid #f00" colspan="12" | 『五』 || style="border-left:1px solid #f00" colspan="3" | 『六』 || style="text-align:right" |→
+|- style="border-bottom:1px solid #777"
+| style="background-color:#9cf" | ← || style="background-color:#9cf" colspan="11" | 『三』 [[バケルくん]] [[#list7|(7)]]<span id="tl7"> || style="background-color:#9cf; border-left:1px solid #f00" colspan="12" | 『四』 || style="border-left:1px solid #f00" colspan="9" | || style="border-left:1px solid #733" colspan="3" | || style="border-left:1px solid #f00" colspan="4"|
+|- style="background-color:#2bf"
+| style="border-right:1px solid #733; background-color:#fff; text-align:right" rowspan="2" | 1966年度生 || ← ||  colspan="11"| 『二』 [[ドラえもん]] [[#list8|(8)]]<span id="tl8"> || style="border-left:1px solid #f00" colspan="12" | 『三』 || style="border-left:1px solid #f00" colspan="12" | 『四』 || style="border-left:1px solid #f00" colspan="3" | 『五』 || style="text-align:right" |→
+|- style="border-bottom:1px solid #777"
+| style="background-color:#9cf" | || style="background-color:#9cf" colspan="11" | 『二』 [[バケルくん]] [[#list9|(9)]]<span id="tl9"> || style="background-color:#9cf; border-left:1px solid #f00" colspan="12" | 『三』 || style="border-left:1px solid #f00" | || style="background-color:#aaf" colspan="8" | 『四』 バウバウ大臣 [[#list10|(10)]] ||style="border-left:1px solid #733" colspan="3" | || style="border-left:1px solid #f00" colspan="4"|
+|- style="background-color:#2bf"
+| style="border-right:1px solid #733; background-color:#fff; text-align:right" rowspan="2" | 1967年度生 || style="background-color:#fff" colspan="9" | || style="background-color:#fff; text-align:right; border-left:1px solid #733" colspan="2" | 『一』 || || style="border-left:1px solid #f00" colspan="12" | 『二』 [[ドラえもん]] [[#list11|(11)]]<span id="tl11"> || style="border-left:1px solid #f00" colspan="12" | 『三』 || style="border-left:1px solid #f00" colspan="3" | 『四』 || style="text-align:right" |→
+|- style="border-bottom:1px solid #777"
+| style="background-color:#fb5" | ← || style="background-color:#fb5" colspan="11"| 『一』 [[モッコロくん]] [[#list12|(12)]]<span id="tl12"> || style="border-left:1px solid #f00" colspan="9" | || style="border-left:1px solid #733" colspan="3" | || style="border-left:1px solid #f00" | || style="background-color:#aaf" colspan="8" | 『三』 バウバウ大臣 [[#list13|(13)]] || style="border-left:1px solid #733" colspan="3" | || style="background-color:#2bf; border-left:1px solid #f00" | || colspan="3" |
+|-
+| style="border-right:1px solid #733; text-align:right" rowspan="2" | 1968年度生 || colspan="9" | || style="border-left:1px solid #733" colspan="3" | || style="border-left:1px solid #f00" colspan="5" | || style="background-color:#2bf" colspan="7" | 『一』 [[ドラえもん]] [[#list14|(14)]]<span id="tl14"> || style="background-color:#2bf; border-left:1px solid #f00" colspan="12" | 『二』 || style="background-color:#2bf; border-left:1px solid #f00" colspan="3" | 『三』 || style="background-color:#2bf; text-align:right" |→
+|- style="border-bottom:1px solid #777"
+| style="background-color:#fb5" | || style="background-color:#fb5" colspan="11" | 『幼』 [[モッコロくん]] [[#list15|(15)]]<span id="tl15"> || style="border-left:1px solid #f00; background-color:#fb5" colspan="11"| 『一』 4じげんぼうPポコ [[#list16|(16)]] || ||style="border-left:1px solid #f00" colspan="2" | || style="background-color:#aaf" colspan="7" | 『二』 バウバウ大臣 [[#list17|(17)]] ||style="border-left:1px solid #733" colspan="3" | || style="border-left:1px solid #f00" colspan="4" |
+|-style="border-bottom:1px solid #777"
+| style="border-right:1px solid #733; text-align:right" | 1969年度生 || colspan="9" | || style="border-left:1px solid #733" colspan="3" | || style="border-left:1px solid #f00; background-color:#fb5" colspan="12"| 『幼』 4じげんぼうPポコ [[#list18|(18)]]<span id="tl18"> || style="background-color:#2bf; border-left:1px solid #f00" colspan="12" | 『一』 [[ドラえもん]] [[#list19|(19)]] || style="background-color:#2bf; border-left:1px solid #f00" colspan="3" | 『二』 || style="background-color:#2bf; text-align:right" |→
+|-
+| style="border-right:1px solid #733; text-align:right" | 1970年度生 || colspan="9" | || style="border-left:1px solid #733" colspan="3" | || style="border-left:1px solid #f00" colspan="9" | || style="border-left:1px solid #733" colspan="3" | || style="text-align:right; border-left:1px solid #f00" colspan="12" | [[ドラえもん]] [[#list20|(20)]]<span id="tl20"> || style="background-color:#2bf; border-left:1px solid #f00" colspan="3" | 『一』 || style="background-color:#2bf; text-align:right" |→
+|- style="border:1px solid #733"
+| style="text-align:right" colspan="2" | [[ちゃぐりん|こどもの光]] || style="background-color:#cf0; text-align:center; border-left:1px solid #733" colspan="40" | '''キテレツ大百科'''
+|-
+| style="text-align:right" colspan="2" | [[たのしい幼稚園 (雑誌)|たのしい幼稚園]] || style="background-color:#e77; border-bottom:1px solid #777; border-left:1px solid #733" | ← || style="background-color:#e77; border-bottom:1px solid #777" colspan="7" | [[パジャママン]] [[#list21|(21)]]<span id="tl21"> || rowspan="5" | || style="border-left:1px solid #733" colspan="3" rowspan="3" | || style="border-left:1px solid #f00" colspan="9" rowspan="3" | || style="border-left:1px solid #733" colspan="3" rowspan="3" | || style="border-left:1px solid #f00" colspan="9" rowspan="3" | || style="border-left:1px solid #733" colspan="3" rowspan="3" | || style="border-left:1px solid #f00" colspan="4" rowspan="3" |
+|-
+| style="text-align:right" colspan="2" | [[おともだち]] || style="background-color:#e77; border-left:1px solid #733" | ← || style="background-color:#e77" colspan="7" | [[パジャママン]] <span id="tl22">[[#list22|(22)]]
+|-
+| style="text-align:right" colspan="2" | [[テレビマガジン]] || style="background-color:#e77; border-top:1px solid #777; border-bottom:1px solid #777; border-left:1px solid #733" | ← || style="background-color:#e77; border-top:1px solid #777; border-bottom:1px solid #777" colspan="6" | [[パジャママン]] [[#list23|(23)]]<span id="tl23"> ||
+|-
+| style="text-align:right" colspan="2" | [[ディズニーランド (雑誌)|ディズニーランド]] || style="background-color:#e77; border-left:1px solid #733" | ← || style="background-color:#e77" colspan="7" | [[パジャママン]] [[#list24|(24)]]<span id="tl24"> || style="text-align:right; border-left:1px solid #733" colspan="3" | [[コミックトム|希望の友]] ||style="background-color:#fcc; border-left:1px solid #f00" colspan="27"| [[ポコニャン]] [[#list28|(28)]] || style="background-color:#fcc; text-align:right" | →
+|-
+| style="text-align:right" colspan="2" | [[小学生ブック]] || style="background-color:#2bf; border-left:1px solid #733" | ← || style="background-color:#2bf" colspan="5" | [[ドラミ#外伝作品『ドラミちゃん』|ドラミちゃん]] [[#list25|(25)]]<span id="tl25"> || colspan="2" | || style="border-left:1px solid #733" colspan="3"| || style="border-left:1px solid #f00; text-align:right" colspan="11" | [[毎日こどもしんぶん]] || style="background-color:#aa6" colspan="16"| [[Uボー]] [[#list29|(29)]] || style="background-color:#aa6; text-align:right" | →
+|-
+| style="text-align:right" colspan="2" | [[キンダーブック]] || style="background-color:#fb5; border-left:1px solid #733" | || style="background-color:#fb5" colspan="11" | つくるくん [[#list26|(26)]]<span id="tl26"> || style="border-left:1px solid #f00" colspan="9" rowspan="2" | || style="text-align:right; border-left:1px solid #733" colspan="5" | [[てれびくん]] || style="background-color:#e77" colspan="5" | [[きゃぷてんボン]] [[#list30|(30)]] || || style="background-color:#2bf" colspan="7"| [[ドラえもん]] [[#list31|(31)]] || style="background-color:#2bf; text-align:right" | →
+|-
+| style="text-align:right" colspan="2" | [[めばえ (雑誌)|めばえ]] || style="border-left:1px solid #733" | || style="background-color:#fb5; border-top:1px solid #777" colspan="11"| ぞうくんとりすちゃん [[#list27|(27)]]<span id="tl27"> || style="border-left:1px solid #733; text-align:right" colspan="3" | || style="border-left:1px solid #f00; text-align:right" colspan="9" | [[少年ビッグコミック|マンガくん]] || style="background-color:#daf; border-left:1px solid #733" colspan="6"| [[エスパー魔美]] [[#list32|(32)]] || style="background-color:#daf; text-align:right" | →
+|- style="border-top:1px solid #733"
+! rowspan="3" colspan="2" | !! style="border-left:1px solid #733;" | 4 !! 5 !! 6 !! 7 !! 8 !! 9 !! 10 !! 11 !! 12 !! style="border-left:1px solid #733" | 1 !! 2 !! 3 !! style="border-left:1px solid #f00" | 4 !! 5 !! 6 !! 7 !! 8 !! 9 !! 10 !! 11 !! 12 !! style="border-left:1px solid #733" | 1 !! 2 !! 3 !! style="border-left:1px solid #f00" | 4 !! 5 !! 6 !! 7 !! 8 !! 9 !! 10 !! 11 !! 12 !! style="border-left:1px solid #733" | 1 !! 2 !! 3 !! style="border-left:1px solid #f00" | 4 !! 5 !! 6 !! 7
+|- style="border:1px solid #733"
+! style="border-left:1px solid #733" colspan="9" | 1974年 !! style="border-left:1px solid #733" colspan="12" | 1975年 !! style="border-left:1px solid #733" colspan="12" | 1976年 !! style="border-left:1px solid #733" colspan="7" | 1977年
+|-style="color:#f00"
+! style="border-left:1px solid #733" colspan="12" | 1974年度 !! style="border-left:1px solid #f00" colspan="12" | 1975年度 !! style="border-left:1px solid #f00" colspan="12" | 1976年度 !! style="border-left:1px solid #f00" colspan="4" | 1977年度
+|}
+</div>
+
+=== 一覧 ===
+<small>
+* 凡例
+** 年表と同様に、便宜的に『[[幼稚園 (雑誌)|幼稚園]]』を含めた[[小学館の学年別学習雑誌|小学館の学年誌]]については年度毎に学年を繰り上げる形で記載。
+*** 「雑誌」欄では「1962年生まれが読んだ学年誌」を「学年誌（1962年度生）」として記載。
+*** 「開始」欄と「終了」欄では連載開始・終了誌を号数に併記。
+**** 「開始：『幼稚園』1980年5月号・終了：『小三』1984年2月」と記載した場合、『幼稚園』1980年5月号 - 1981年3月号・『小学二年生』1982年4月号 - 1983年3月号・『小学三年生』1983年4月号 - 1984年2月号と学年を繰り上がり連載されたことを意味する。
+** 〈[[藤子・F・不二雄大全集]]〉に収録済の作品についてはその通巻数を「F全集」欄に記載。巻数とタイトルの対応については[[藤子・F・不二雄大全集#書誌情報]]を参照。
+** 「表」列の数字は上記年表の該当箇所へとリンクしており、色は年表に対応。
+</small>
+{| class="sortable wikitable" style="font-size:smaller"
+! !! タイトル !! 出版社 !! 雑誌 !! 開始 !! 終了 !! F全集 !! 表 !! 備考
+|-
+!1<span id="list1">
+|[[ドラえもん]]||<span style="display:none">し</span>[[小学館]]||<span style="display:none">か</span>[[小学館の学年別学習雑誌|学年誌]]（1962年度生）||<span style="display:none">1970年01月号1</span>『小一』1970年01月号||<span style="display:none">1975年03月号6</span>『小六』1975年03月号||FZ-002||style="background-color:#2bf" | [[#tl1|(1)]]||
+|-
+!2<span id="list2">
+|ドラえもん||<span style="display:none">し</span>小学館||<span style="display:none">か</span>学年誌（1963年度生）||<span style="display:none">1970年04月号1</span>『小一』1970年04月号||<span style="display:none">1976年03月号6</span>『小六』1976年03月号||FZ-003||style="background-color:#2bf" | [[#tl2|(2)]]||
+|-
+!3<span id="list3">
+|<span style="display:none">ミ</span>[[みきおとミキオ]]||<span style="display:none">し</span>小学館||<span style="display:none">か</span>学年誌（1963年度生）||<span style="display:none">1974年05月号5</span>『小五』1974年05月号||<span style="display:none">1975年03月号5</span>『小五』1975年03月号||FZ-088||style="background-color:#aaf" | [[#tl3|(3)]]||
+|-
+!4<span id="list4">
+|ドラえもん||<span style="display:none">し</span>小学館||<span style="display:none">か</span>学年誌（1964年度生）||<span style="display:none">1971年04月号1</span>『小一』1971年04月号||<span style="display:none">1977年03月号6</span>『小六』1977年03月号||FZ-004||style="background-color:#2bf" | [[#tl4|(4)]]||
+|-
+!5<span id="list5">
+|<span style="display:none">ミ</span>みきおとミキオ||<span style="display:none">し</span>小学館||<span style="display:none">か</span>学年誌（1964年度生）||<span style="display:none">1974年05月号4</span>『小四』1974年05月号||<span style="display:none">1975年03月号4</span>『小四』1975年03月号||FZ-088||style="background-color:#aaf" | [[#tl5|(5)]]||
+|-
+!6<span id="list6">
+|ドラえもん||<span style="display:none">し</span>小学館||<span style="display:none">か</span>学年誌（1965年度生）||<span style="display:none">1972年04月号1</span>『小一』1972年04月号||<span style="display:none">1978年03月号6</span>『小六』1978年03月号||FZ-005||style="background-color:#2bf" | [[#tl6|(6)]]||
+|-
+!7<span id="list7">
+|[[バケルくん]]||<span style="display:none">し</span>小学館||<span style="display:none">か</span>学年誌（1965年度生）||<span style="display:none">1974年02月号2</span>『小二』1974年02月号||<span style="display:none">1976年03月号4</span>『小四』1976年03月号||FZ-058||style="background-color:#9cf" | [[#tl7|(7)]]||
+|-
+!8<span id="list8">
+|ドラえもん||<span style="display:none">し</span>小学館||<span style="display:none">か</span>学年誌（1966年度生）||<span style="display:none">1973年04月号1</span>『小一』1973年04月号||<span style="display:none">1979年03月号6</span>『小六』1979年03月号||FZ-006||style="background-color:#2bf" | [[#tl8|(8)]]||
+|-
+!9<span id="list9">
+|バケルくん||<span style="display:none">し</span>小学館||<span style="display:none">か</span>学年誌（1966年度生）||<span style="display:none">1974年04月号2</span>『小二』1974年04月号||<span style="display:none">1976年03月号3</span>『小三』1976年03月号||FZ-058||style="background-color:#9cf" | [[#tl9|(9)]]||
+|-
+!10<span id="list10">
+|[[バウバウ大臣]]||<span style="display:none">し</span>小学館||<span style="display:none">か</span>学年誌（1966年度生）||<span style="display:none">1976年05月号4</span>『小四』1976年05月号||<span style="display:none">1976年12月号4</span>『小四』1976年12月号||FZ-088||style="background-color:#aaf" | [[#tl9|(10)]]||
+|-
+!11<span id="list11">
+|ドラえもん||<span style="display:none">し</span>小学館||<span style="display:none">か</span>学年誌（1967年度生）||<span style="display:none">1975年03月号1</span>『小一』1975年03月号||<span style="display:none">1980年03月号6</span>『小六』1980年03月号||FZ-007||style="background-color:#2bf" | [[#tl11|(11)]]||1977年4月号は2話掲載。
+|-
+!12<span id="list12">
+|[[モッコロくん]]||<span style="display:none">し</span>小学館||<span style="display:none">か</span>学年誌（1967年度生）||<span style="display:none">1974年04月号1</span>『[[幼稚園 (雑誌)|幼稚園]]』1974年01月号||<span style="display:none">1975年03月号1</span>『小一』1975年03月号||FZ-092||style="background-color:#fb5" | [[#tl12|(12)]]||
+|-
+!13<span id="list13">
+|バウバウ大臣||<span style="display:none">し</span>小学館||<span style="display:none">か</span>学年誌（1967年度生）||<span style="display:none">1976年05月号3</span>『小三』1976年05月号||<span style="display:none">1976年12月号3</span>『小三』1976年12月号||FZ-088||style="background-color:#aaf" | [[#tl12|(13)]]||
+|-
+!14<span id="list14">
+|ドラえもん||<span style="display:none">し</span>小学館||<span style="display:none">か</span>学年誌（1968年度生）||<span style="display:none">1975年09月号1</span>『小一』1975年09月号||<span style="display:none">1981年03月号6</span>『小六』1981年03月号||FZ-008||style="background-color:#2bf" | [[#tl14|(14)]]||
+|-
+!15<span id="list15">
+|モッコロくん||<span style="display:none">し</span>小学館||<span style="display:none">か</span>学年誌（1968年度生）||<span style="display:none">1974年04月号0</span>『幼稚園』1974年04月号||<span style="display:none">1975年03月号0</span>『幼稚園』1975年03月号||FZ-092||style="background-color:#fb5" | [[#tl15|(15)]]||
+|-
+!16<span id="list16">
+|<span style="display:none">ヨ</span>[[4じげんぼうPポコ]]||<span style="display:none">し</span>小学館||<span style="display:none">か</span>学年誌（1968年度生）||<span style="display:none">1975年04月号1</span>『小一』1975年04月号||<span style="display:none">1976年02月号1</span>『小一』1976年02月号||FZ-092||style="background-color:#fb5" | [[#tl15|(16)]]||
+|-
+!17<span id="list17">
+|バウバウ大臣||<span style="display:none">し</span>小学館||<span style="display:none">か</span>学年誌（1967年度生）||<span style="display:none">1976年06月号2</span>『小二』1976年06月号||<span style="display:none">1976年12月号2</span>『小二』1976年12月号||FZ-088||style="background-color:#aaf" | [[#tl15|(17)]]||
+|-
+!18<span id="list18">
+|<span style="display:none">ヨ</span>4じげんぼうPポコ||<span style="display:none">し</span>小学館||<span style="display:none">か</span>学年誌（1969年度生）||<span style="display:none">1975年04月号0</span>『幼稚園』1975年04月号||<span style="display:none">1976年03月号0</span>『幼稚園』1976年03月号||FZ-092||style="background-color:#fb5" | [[#tl18|(18)]]||
+|-
+!19<span id="list19">
+|ドラえもん||<span style="display:none">し</span>小学館||<span style="display:none">か</span>学年誌（1969年度生）||<span style="display:none">1976年04月号1</span>『小一』1976年04月号||<span style="display:none">1982年04月号6</span>『小六』1982年04月号||FZ-009||style="background-color:#2bf" | [[#tl18|(19)]]||
+|-
+!20<span id="list20">
+|ドラえもん||<span style="display:none">し</span>小学館||<span style="display:none">か</span>学年誌（1970年度生）||<span style="display:none">1977年04月号1</span>『小一』1977年04月号||<span style="display:none">1983年04月号6</span>『小六』1983年04月号||FZ-010||style="background-color:#2bf" | [[#tl20|(20)]]||
+|-
+!21<span id="list21">
+|[[パジャママン]]||<span style="display:none">こ</span>[[講談社]]||[[たのしい幼稚園 (雑誌)|たのしい幼稚園]]||1973年12月号||1974年11月号||FZ-091||style="background-color:#e77" | [[#tl21|(21)]]||
+|-
+!22<span id="list22">
+|パジャママン||<span style="display:none">こ</span>講談社||[[おともだち]]||1973年12月号||1974年11月号||FZ-091||style="background-color:#e77" | [[#tl22|(22)]]||
+|-
+!23<span id="list23">
+|パジャママン||<span style="display:none">こ</span>講談社||<span style="display:none">てろ</span>[[テレビマガジン]]||1973年12月号||1974年10月号||FZ-091||style="background-color:#e77" | [[#tl23|(23)]]||
+|-
+!24<span id="list24">
+|パジャママン||<span style="display:none">こ</span>講談社||<span style="display:none">てい</span>[[ディズニーランド (雑誌)|ディズニーランド]]||1974年01月号||1974年11月号||FZ-091||style="background-color:#e77" | [[#tl24|(24)]]||
+|-
+!25<span id="list25">
+|[[ドラミ#外伝作品『ドラミちゃん』|ドラミちゃん]]||<span style="display:none">し</span>小学館||<span style="display:none">し</span>[[小学生ブック]]<ref group="注">3月号までの誌名は『小学館BOOK』。</ref>||1974年01月号||1974年09月号||FZ-020||style="background-color:#2bf" | [[#tl25|(25)]]||
+|-
+!26<span id="list26">
+|<span style="display:none">ツ</span>[[つくるくん]]||<span style="display:none">ふ</span>[[フレーベル館]]||<span style="display:none">きん</span>[[キンダーブック]]||1974年04月号||1975年03月号||FZ-092||style="background-color:#fb5" | [[#tl26|(26)]]||
+|-
+!27<span id="list27">
+|<span style="display:none">ソ</span>[[ぞうくんとりすちゃん]]||<span style="display:none">し</span>小学館||[[めばえ (雑誌)|めばえ]]||1974年05月号||1975年03月号||FZ-092||style="background-color:#fb5" | [[#tl27|(27)]]||
+|-
+!28<span id="list28">
+|[[ポコニャン]]||<span style="display:none">う</span>[[潮出版社]]||<span style="display:none">きほ</span>[[コミックトム|希望の友]]||1975年04月号||1978年05月号||FZ-094||style="background-color:#fcc" | [[#tl24|(28)]]||
+|-
+!29<span id="list29">
+|<span style="display:none">ユ</span>[[Uボー]]||<span style="display:none">ま</span>[[毎日新聞社]]||<span style="display:none">まい</span>[[毎日こどもしんぶん]]||1976年03月27日付||1979年08月25日付||FZ-093||style="background-color:#aa6" | [[#tl25|(29)]]||
+|-
+!30<span id="list30">
+|<span style="display:none">キ</span>[[きゃぷてんボン]]||<span style="display:none">し</span>小学館||[[てれびくん]]||1976年06月号創刊号||1976年10月号||FZ-091||style="background-color:#e77" | [[#tl26|(30)]]||
+|-
+!31<span id="list31">
+|ドラえもん||<span style="display:none">し</span>小学館||てれびくん||1976年12月号||1977年8月号||FZ-019||style="background-color:#2bf" | [[#tl26|(31)]]||
+|-
+!32<span id="list32">
+|[[エスパー魔美]]||<span style="display:none">し</span>小学館||<span style="display:none">まん</span>[[少年ビッグコミック|マンガくん]]||<span style="display:none">1977年01月10日号</span>1977年創刊号（1月10日）||<span style="display:none">1978年08月25日号</span>1978年16号（8月25日）||FZ-053-055||style="background-color:#daf" | [[#tl27|(32)]]||この後、掲載誌が誌名変更。
+|}
+
+== テレビアニメ ==
+{{Main|キテレツ大百科 (アニメ)}}
+
+原作漫画の連載終了より10年以上が経った1987年（昭和62年）11月2日に[[フジテレビジョン|フジテレビ]][[フジネットワーク|系列]]で、90分のテレビスペシャル版を放送。この特番が好評を博したため、翌1988年（昭和63年）3月27日から毎週日曜19時からの30分番組として同系列局でテレビシリーズが放映が開始された。フジテレビが藤子アニメのキー局となったのは本作が初。以降テレビシリーズは1996年（平成8年）6月9日まで全331話が放送され、[[ゴールデンタイム]]で8年以上続く長寿番組となった。
+
+アニメではブタゴリラが登った山が「城山」だったり、勉三の大学が「高尾大学」であることから、[[八王子市]]が舞台になっていることが推測できる。
+
+== シアターアニメ ==
+タイトルは『'''ドラえもん&キテレツ大百科「コロ助のはじめてのおつかい」'''』。[[藤子・F・不二雄ミュージアム]]施設内にあるFシアターで、開館4周年の記念日にあたる2015年9月3日<ref>{{Cite web|和書|date=2015-08-25 |url=https://nlab.itmedia.co.jp/cont/articles/3246926/ |title=ドラえもんとコロ助が夢の共演！ 藤子・F・不二雄ミュージアムでオリジナル短編映像「コロ助のはじめてのおつかい」公開 |publisher=アイティメディア（ねとらぼ） |accessdate=2018-05-10 }}</ref>から2016年9月2日まで短編映画として公開。アニメーション作品として実に19年ぶりの新編となるほか、本作のアニメ版がドラえもんをはじめ他の藤子キャラと共演するのは初の試み。2018年1月25日より、同ミュージアムの企画展「『キテレツ大百科』×『ドラえもん』〜江戸時代の発明と未来のひみつ道具〜」に合わせて、再上映開始<ref>{{Cite web|和書|date=2017-12-21 |url=http://www.hmv.co.jp/newsdetail/article/1712211012/ |title=2018年の藤子ミュージアムはちょっと違う 新年のグッズやカフェメニューも公開に |publisher=ローソンHMVエンタテイメント（HMV&BOOKS online） |accessdate=2018-05-10 |archiveurl=https://web.archive.org/web/20180510115751/http://www.hmv.co.jp/en/newsdetail/article/1712211012/ |archivedate=2018-05-10}}</ref>。2019年1月25日より、同ミュージアムの企画展「キテレツ大百科」✕「ドラえもん」第III期に合わせて再上映開始<ref>{{Twitter status2|川崎市 藤子・F・不二雄ミュージアム|1087274323348316162|accessdate=2023-06-18}}</ref>。また、2018年10月10日<ref>{{Cite web|和書|url=https://dora-world.com/contents/692 |title=Fシアター週替り6作品リバイバル上映!! |website=ドラえもんチャンネル |accessdate=2023-06-18 }}</ref>や2021年8月18日や2023年6月14日<ref>{{Cite web|和書|date=2023-05-09 |url=https://dora-world.com/contents/2950 |title=歴代7作品を順次上映！Fシアターリバイバル上映会開催！ |website=ドラえもんチャンネル |accessdate=2023-06-17 }}</ref>など、概ね開館周年頃に他の過去作品と共に1週間ほど再上映が行なわれている（''[[藤子・F・不二雄ミュージアム#短編アニメ作品]]も参照''）。
+
+フジテレビ版の設定でおなじみだったコロ助の帯刀がない、キテレツのサンバイザーのKマークがないなど<ref>{{Cite web|和書|date=2023-06-14 |url=https://fujiko-museum.com/blog/?p=32897/ |title=はじめてのおつかいに行くのは・・・ |website=藤子・F・不二雄ミュージアム 公式ブログ |accessdate=2023-06-17 }}</ref>、原作寄りの設定である。
+
+; スタッフ
+:* 原作 - 藤子・F・不二雄
+:* 企画 - 大倉俊輔
+:* 演出・作画監督 - [[大杉宜弘]]
+:* アニメーション制作 - [[シンエイ動画]]<ref>{{Cite web|和書|url=https://shin-ei-animation.jp/45th/timeline/timeline.pdf |title=シンエイ動画45周年のあゆみ |website=シンエイ動画 |format=PDF |accessdate=2023-06-20 }}</ref>
+; キャスト
+:* コロ助 - 杉山佳寿子<ref name="wasadora93">{{Cite web|和書|date=2015-09-05|url=https://tvablog.tv-asahi.co.jp/reading/wasadora93/58366/ |title=コロ助役 杉山佳寿子さん |website=わさドラブログへようこそ（テレビ朝日） |accessdate=2023-06-17 }}</ref><ref>{{Cite web|和書|date=2015-09-07 |url=https://fujiko-museum.com/blog/?p=22345/ |title=オリジナル短編映像に最新作登場！ |website=藤子・F・不二雄ミュージアム 公式ブログ |accessdate=2023-06-17 }}</ref>
+:* [[ドラえもん (キャラクター)|ドラえもん]] - [[水田わさび]]<ref name="wasadora93" />
+:* [[野比のび太]] - [[大原めぐみ]]
+
+== 新キテレツ大百科 ==
+{{節スタブ}}
+
+アニメ化に合わせて連載されたリメイク作品<ref name="cwff1" />。名義は「原作/[[藤子・F・不二雄]]」「まんが/[[田中道明]]」。『[[月刊コロコロコミック]]』1988年（昭和63年）4月号と春休み増刊号に藤本が過去に執筆した漫画がまず再掲載され、その後を継ぐ形で同年5月号から1994年（平成6年）2月号まで連載された。単行本は〈[[てんとう虫コミックス]]〉より全6巻が発行された。
+
+藤本の『キテレツ大百科』をベースにその世界観を広げたものであり、原稿制作の際には藤子・Fによってネームや作画の内容変更が指示された。キャラクターの人格、コロ助がコロッケ好きな点などが、アニメの設定に大いに影響を与えている。
+
+本作の連載時は、アニメの放送予定が併せて誌面に掲載された<ref group="注">放送予定は本作の連載終了後も放送終了まで掲載された。</ref>。
+
+# 1989年11月発売、{{ISBN|4-09-141541-5|link=no}}
+# 1990年1月発売、{{ISBN|4-09-141542-3|link=no}}
+# 1991年4月発売、{{ISBN|4-09-141543-1|link=no}}
+# 1992年3月発売、{{ISBN|4-09-141544-X|link=no}}
+# 1993年6月発売、{{ISBN|4-09-141545-8|link=no}}
+# 1994年5月発売、{{ISBN|4-09-141546-6|link=no}}
+
+== ゲーム ==
+以下の4タイトルが発売されている。
+
+{| class="wikitable" style="font-size:smaller"
+! 発売日 !!タイトル !! プラットフォーム !! ジャンル !! メーカー
+|-
+| 1990年2月23日 || キテレツ大百科 || [[ファミリーコンピュータ]] || rowspan="2" | [[アクションゲーム]] || [[エポック社]]
+|-
+| 1994年7月15日 || キテレツ大百科 冒険大江戸ジュラ紀 || [[ゲームボーイ]] || [[ビデオシステム]]
+|-
+| 1994年 || キテレツ大百科 えどにいってキテレツさいさまにあうナリ || [[キッズコンピュータ・ピコ]] || その他 || [[セガトイズ|セガ・エンタープライゼス]]
+|-
+| 1995年1月27日 || キテレツ大百科 超時空すごろく || [[スーパーファミコン]] || [[ボードゲーム]] || ビデオシステム
+|}
+
+[[ファミリーコンピュータ]]版は、夢見鏡の世界に引き込まれたキテレツ達が脱出を目指すというもの。サイケデリックなマップパーツが単調に並ぶマップはこのゲームの一種の特徴である。ボタン連打による発明や、仲間が増えても攻撃などは一切しないばかりか増えた仲間の分だけ「当たり判定（ダメージを受ける部位）」が増加してしまい、逆にお荷物になってしまう斬新なシステムを持つ。コンティニューには序盤で発明する「キテレツ地獄」で”借金”を行う必要がある<ref>マイウェイ出版『ファミコンクソゲー番付』2017年1月25日、p108</ref>。
+
+この他、2002年11月21日に[[コナミ]]から発売された[[PlayStation 2]]用のソフト『[[pop'n music|pop'n music 7]]』には、アニメ主題歌の「[[はじめてのチュウ]]」と「すいみん不足」が収録されている。
+
+== テレビドラマ ==
+『[[ドラマ愛の詩]]』のスペシャルとして、[[日本放送協会|NHK]]による実写ドラマが製作されている。タイトルは『'''キテレツ'''』。初回の放送は[[NHK教育テレビジョン]]で2002年1月1日の18時30分から19時45分まで。<ref name="クロニクル">{{cite web |title=ドラマ愛の詩スペシャル・キテレツ |url=https://www.nhk.or.jp/archives/chronicle/detail/?crnid=A200201011830001300200 |website=NHKクロニクル |access-date=2025年5月21日}}</ref> その後、[[NHK総合テレビジョン|総合]]・教育の双方で何度か再放送されている。
+
+[[コロ助]]はCGで作られて実写と合成され、声はアニメ版で初代にコロ助を演じた[[小山茉美]]（小山の降板後、2代目は[[杉山佳寿子]]が演じている）が担当した。また、[[山寺宏一]]が顔出し出演したほか、キテレツ斎役としては[[清川元夢]]が声のみで出演している。
+
+=== スタッフ ===
+* 原作：キテレツ大百科（作・藤子・F・不二雄）
+* 製作・著作：[[日本放送協会|NHK]]
+* 共同制作：[[NHKエンタープライズ|NHKエンタープライズ21]]
+* 演出：一色隆司
+* 脚本：[[戸田山雅司]]
+* 製作統括：加賀田透、家喜正男
+* 音楽：内山秀和
+* 出演劇団&プロダクション：[[エンゼルプロ]]、[[劇団東俳]]、[[劇団ひまわり]]
+
+=== キャスト ===
+* 木手英一（キテレツ）：[[山内秀一]]
+* コロ助：[[小山茉美]]（声）
+* 御代田ミヨ子（みよちゃん）：[[朝倉えりか|大柳絵梨香]]
+* 尖浩二（トンガリ）：[[東海孝之助]]
+* 熊田かおる（ブタゴリラ）：[[江成大輝]]
+* 木手英太郎：[[山寺宏一]]
+* 木手満子：[[山下容莉枝]]
+* 刈野勉三：[[山本耕史]]
+* キテレツ斎：[[清川元夢]]（声）
+* 宮原さおり：[[粟田麗]]
+* 宮原権三郎：[[加藤武]]
+* 宮原りつ：[[藤村志保]]
+* 花園君子：[[井元由香]]
+* 田辺先生：[[モロ師岡]]
+* トラック運転手：[[藤原喜明]]
+
+== CM ==
+2013年に[[キリンビバレッジ]]『キリン にっぽん米茶』TVCMに起用、[[佐藤浩市]]がCGのコロ助と共演している<ref>[https://navicon.jp/news/18515/ キリンビバレッジ、「キリン にっぽん米茶」を発売、佐藤浩市、コロ助初共演TVCMを公開]navicom 2013年5月28日</ref>。コロ助の声優は[[浅野まゆみ]]。
+
+== 書誌情報 ==
+特記のないかぎり、著者は[[藤子・F・不二雄]]、発行は[[小学館]]。
+
+* 『キテレツ大百科』
+**[[藤子不二雄]]<ref group="注" name="name2">独立後の増版・増刷時に藤子・F・不二雄名義に変更している。</ref>〈[[てんとう虫コミックス]]〉、新書判、全3巻
+**# 1977年8月25日初版第1刷発行、{{ISBN|4-09-140181-3|link=no}}
+**# 1977年10月25日初版第1刷発行、{{ISBN|4-09-140182-1|link=no}}
+**# 1977年12月25日初版第1刷発行、{{ISBN|4-09-140183-X|link=no}}
+** 藤子不二雄<ref group="注" name="name2" /> [[中央公論新社|中央公論社]]〈中公コミックス [[藤子不二雄ランド]]〉、小B6判、全4巻 <ref group="注">( ) 内はFFランドの通巻数。</ref>
+**# (59) 1985年8月16日初版発行、{{ISBN|4-12-410059-0|link=no}}
+**# (63) 1985年9月20日初版発行、{{ISBN|4-12-410063-9|link=no}}
+**# (67) 1985年10月18日初版発行、{{ISBN|4-12-410067-1|link=no}}
+**# (71) 1985年11月15日初版発行、{{ISBN|4-12-410071-X|link=no}}
+** 〈小学館コロコロ文庫〉文庫判、全2巻
+**# 1995年5月20日（4月21日発売<ref group="小">{{Cite web|和書|url=https://shogakukan-comic.jp/book?isbn=9784091940315|title=『キテレツ大百科〔小学館コロコロ文庫〕 1』|accessdate=2010-12-01}}</ref>）、{{ISBN|4-09-194031-5|link=no}}
+**# 1995年5月20日（4月21日発売<ref group="小">{{Cite web|和書|url=https://shogakukan-comic.jp/book?isbn=9784091940322|title=『キテレツ大百科〔小学館コロコロ文庫〕 2』|accessdate=2021-08-22}}</ref>）、{{ISBN|4-09-194032-3|link=no}}
+** 〈[[藤子・F・不二雄大全集]]〉、A5判、全2巻 <ref group="注">( ) 内は大全集の通巻数。</ref>
+**# (051) 2009年8月30日初版第1刷発行（8月25日発売<ref group="小">{{Cite web|和書|url=https://shogakukan-comic.jp/book?isbn=9784091434043|title=『藤子・F・不二雄大全集 キテレツ大百科1』|accessdate=2010-12-01}}</ref>）、{{ISBN|978-4-09-143404-3|link=no}}
+**# (052) 2009年10月28日初版第1刷発行（10月23日発売<ref group="小">{{Cite web|和書|url=https://shogakukan-comic.jp/book?isbn=9784091434098|title=『藤子・F・不二雄大全集 キテレツ大百科2』|accessdate=2010-12-01}}</ref>）、{{ISBN|978-4-09-143409-8|link=no}}
+* 藤子・F・不二雄／[[田中道明]]『新キテレツ大百科』〈てんとう虫コミックス〉、新書判、全6巻
+*# 1989年11月28日発売<ref group="小">{{Cite web|和書|url=http://skygarden.shogakukan.co.jp/skygarden/owa/solc_dtl?isbn=4091415415|title=『新キテレツ大百科 1』|accessdate=2010-12-01}}</ref>、{{ISBN|4-09-141541-5|link=no}}
+*# 1990年1月27日発売<ref group="小">{{Cite web|和書|url=http://skygarden.shogakukan.co.jp/skygarden/owa/solc_dtl?isbn=4091415423|title=『新キテレツ大百科 2』|accessdate=2010-12-01}}</ref>、{{ISBN|4-09-141542-3|link=no}}
+*# 1991年4月26日発売<ref group="小">{{Cite web|和書|url=http://skygarden.shogakukan.co.jp/skygarden/owa/solc_dtl?isbn=4091415431|title=『新キテレツ大百科 3』|accessdate=2010-12-01}}</ref>、{{ISBN|4-09-141543-1|link=no}}
+*# 1992年3月27日発売<ref group="小">{{Cite web|和書|url=http://skygarden.shogakukan.co.jp/skygarden/owa/solc_dtl?isbn=409141544X|title=『新キテレツ大百科 4』|accessdate=2010-12-01}}</ref>、{{ISBN|4-09-141544-X|link=no}}
+*# 1993年6月28日発売<ref group="小">{{Cite web|和書|url=http://skygarden.shogakukan.co.jp/skygarden/owa/solc_dtl?isbn=4091415458|title=『新キテレツ大百科 5』|accessdate=2010-12-01}}</ref>、{{ISBN|4-09-141545-8|link=no}}
+*# 1994年5月28日発売<ref group="小">{{Cite web|和書|url=http://skygarden.shogakukan.co.jp/skygarden/owa/solc_dtl?isbn=4091415466|title=『新キテレツ大百科 6』|accessdate=2010-12-01}}</ref>、{{ISBN|4-09-141546-6|link=no}}
+
+== 脚注 ==
+{{脚注ヘルプ}}
+=== 注釈 ===
+{{Reflist|group="注"|colwidth=30em}}
+
+=== 出典 ===
+『キテレツ大百科』の漫画本編については単行本を指定せず、話数と副題で示す。
+{{Reflist|colwidth=20em}}
+
+==== 小学館コミック ====
+以下の出典は『[https://shogakukan-comic.jp/ 小学館：コミック]』（小学館）内のページ。[[#書誌情報|書誌情報]]で発売日の出典としている。
+{{Reflist|colwidth=20em|group="小"}}
+
+== 参考文献 ==<!-- 参考文献節を脚注節の前に移動しない（WP:ORDERに基づく） -->
+[[#書誌情報]]記載したものを除いた主要参考文献のみを記載。この他の参考文献については個別脚注方式で[[#出典]]に記載している。
+
+* 「キテレツ大百科」『Fの森の歩き方 藤子・F・不二雄まんがワールド探検公式ガイド』[[小学館]]〈[[藤子・F・不二雄大全集]]〉別巻、2010年7月28日初版第一刷発行（7月23日発日<ref group="小">{{Cite web|和書|url=https://shogakukan-comic.jp/book?isbn=9784091434340|title=『藤子・Ｆ・不二雄大全集 別巻 Fの森の歩き方』|accessdate=2010-08-21}}</ref>）、{{ISBN|978-4-09-143434-0|link=no}}、86 - 95頁
+* 『キテレツ大百科 アッとおどろくからくり道具大図解』小学館〈コロタン文庫〉115、1990年
+=== Web ===
+[[#書誌情報]]の参考とした。
+
+* {{Cite web|和書|date=2010-09-25|url=http://homepage2.nifty.com/qden/ff/index.html|title=藤子・F・不二雄作品データベース|work=[http://homepage2.nifty.com/qden/index.html からつぶ] |accessdate=2010-12-06}}
+=== 参考文献の注釈 ===
+{{Reflist|group="小"}}
+
+== 外部リンク ==
+* [https://www.shogakukan.co.jp/pr/tencomi/kiteretsu/ 『キテレツ大百科』新装版 全3巻] - 小学館
+* {{Cite web|和書|url=https://web.archive.org/web/20041124081455/http://www.neoutopia.net/interviews/yukimuro.htm |title=雪室俊一インタビュー（NU SPECIAL INTERVIEW） |publisher=[[藤子不二雄FCネオ・ユートピア]] |accessdate=2014-03-10}}
+* {{NHK放送史|D0009040375_00000|ドラマ愛の詩　キテレツ}}
+
+{{キテレツ大百科}}
+{{藤子不二雄}}
+{{ドラマ愛の詩}}
+{{リダイレクトの所属カテゴリ
+|redirect1=新キテレツ大百科
+|1-1=漫画作品 し
+|1-2=1988年の漫画
+|1-3=月刊コロコロコミックの漫画作品
+|1-4=リメイク漫画
+|redirect2= キテレツ
+|2-1=ドラマ愛の詩
+|2-2=漫画を原作とするテレビドラマ
+|2-3=2002年のテレビドラマ
+|2-4=藤子不二雄原作の実写作品
+|redirect3=キテレツ大百科 冒険大江戸ジュラ紀
+|3-1=ゲームボーイ用ソフト
+|3-2=1994年のコンピュータゲーム
+|3-3=アクションゲーム
+|redirect4=キテレツ大百科 超時空すごろく
+|4-1=スーパーファミコン用ソフト
+|4-2= 1995年のコンピュータゲーム
+|4-3= コンピュータボードゲーム
+}}
+{{DEFAULTSORT:きてれつたいひやつか}}
+[[Category:キテレツ大百科|*]]
+[[Category:藤子・F・不二雄の漫画作品]]
+[[Category:ギャグ漫画]]
+[[Category:漫画作品 き|てれつたいひやつか]]
+[[Category:1974年の漫画]]
+[[Category:児童・幼年雑誌掲載漫画作品]]
+[[Category:ちゃぐりん]]
+[[Category:SF漫画作品]]
+[[Category:発明を題材とした漫画作品]]
+[[Category:藤子不二雄のコンピュータゲーム]]
+[[Category:アクションゲーム]]
+[[Category:エポック社のゲームソフト]]
+[[Category:1990年のコンピュータゲーム]]
+[[Category:ファミリーコンピュータ用ソフト]]

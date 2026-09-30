@@ -1,0 +1,288 @@
+{{short description|Japanese manga series by Fujiko F. Fujio}}
+{{about|the Japanese manga and anime|the Indonesian general|Siswondo Parman}}
+{{Expand Japanese|topic=manga|パーマン|date=April 2024}}
+{{Infobox animanga/Header
+| name = Perman
+| image = Perman.jpg
+| caption = Cover of the second FF Land volume featuring Booby (left), Mitsuo Suwa (center), and Sumire Hoshino (right) in their Perman personas.
+| ja_kanji = パーマン
+| ja_romaji = Pāman
+| genre = [[Superhero fiction|Superhero]]<!-- Note: Use and cite reliable sources to identify genre/s, not personal interpretation. Please don't include more than three genres (per [[MOS:A&M]]). -->
+}}
+{{Infobox animanga/Print
+| type      = manga
+| author    = [[Fujiko Fujio]]
+| publisher = [[Shogakukan]]
+| magazine  = [[Weekly Shōnen Sunday]] etc.
+| first     = 1966
+| last      = 1986
+| volumes   = 8
+}}
+{{Infobox animanga/Video
+| type            = tv series
+| director        = 
+| producer        = 
+| writer          = 
+| music           = Hiroshi Tsutsui
+| studio          = {{ubl|[[TMS Entertainment|Tokyo Movie]]|[[Studio Zero]]}}
+| network         = [[Japan News Network|JNN]] ([[TBS Television (Japan)|TBS]])
+| first           = April 2, 1967
+| last            = April 14, 1968
+| episodes        = 54
+| episode_list    = 
+}}
+{{Infobox animanga/Video
+| type            = film
+| title           = Perman: Birdman Has Arrived!!
+| director        = 
+| producer        = 
+| writer          = 
+| music           = 
+| studio          = [[Shin-Ei Animation]]
+| released        = March 12, 1983
+| runtime         = 25 minutes 
+}}
+{{Infobox animanga/Video
+| type            = tv series
+| director        = [[Hiroshi Sasagawa]]<br />Sadayoshi Tominaga
+| producer        = 
+| writer          = 
+| music           = Akihiko Takashima
+| studio          = Shin-Ei Animation
+| network         = [[All-Nippon News Network|ANN]] ([[TV Asahi]])
+| network_en      = {{English anime network | SEA = [[Disney Channel (Southeast Asia)|Disney Channel]] | IN = [[Nickelodeon India|Nickelodeon]]}}
+| first           = April 4, 1983
+| last            = July 2, 1985
+| episodes        = 526 + 3 specials<ref>{{Cite web|url=http://ktac2.web.fc2.com/story.html|title = アニメ全話リスト}}</ref>
+| episode_list    = 
+}}
+{{Infobox animanga/Video
+| type            = film
+| title           = [[Ninja Hattori-kun]] + Perman: Psychic Wars
+| director        = 
+| producer        = 
+| writer          = 
+| music           = 
+| studio          = Shin-Ei Animation
+| released        = March 17, 1984
+| runtime         = 52 minutes
+}}
+{{Infobox animanga/Video
+| type            = film
+| title           = Ninja Hattori-kun + Perman: Ninja Beast Jippō vs. Miracle Egg
+| director        = 
+| producer        = 
+| writer          = 
+| music           = 
+| studio          = Shin-Ei Animation
+| released        = March 16, 1985
+| runtime         = 50 minutes
+}}
+{{Infobox animanga/Video
+| type            = film
+| title           = Pa-Pa-Pa the Movie: Perman
+| director        = 
+| producer        = 
+| writer          = 
+| music           = 
+| studio          = Shin-Ei Animation
+| released        = March 8, 2003
+| runtime         = 31 minutes 
+}}
+{{Infobox animanga/Video
+| type            = film
+| title           = Pa-Pa-Pa the Movie: Perman: Tako de Pon! Ashi wa Pon!
+| director        = 
+| producer        = 
+| writer          = 
+| music           = 
+| studio          = Shin-Ei Animation
+| released        = March 6, 2004
+| runtime         = 32 minutes
+}}
+{{Infobox animanga/Other
+|title=Video games
+|content=
+* ''Perman: Enban o Torikaese!!'' (1990)
+* ''Perman Part 2: Himitsu Kessha Madoodan o Taose!'' (1991)
+}}
+{{Infobox animanga/Footer}}
+{{nihongo|'''''Perman'''''|パーマン|Pāman|lead=yes}} is a Japanese [[manga]] series written and illustrated by {{ill|Fujiko F. Fujio|ja|藤子・F・不二雄}} about a clumsy boy, Mitsuo Suwa, who is chosen to become a powerful [[superhero]] to save the world along with other superheroes. The manga series was serialized in ''[[Weekly Shōnen Sunday]]'' in 1967. The first anime series was first produced in black-and-white in 1967. The second anime series was made in color in 1983 with short films releasing in 1983, 2003 and 2004.
+
+The original manga which started serialization in 1966 was a joint work. Perman 2 (Booby), Kabao, Sabu, and Birdman (Superman) were drawn by Abiko.<ref>{{cite book|author=Yoshihiro, Yonezawa|author-link=Yoshihiro Yonezawa|script-title=ja:藤子不二雄論―Fと(A)の方程式|trans-title=On Fujiko Fujio ~ The Formula of F and (A)|date=Apr 1, 2002|publisher=[[Kawade Shobō Shinsha]]|isbn=978-4309265490|page=126|language=ja}}</ref>
+
+The continuation of the series serialized in 1983, was solely written by Fujimoto.
+
+==Plot==
+Mitsuo Suwa, a normal elementary-aged boy, meets an alien superhero named Birdman, who is part of a super-powered group of individuals called Permans that maintain peace across the universe. Birdman recruits Mitsuo to become a Perman, and he accepts. Mitsuo is given three items:
+
+* A helmet that multiplies the wearer's physical strength, as well as serving as a mask.
+* A cape that allows the wearer to fly and run with a top speed of 119&nbsp;km/h.{{efn|91 km/h prior to 1983.}}
+* A badge that enables the wearer to communicate with other Permans and generate breathable air underwater and in places that have dangerous air conditions.
+
+Birdman instructs Mitsuo that if a Perman's identity becomes known to others, he would be turned into an animal.{{efn|Originally, they would be mentally crippled.}} To help keep Mitsuo's secret identity, Birdman gave Mitsuo a [[doppelgänger]] robot called a copy-robot (similarly to another Fujiko Fujio series, ''Bakeru-kun''), who takes Mitsuo's place when he is Perman. During his duty as Perman, Mitsuo meets other Permans; Booby, Perko, and Peryan,{{efn|Perbō was also one of the Permans but was omitted after 1983.}} and they soon become best friends. The series then later revolves around the bonding between the Permans, their secret identities staying secret, and their adventures averting crime and disaster.
+
+Eventually, Birdman picks one of them to go to Bird Planet in order to train them to be his successor, deciding on Mitsuo. He bids farewell to his family and friends in secret and all the other Permans, promising to one day return as the best Perman in the galaxy, with his copy robot taking his place on Earth.
+
+==Characters==
+===Main characters===
+; {{nihongo|Mitsuo Suwa|須羽満夫|Suwa Mitsuo}} / {{nihongo|Perman #1|パーマン 1号|Pāman Ichi-gō}}
+: Mitsuo/Perman is the protagonist of the series. He is an 11-and-a-half-year-old young boy who's chosen as the first Earth Perman by Birdman. Of the five known Earth Permans, he has had the closest calls to having his secret identity revealed. He is not very good at studying, but he can do well if he tries hard enough. He has a crush on Michiko, a girl from his class, as well as being a big fan of the idol Sumire Hoshino (whom he doesn't know is Perko), to the point of wanting to marry her.
+:Mitsuo is often lazy and dumps his work on his copy robot, leading to the robot occasionally resenting him, but works hard when things get serious. As Perman, he is willing to do anything to please others, which sometimes lands him in trouble. At the end of the series, all of his achievements as Perman were acknowledged by Birdman and he travels to Bird Planet for training to become Birdman's successor. 
+: There is a manga chapter titled "Perman Returns" (omitted from regular volumes), where he returns to Earth only for 2 hours on a vacation before having to go back.
+: Mitsuo is voiced by [[Katsue Miwa]] in both the 1967 and 1983 TV series.<ref name="MADbSeries1" /><ref name="MADbSeries2">{{cite web |script-title=ja:パーマン(新) |url=https://mediaarts-db.bunka.go.jp/an/anime_series/1554 |url-status=dead |archive-url=https://web.archive.org/web/20180627173244/https://mediaarts-db.bunka.go.jp/an/anime_series/1554 |archive-date=June 27, 2018 |access-date=June 27, 2018 |website=Media Arts Database |publisher=[[Agency for Cultural Affairs]] |language=ja}}</ref>
+; {{nihongo|Booby|ブービー|Būbī}} / {{nihongo|Perman #2|パーマン 2号|Pāman Ni-gō}}
+: Booby is a monkey referred to as "Perman #2". In the original setting, he lived in a zoo and had to sneak out at night to work but was retconned. In the new setting he is a pet chimp who lived with an old couple, so that he could work more easily as a superhero.  The reason why he is chosen as one of the Permans is that, according to Birdman, there should be no discrimination between humans and animals. He is highly intelligent but cannot speak human language, though his speech can be understood by the Permans. He often uses objects and gestures to get his point across. Booby typically helps his colleagues with human affairs, although there are instances where, in stories where he is the main focus, he can communicate with animals in an understood language.
+:Booby is voiced by [[Hiroshi Ōtake]] in both the 1967 and 1983 anime series.<ref name="MADbSeries1" /><ref name="MADbSeries2" />
+; {{nihongo|Sumire Hoshino|星野スミレ|Hoshino Sumire}} / {{nihongo|Perman #3|パーマン3号|Pāman San-gō}} / {{nihongo|Perko|パー子|Pāko}} / Pergirl
+: Although a girl, she is officially addressed as "Perman #3", but is nicknamed "Perko". Her secret identity, which she doesn't reveal even to her teammates, is Sumire Hoshino, a famous child actress. Sumire enjoys being Perko due to her freedom and anonymity, explaining that as a child actress, she is always treated as a celebrity everywhere she goes. She has a dual personality; In her superhero guise, she is quite tomboyish, bossy, brave, bold, hot-headed, and headstrong, quarreling with Mitsuo and sometimes with Michiko (for Perman) while as Sumire, she is very kind and mild, only getting mad when heavily provoked.
+:In most versions, she lives in a big mansion along with her parents, while in the 1983 anime, she lives alone in a condominium, with her parents living in New York City. A woman who seems to be her manager frequently goes in and out of her condominium, potentially having taken on a guardian role. Sumire, despite her situation, is inexperienced at household chores such as cooking and sewing, with her attempts to do so often ending in disaster.
+: Whenever she is in trouble, she tells Mitsuo first, indicating that he indeed is very close to her. She later reveals her true identity, only to him, as a gift when he is about to leave for Bird Planet where he fully reciprocates her love.{{efn|She also reveals her identity in the second-to-last segment of the 1967 anime.}}
+: Sumire, as an adult actress, also makes a cameo appearance in ''[[Doraemon]]'', telling [[Doraemon (character)|Doraemon]] and Nobita about a person she loves who is far away, whose return she is still waiting for, after they chase away an actor claiming to be her lover. She also reveals to Nobita in another chapter that the person she was waiting for was Mitsuo.
+: Sumire is voiced by Yōko Kuri in the 1967 series<ref name="MADbSeries1" /> and by [[Eiko Masuyama]] in the 1983 series.<ref name="MADbSeries2" />
+; {{nihongo|Hōzen Ōyama|大山法善|Ōyama Hōzen}} / {{nihongo|Perman #4|パーマン 4号|Pāman Yon-gō}} / {{nihongo|Peryan|パーやん|Pāyan}} / Perboy
+: Hozen is the oldest of all the other Permans, being a 12-year-old Buddhist monk. He lives at a monastery in Osaka called Konpuku Temple and works various part-time jobs for a living. He is very pragmatic and greedy, which sometimes puts him at odds with the other Permans. His pragmatic attitude saves the Permans from many of their tribulations, along with his sense of responsibility being surprisingly strong with his mental power just as tough.
+: He often contributes to solving difficult cases by planning out excellent or unusual strategies and excels in the most intelligence and ability among the five Permans (four in the 1983 anime). He also usually solves arguments between Perman and Perko very easily, though his plans occasionally backfire.
+: His dream is to become the owner of a big company and make a lot of money, seemingly accomplishing such a feat in another one of Fujimoto's works, [[:ja:中年スーパーマン左江内氏|Middle-Aged Superman Mr. Saenai]].
+: Hōzen is voiced by Yoshihisa Kamo in the 1967 series<ref name="MADbSeries1" /> and by [[Kaneta Kimotsuki]] in the 1983 series.
+
+===Supporting characters===
+; {{nihongo|Birdman|バードマン|Bādoman}} / '''{{nihongo|Superman|スーパーマン|Sūpāman}}'''
+: Birdman is the highest ranking Perman seen in the manga. His original name was Superman in the early series but was renamed [[Bird-Man|Birdman]] in 1983. He is the one who gave the Permen their abilities. He always rides a UFO disk. He has been to various places to find candidates for the next Birdman from Bird Planet,{{efn|Super Planet before 1983}} to give a Perman set to make them an apprentice.
+: While trying to recurit them as an apprentice, he uses a device to check their mind beforehand whether they are qualified to become a Perman. Although he is very strict when it comes to the identity of a Perman, he can also be calm and make sure that they don't take decisions in hurry such as quitting being Perman.
+: He can sometimes be very clumsy when it comes to operating his UFO and handling situations in general. He also has a variety of superpowers and gadgets at his disposal. In addition to Mitsuo who was selected as a candidate to go to Bird Planet, many of the Permans were selected from around the world to go to the planet Bird Planet, seemingly showing that he may not be the only one coming from there.
+: Birdman is voiced by Akira Shimada in the 1967 series<ref name="MADbSeries1" /> and by [[Yoshito Yasuhara]] in the 1983 series.
+; {{nihongo|Copy-robots|コピーロボット|Kopīrobotto}}
+: The copy-robots are androids which are given to Permen from Superman to help keep their secret. Each one transforms into a clone of the person who pushes a button on its nose. The memories of that copy robot can also be transferred to the original person by placing both foreheads against each other.
+: In the anime series and original manga, the robot had a red nose that remained visible even after the transformation, and they often were deactivated by well-meaning people trying to wipe their noses clean. However, in the 1983 manga, 2003 and 2004 movies, the copy robots have the same nose color as the user.
+: The duplication procedure also copies whatever clothing or items that are on the activator's person, which landed Mitsuo in trouble on a few occasions for abusing this property.
+: These make a cameo in the ''[[Doraemon]]'' series as one of the many gadgets from the 22nd century.
+; {{nihongo|Michiko Sawada|沢田ミチ子|Sawada Michiko}} / Mitsuko
+: Mitsuo's classmate who has a crush on Perman, she often puts together newspaper articles about his activities. Mitsuo also has a crush on her, but resents that she behaves much more positively towards him when he is Perman. She is beautiful and outstanding in grades, but with a strong temperament character. She treats Mitsuo as just a good friend. In the anime, she talks about future dreams as an astronaut. She views Perko as a rival, and at times clashes with her (with Mitsuo in the middle). She also knows how to play piano and violin very well.
+: Michiko is voiced by Kyōko Emi in the 1967 series<ref name="MADbSeries1" /> and by [[Masako Miura]] in the 1983 series.
+; {{nihongo|Kabao|カバ夫}}
+: Another of Mitsuo's classmates. He is the neighborhood bully. He often picks on Mitsuo, but is a big fan of Perman, often begging him to make him the next member. Together with Sabu, he was tricked by a foreign scientist into stealing Mitsuo's Perman equipment. His father owns a fruit and vegetable shop called "Yaomasa" (八百政). At the school, he is a generic captain. At times he does have a friendly and gentle personality. His parents have exactly the same face as him, and his father works not only for fruit and vegetable but also for a Little League as a supervisor and trainer. His father often loses dentures which is subject to ridicule by the other students.
+: Kabao is voiced by [[Kaneta Kimotsuki]] in the 1967 series<ref name="MADbSeries1" /> and by [[Kiyonobu Suzuki (voice actor)|Kiyonobu Suzuki]] in the 1983 series.
+; {{nihongo|Sabu|サブ}}
+: Mitsuo's short-statured classmate often seen with Kabao. He also has a very weak personality. In the second work it is seen that his father owns a restaurant named "Taberna" (タベルナ).
+: Sabu is voiced by [[Michiko Nomura]] in the 1967 series<ref name="MADbSeries1" /> and by [[Shigeru Chiba]] in the 1983 series.
+; {{nihongo|Haruzō Mie|三重晴三|Mie Haruzō}}
+: Another of Mitsuo's classmates who proudly boasts about his wealth. His room is filled with manga comics and remote-controlled toys. On one occasion, he borrows the Perman set from Mitsuo, only to have them stolen by a dangerous criminal.
+: Haruzō is voiced by [[Junko Hori]] in the 1967 series and by [[Teiya Ichiryusai|Teiyū Ichiryūsai]] in the 1983 series.
+; {{nihongo|Mantarō Suwa|須羽満太郎|Suwa Mantarō}}
+: He is Mitsuo's dad. Mantarō is often seen as easygoing but will discipline his son responsibly. He is a typical office worker, with his position in the company being the section chief.
+: Mantarō is voiced by [[Hisashi Katsuta]] in the 1967 series<ref name="MADbSeries1" /> and by [[Kan Tokumaru]] in the 1983 series.
+; {{nihongo|Mitsuo's Mother|ミツ夫のママ|Mitsuo no Mama}}
+: She is Mitsuo's mother and is unnamed in the series. She is a usual housewife and a beautiful mother. She tends not to feel comfortable with the fact that Perman and his teammates often come to their house, and when the criminal who kidnaps Ganko requested a Perman set instead of ransom, she gets very angry. Many people around the Perman's often see Perman as a hero of respect, but she often has a very strong attitude towards the Permans who come to the Suwa residence. She often scolds Mitsuo because of Ganko's complains.
+: Mrs. Suwa is voiced by Takako Kondō in the 1967 series<ref name="MADbSeries1" /> and by Akiko Tsuboi in the 1983 series.
+; {{nihongo|Ganko Suwa|須羽がん子|Suwa Ganko}}
+: Ganko is Mitsuo's younger sister who is headstrong and obstinate, although she is more known for tattling on Mitsuo to their mother. She appears to have a little sibling rivalry with Mitsuo. She is an elementary school first-grader in the setting of the second TV work. But she is a kindergarten child in the movie version. She often tells Mitsuo that his sloppy behavior is very annoying. And although she sometimes gets into arguments with him due to Mitsuo often getting fed up and irritated with her complaints to their mother, but despite this they still deeply care and love each other.
+: She also appeared in Doraemon's "The Cursing Camera".
+: Ganko is voiced by [[Masako Sugaya]] in the 1967 series<ref name="MADbSeries1" /> and by Yuri Nashiba in the 1983 series.
+; {{nihongo|Professor Oyama|大山 先生}}
+: He is Mitsuo's homeroom teacher. A young athlete who is fat and seems to be taking all the subjects. He often scolds Mitsuo for not completing his homework and sleeping in class and ends up giving him a punishment of standing out of the class. The nickname is "Higendaruma" (ヒゲダルマ).
+: Oyama is voiced by Masashi Amamori in the 1967 series,<ref name="MADbSeries1" /> by Hiroaki Tanabe in the 1983 series and by [[Takashi Nagasako]] in the 2003 movie.
+
+===Other characters===
+; {{nihongo|Sharoku|社六}}
+: He is another classmate of Mitsuo. As the name implies, he is a kid who loves finding out things and acts like a young detective. He is very smart. He has a suspicion that the identity of Perman 1 is Mitsuo. He tries to grab the evidence many times, but ends up failing each time. In the second work, it is revealed that his father is a detective.
+: Sharoku is voiced by [[Sanae Takagi]] in the 1983 series.
+; {{nihongo|Yamagishi Yuki|山岸 ユキ}}
+: She's a transfer student who came to the class next to Mitsuo. She met his copy-robot and became his friend. She has a good relationship the copy robot since then, with Mitsuo's copy robot even dreaming of her being his wife on occasion. Because of this there are often misunderstandings whenever she talks to the actual Mitsuo.
+: She only appears in the 1983 series and is voiced by [[Sanae Takagi]].
+; {{nihongo|Ichirō Ejison|江地 孫一郎|Ejison Ichirō}}
+: Nicknamed Ejison, he as the name implies, is a child inventor capable of making inventions mimicking teleportation and even Perman's abilities, though usually to the harm of the user.
+: He only appears in the 1983 series and is voiced by [[Mayumi Tanaka]].
+; {{nihongo|Majime Itsumo|イツモ マジメ
+|Itsumo Majime}}
+: He is a classmate of Ganko and her love interest.
+: He only appears in the 1983 series and is voiced by [[Hiromi Tsuru]].
+; {{nihongo|Kōichi Yamada|山田浩一|Yamada Kōichi}} / {{nihongo|Perman #5|パーマン 5号|Pāman Go-gō}} / {{nihongo|Perbō|パー坊|Pābō}}
+: Nicknamed Kō-chan, he is the fifth and youngest member of the team. He is a 2-year-old baby, and saw Mitsuo as Perman 1 on one occasion. He was made a Perman to preserve Mitsuo's secret identity and Birdman trying to find a fifth Perman. He is quite clever though, taking advantage of his baby status to catch criminals off guard. The first anime and manga series had several appearances by Kōichi, but he is nonexistent in the second version of either series. In addition, all but one chapter in the current manga volumes with an appearance by him have been omitted.
+: Kōichi is voiced by [[Fuyumi Shiraishi]] in the 1967 TV anime.<ref name="MADbSeries1" />
+; {{nihongo|Senmensō|怪盗千面相|Kaitō Senmensō}} / The Man of the Thousand Masks
+: He is a gentleman thief who is an expert in disguise and jailbreak, and one of Perman's most cunning opponents. He is skilled in escaping because of his love of the thrill of breaking out of prison and can't stand the ease of escaping from minimum security. In his first appearance, he was ruthless enough to try to kill Mitsuo, however, he later helped Perman capture the man behind a rash of purse snatchings because the thief had robbed the owner of his favorite [[ramen]] restaurant, the elderly, children and women. He is a lover of fine art and cannot bring himself to destroy any piece of fine art, which Peryan uses to his advantage when dealing with him.
+: Senmensō was voiced by a person currently unknown in the 1967 series and by [[Mugihito|Makoto Terada]] in the 1983 series.
+; {{nihongo|Doctor Octo|ドクトル・オクト|Dokutoru Okuto}}
+: He is a scientist who creates octopus-shaped brainwashing machines, he also occasionally uses [[French language|French]] in his speech. He manages to steal Mitsuo's Perman set by using an ink-spitting machine but fails to use it properly and gets captured.
+: He solely appears in the 2004 movie and is voiced by [[Taichirō Hirokawa]].
+; {{nihongo|Japanese League of Evildoers|全日本悪者連盟|Zen Nippon Akusha Renmei}} (a.k.a. {{nihongo|ZenAkuRen|全悪連}}, originally abbreviated as {{nihongo|ZenGyadoRen|全ギャド連}})
+: A Japanese 'bad-man league', the guild organizes all assassins, burglars, pickpockets, robbers and thieves in Japan, the group also occasionally plans terrorism. The entire group bar Saien Mado wear headscarves as their outfit.
+: The group is struggling with their finances due to trouble in collecting membership fees, they publish a newsletter and own a car that is exclusive to the league. Their headquarters is located in a rundown building that they struggle to pay the rent for.
+: The group is entirely absent from the 1983 anime adaption but is present in all other versions.
+:; {{nihongo|Don Ishikawa|ドン石川}}
+:: The leader of the League, he has an atrocious singing ability which was once used in an attempt to kill Perman but failed due to him finding out and punishing his subordinates for carrying out such a plan. He was also nicknamed "Emperor of the Underworld" and "King of Guns" when he was younger, but his shooting abilities have faltered due to his age.
+:: He is voiced by [[Kenji Utsumi]] in the 2003 and 2004 movies.
+:; {{nihongo|Saien Mado|魔土災炎|Mado Saien}}
+:: He is an evil genius who is the science adviser of the league and offers them many unusual technologies, though they fail due to either conflicting plans or incompetence. He was smart enough to get into both [[Harvard University|Harvard]] and [[Sorbonne University|Sorbonne Universities]] but dropped out early despite his excellent grades. In the 2003 movie, he is obsessed with getting Mitsuo to the point of ignoring all of the others except when they try to stop him. As with Haruzō and Ganko, his name can be read in a different way; in his case, it sounds similar to "mad scientist".
+:: He is one of the only new characters from the 1983 manga and is voiced by [[Shūichi Ikeda]] in the 2003 movie.
+
+==Media==
+===Manga===
+The manga was written by Fujiko Fujio, and published from 1966 to 1968 and 1983 to 1986 by [[Shogakukan]], and serialized in [[Weekly Shōnen Sunday]]. It has 7 [[tankōbon]] volumes.<ref>{{cite web |title=Perman (manga) |url=https://www.animenewsnetwork.com/encyclopedia/manga.php?id=20370 |website=[[Anime News Network]] |access-date=13 January 2019}}</ref>{{Better source needed|date=April 2026|reason=User-generated source}}
+
+===Anime===
+{{Main|List of Perman episodes|l1=List of ''Perman'' episodes}}
+Two anime television series based on the manga were produced. The first television series, consisting of 54 two-part episodes, was produced by [[TMS Entertainment|Tokyo Movie]] with music composed by Hiroshi Tsutsui. It was broadcast on [[Tokyo Broadcasting System|TBS]] from April 2, 1967, to April 14, 1968.<ref name="MADbSeries1">{{cite web |url=https://mediaarts-db.bunka.go.jp/an/anime_series/369 |script-title=ja:パーマン |language=ja |website=Media Arts Database |publisher=[[Agency for Cultural Affairs]] |access-date=June 27, 2018 |archive-date=June 27, 2018 |archive-url=https://web.archive.org/web/20180627173403/https://mediaarts-db.bunka.go.jp/an/anime_series/369 |url-status=dead}}</ref> Certain episodes are lost and some episodes have lost their audio.<ref>{{Cite web|url=http://cartoonresearch.com/index.php/lost-tv-anime/|title=Lost TV Anime |website=cartoonresearch.com|access-date=2016-09-10}}</ref> This version was dubbed into [[Brazilian Portuguese]] and [[Mexican Spanish]].
+
+The second anime television series was produced by [[Shin-Ei Animation]] under the direction [[Hiroshi Sasagawa]] and Sadayoshi Tominaga with Akihiko Takashima composing the music. The series was first broadcast every Monday through Saturday on [[TV Asahi]] from April 4, 1983, to March 30, 1985, for a total of 526 episodes.<ref name="MADbSeries2" /> Starting on April 2, 1985, the series was rebroadcast and concluded on July 2, 1987.
+
+===Video games===
+Two ''Perman'' video games were released for the [[Nintendo Famicom]] by [[Irem]]. The first, titled '''Perman: Enban o Torikaese!!''' (パーマン えんばんをとりかえせ), was released on December 14, 1990.<ref>{{cite magazine|url=https://www.famitsu.com/game/title/20121/page/1|title=パーマン|magazine=[[Famitsu]]|access-date=January 4, 2026}}</ref> Its sequel, '''Perman Part 2: Himitsu Kessha Madoodan o Taose!''' (パーマンPART2 秘密結社マドー団をたおせ!), was released a year later on December 20, 1991.<ref>{{cite magazine|url=https://www.famitsu.com/game/title/20122/page/1|title=パーマンPART2 秘密結社マドー団をたおせ！|magazine=[[Famitsu]]|access-date=January 4, 2026}}</ref>
+
+==Notes==
+{{Notelist}}
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Portal|Children's literature}}
+* {{Official website|https://www.shogakukan.co.jp/pr/tencomi/perman/}}
+* {{anime News Network|manga|20370|Perman}}
+
+{{Portal bar|Japan|Science fiction|Anime and manga|1960s|1980s|2000s}}                                           
+{{Fujiko Fujio}}
+{{Weekly Shōnen Sunday - 1959–1969}}
+{{TMS Entertainment}}
+{{Shin-Ei TV series}}
+{{Shin-Ei Animation}}
+
+[[Category:1967 anime television series debuts]]
+[[Category:1967 manga]]
+[[Category:1983 anime films]]
+[[Category:1983 films]]
+[[Category:1983 anime television series debuts]]
+[[Category:1983 manga]]
+[[Category:1984 anime films]]
+[[Category:1984 films]]
+[[Category:1985 anime films]]
+[[Category:1985 films]]
+[[Category:2003 anime films]]
+[[Category:2003 films]]
+[[Category:Japanese animated films]]
+[[Category:2004 anime films]]
+[[Category:2004 films]]
+[[Category:Japanese children's animated action television series]]
+[[Category:Japanese children's animated adventure television series]]
+[[Category:Japanese children's animated science fiction television series]]
+[[Category:Japanese children's animated superhero television series]]
+[[Category:Children's manga]]
+[[Category:CoroCoro Comic]]
+[[Category:Fujiko F Fujio]]
+[[Category:Shin-Ei Animation]]
+[[Category:Shogakukan manga]]
+[[Category:Shogakukan franchises]]
+[[Category:Nintendo Entertainment System games]]
+[[Category:Nintendo Entertainment System-only games]]
+[[Category:Japan-exclusive video games]]
+[[Category:Shōnen manga]]
+[[Category:TMS Entertainment]]
+[[Category:Tokyo Broadcasting System Television original programming]]
+[[Category:TV Asahi original programming]]
+[[Category:Child superheroes]]
+[[Category:Superhero teams]]
+[[Category:Superheroes in anime and manga]]
+[[Category:Comics about chimpanzees]]
+[[Category:Animated television series about chimpanzees]]
+[[Category:Comics about anthropomorphic apes]]

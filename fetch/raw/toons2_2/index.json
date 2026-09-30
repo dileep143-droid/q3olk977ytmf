@@ -1,0 +1,162 @@
+{
+"https://hi.wikipedia.org/w/index.php?title=%E0%A4%9B%E0%A5%8B%E0%A4%9F%E0%A4%BE_%E0%A4%AD%E0%A5%80%E0%A4%AE&action=raw": {
+"file": "bb2e686a7708d5103a40267aa090e8ce115421b4.txt",
+"status": 200,
+"tries": 1
+},
+"https://chhotabheem.fandom.com/wiki/List_of_Episodes?action=raw": {
+"file": "74e732496aebff81994ad46b449f7973c1c4f169.txt",
+"status": 403,
+"tries": 1
+},
+"https://perman.fandom.com/wiki/List_of_Perman_episodes?action=raw": {
+"file": "03ae50dd6771f8caa8a1a9b1eb0eeb33eaa2b2d0.txt",
+"status": 403,
+"tries": 1
+},
+"https://mightyraju.fandom.com/wiki/Special:AllPages": {
+"file": "75b8e343aa985b9c09a709218ef63178002f55b1.txt",
+"status": 403,
+"tries": 1
+},
+"https://mighty-raju.fandom.com/wiki/Special:AllPages": {
+"file": "c5066311e11e8ecd842e2002ab3586508a418289.txt",
+"status": 403,
+"tries": 1
+},
+"https://en.wikipedia.org/w/index.php?title=Chhota_Bheem&action=raw": {
+"file": "436675c5004ac4f92b905ead9652fecaf5696762.txt",
+"status": 200,
+"tries": 1
+},
+"https://api.tvmaze.com/search/shows?q=chhota%20bheem": {
+"file": "6066aefa493fd986948d5b03cd9abc4b035c1a72.txt",
+"status": 200,
+"tries": 1
+},
+"https://hi.wikipedia.org/w/index.php?title=%E0%A4%AE%E0%A4%BE%E0%A4%87%E0%A4%9F%E0%A5%80_%E0%A4%B0%E0%A4%BE%E0%A4%9C%E0%A5%82&action=raw": {
+"file": "343bf92cd1539f56d63c10bd0ca0f72668676638.txt",
+"status": 404,
+"tries": 1
+},
+"https://en.wikipedia.org/w/index.php?title=Mighty_Raju&action=raw": {
+"file": "25fd873851c402312efafa844c07dc9c40dcef05.txt",
+"status": 200,
+"tries": 1
+},
+"https://api.tvmaze.com/search/shows?q=mighty%20raju": {
+"file": "68207100a159ac6036bfa3f00a0e184bacc93531.txt",
+"status": 200,
+"tries": 1
+},
+"https://hi.wikipedia.org/w/index.php?title=%E0%A4%AE%E0%A4%BE%E0%A4%87%E0%A4%9F%E0%A5%80_%E0%A4%B0%E0%A4%BE%E0%A4%9C%E0%A5%82_%28%E0%A4%9F%E0%A5%80%E0%A4%B5%E0%A5%80_%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A5%83%E0%A4%82%E0%A4%96%E0%A4%B2%E0%A4%BE%29&action=raw": {
+"file": "8ebd118da6213360dfcd6dfe282fef62c300a07c.txt",
+"status": 404,
+"tries": 1
+},
+"https://en.wikipedia.org/w/index.php?title=Mighty_Raju_Rio_Calling&action=raw": {
+"file": "cae1d77d136eae7f0e2e064f53b74e2805eb9c29.txt",
+"status": 200,
+"tries": 1
+},
+"https://api.tvmaze.com/search/shows?q=kiteretsu": {
+"file": "196c8fec9f4b0c4e142209fa79c4aeded7feb63c.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/index.php?title=Kiteretsu_Daihyakka&action=raw": {
+"file": "821e1d221ecb0da3aa705dadbeadf4743d5b6565.txt",
+"status": 200,
+"tries": 1
+},
+"https://ja.wikipedia.org/w/index.php?title=%E3%83%91%E3%83%BC%E3%83%9E%E3%83%B3&action=raw": {
+"file": "cc3064e3f59c453a4326a7c8a85ef1bf2d7f14bd.txt",
+"status": 200,
+"tries": 1
+},
+"https://api.tvmaze.com/search/shows?q=perman": {
+"file": "5cd32a9e5d3a30295a7ba53df85723588ac437be.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/index.php?title=Perman&action=raw": {
+"file": "1b3bf7a6b4cb40c6ea960f0663b3c110ede85ecc.txt",
+"status": 200,
+"tries": 1
+},
+"https://ja.wikipedia.org/w/index.php?title=%E3%83%91%E3%83%BC%E3%83%9E%E3%83%B3_%28%E3%82%A2%E3%83%8B%E3%83%A1%29&action=raw": {
+"file": "053ffb6e595a406636e003d82e969569b0c39a66.txt",
+"status": 404,
+"tries": 1
+},
+"https://en.wikipedia.org/w/index.php?title=List_of_Perman_episodes&action=raw": {
+"file": "ab6999b7b93b8d8615cb745a3c678d4493728e08.txt",
+"status": 200,
+"tries": 1
+},
+"https://api.tvmaze.com/search/shows?q=kiteretsu%20daihyakka": {
+"file": "f49daf4244601a8523f7ae4d1f6aec30f2327b41.txt",
+"status": 200,
+"tries": 1
+},
+"https://ja.wikipedia.org/w/index.php?title=%E3%83%91%E3%83%BC%E3%83%9E%E3%83%B3%E3%81%AE%E7%99%BB%E5%A0%B4%E4%BA%BA%E7%89%A9&action=raw": {
+"file": "1e180d963edb894f3d8ad041f230ffabf8dccf2e.txt",
+"status": 404,
+"tries": 1
+},
+"https://en.wikipedia.org/w/index.php?title=List_of_Chhota_Bheem_episodes&action=raw": {
+"file": "86779489458a54c478f2c1dee4dbf371cf661935.txt",
+"status": 200,
+"tries": 1
+},
+"https://api.tvmaze.com/search/shows?q=green%20gold%20chhota%20bheem": {
+"file": "0daf9b046d2567afd5fdd1284c0a3c39074922f7.txt",
+"status": 200,
+"tries": 1
+},
+"https://ja.wikipedia.org/w/index.php?title=%E3%82%AD%E3%83%86%E3%83%AC%E3%83%84%E5%A4%A7%E7%99%BE%E7%A7%91&action=raw": {
+"file": "ac4ca5b421278d74126562d352492fb2ac725cd3.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/index.php?title=List_of_Kiteretsu_Daihyakka_episodes&action=raw": {
+"file": "a278ed044ffdadb6a8b1c8c41329de8b381e9d9f.txt",
+"status": 200,
+"tries": 1
+},
+"https://ja.wikipedia.org/w/index.php?title=%E3%82%AD%E3%83%86%E3%83%AC%E3%83%84%E5%A4%A7%E7%99%BE%E7%A7%91%E3%81%AE%E7%99%BB%E5%A0%B4%E4%BA%BA%E7%89%A9&action=raw": {
+"file": "063168c4f434ef2bc4f138a28f1cec51c8790145.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/index.php?title=Chhota_Bheem_(TV_series)&action=raw": {
+"file": "68d422bce39612189323abfcef5fb49048a14fd7.txt",
+"status": 404,
+"tries": 1
+},
+"https://ja.wikipedia.org/w/index.php?title=%E3%82%AD%E3%83%86%E3%83%AC%E3%83%84%E5%A4%A7%E7%99%BE%E7%A7%91%E3%81%AE%E3%82%A8%E3%83%94%E3%82%BD%E3%83%BC%E3%83%89%E4%B8%80%E8%A6%A7&action=raw": {
+"file": "ce6d0ef183b1fa2fc980b03baec19f342f4e73b0.txt",
+"status": 404,
+"tries": 1
+},
+"https://en.wikipedia.org/w/index.php?title=Mighty_Raju_(TV_series)&action=raw": {
+"file": "7512038a9264919574f5200db61b997797abf1c6.txt",
+"status": 404,
+"tries": 1
+},
+"https://ja.wikipedia.org/w/index.php?title=%E3%83%91%E3%83%BC%E3%83%9E%E3%83%B3%E3%81%AE%E3%82%A8%E3%83%94%E3%82%BD%E3%83%BC%E3%83%89%E4%B8%80%E8%A6%A7&action=raw": {
+"file": "c6a8f77eaf869f80ab1785666ddeaa56ee67594b.txt",
+"status": 404,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&list=search&srsearch=Mighty+Raju+Green+Gold&format=json": {
+"file": "ef7691b799872c602da867257a54b86d6cdf9fee.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&list=search&srsearch=Chhota+Bheem+episode+list&format=json": {
+"file": "e3f4ee4c6aeb8fd55fea7d8f4169c7777321f289.txt",
+"status": 200,
+"tries": 1
+}
+}
