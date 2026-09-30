@@ -1,0 +1,172 @@
+{
+"https://hi.wikipedia.org/w/api.php?action=query&list=search&format=json&srlimit=5&srsearch=%E0%A4%9F%E0%A5%8B%E0%A4%95%E0%A5%8D%E0%A4%AF%E0%A5%8B%20%E0%A4%B0%E0%A4%BF%E0%A4%B5%E0%A5%87%E0%A4%82%E0%A4%9C%E0%A4%B0%E0%A5%8D%E0%A4%B8": {
+"file": "3af3649512de7f04d6571653ef209c397aae7ea8.txt",
+"status": 200,
+"tries": 1
+},
+"https://zh.wikipedia.org/w/api.php?action=query&list=search&format=json&srlimit=5&srsearch=%E6%9D%B1%E4%BA%AC%E5%8D%8D%E5%BE%A9%E4%BB%87%E8%80%85": {
+"file": "e6bb63e189cb17ec0cdffafa3f0ed2791e2dde51.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&list=search&format=json&srlimit=5&srsearch=Tokyo%20Revengers%20anime": {
+"file": "ccfbbb6d11c66c9cb6d94fcc3c95a1442e49a26c.txt",
+"status": 200,
+"tries": 1
+},
+"https://ja.wikipedia.org/w/api.php?action=query&list=search&format=json&srlimit=5&srsearch=%E6%9D%B1%E4%BA%AC%E5%8D%8D%E3%83%AA%E3%83%99%E3%83%B3%E3%82%B8%E3%83%A3%E3%83%BC%E3%82%BA": {
+"file": "59967256ad694219b7312210c2a1c44f071057c6.txt",
+"status": 200,
+"tries": 1
+},
+"https://zh.wikipedia.org/w/api.php?action=query&list=search&format=json&srlimit=5&srsearch=%E7%A7%9F%E5%80%9F%E5%A5%B3%E5%8F%8B": {
+"file": "ba9a543b396c6e3c0f31cd060ce6e3e92ae227d7.txt",
+"status": 200,
+"tries": 1
+},
+"https://hi.wikipedia.org/w/api.php?action=query&list=search&format=json&srlimit=5&srsearch=%E0%A4%B0%E0%A5%87%E0%A4%82%E0%A4%9F-%E0%A4%8F-%E0%A4%97%E0%A4%B0%E0%A5%8D%E0%A4%B2%E0%A4%AB%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%82%E0%A4%A1": {
+"file": "c976f52575fbd1f4376a6ccbe5989ebbfea3803f.txt",
+"status": 200,
+"tries": 1
+},
+"https://ja.wikipedia.org/w/api.php?action=query&list=search&format=json&srlimit=5&srsearch=%E5%BD%BC%E5%A5%B3%E3%80%81%E3%81%8A%E5%80%9F%E3%82%8A%E3%81%97%E3%81%BE%E3%81%99": {
+"file": "468406bb604c2472f422c64ec59c3c5b3fd81acf.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&list=search&format=json&srlimit=5&srsearch=Rent-a-Girlfriend%20anime": {
+"file": "27e4e7470e003f4c312e827c644101cba885c92f.txt",
+"status": 200,
+"tries": 1
+},
+"https://hi.wikipedia.org/w/api.php?action=query&list=search&format=json&srlimit=5&srsearch=%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%B2%E0%A5%88%E0%A4%82%E0%A4%A1%20%E0%A4%B8%E0%A4%BE%E0%A4%97%E0%A4%BE": {
+"file": "4e89f304c6fbc1ec6a59349005b618f5e081dfe2.txt",
+"status": 200,
+"tries": 1
+},
+"https://zh.wikipedia.org/w/api.php?action=query&list=search&format=json&srlimit=5&srsearch=%E5%B9%B8%E6%B0%B8%E5%82%B3%E8%AA%AA": {
+"file": "7017bc6d9890e93dca083db5993f7e70ce29b3f9.txt",
+"status": 200,
+"tries": 1
+},
+"https://ja.wikipedia.org/w/api.php?action=query&list=search&format=json&srlimit=5&srsearch=%E3%83%B4%E3%82%A3%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89%E3%83%BB%E3%82%B5%E3%82%AC": {
+"file": "ac315f82c912fe625532a5d42bd3f85d05e98366.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&list=search&format=json&srlimit=5&srsearch=Vinland%20Saga": {
+"file": "99d9f99a8c736553065e854427a448bc0a2a6ade.txt",
+"status": 200,
+"tries": 1
+},
+"https://hi.wikipedia.org/w/api.php?action=query&list=search&format=json&srlimit=5&srsearch=%E0%A4%AE%E0%A4%BE%E0%A4%87%E0%A4%9F%E0%A5%80%20%E0%A4%B0%E0%A4%BE%E0%A4%9C%E0%A5%82": {
+"file": "225d37011746baff5efab12e36c1151f0daf889d.txt",
+"status": 200,
+"tries": 1
+},
+"https://zh.wikipedia.org/w/api.php?action=query&list=search&format=json&srlimit=5&srsearch=%E4%BB%99%E7%8E%8B%E7%9A%84%E6%97%A5%E5%B8%B8%E7%94%9F%E6%B4%BB": {
+"file": "07e3fe47f9f587fcaf0b2dfb21b5052f4339ecb5.txt",
+"status": 200,
+"tries": 1
+},
+"https://ja.wikipedia.org/w/api.php?action=query&list=search&format=json&srlimit=5&srsearch=%E4%BB%99%E7%8E%8B%E7%9A%84%E6%97%A5%E5%B8%B8%E7%94%9F%E6%B4%BB": {
+"file": "24357b555b50de2f44eb7e865637974208519a47.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&list=search&format=json&srlimit=5&srsearch=Mighty%20Raju%20cartoon": {
+"file": "f69a597a968d99edffb3288694ce20c7c0f1101f.txt",
+"status": 200,
+"tries": 1
+},
+"https://hi.wikipedia.org/w/api.php?action=query&list=search&format=json&srlimit=5&srsearch=%E0%A4%B5%E0%A5%80%E0%A4%B0%20%E0%A4%A6%20%E0%A4%B0%E0%A5%8B%E0%A4%AC%E0%A5%8B%E0%A4%9F%20%E0%A4%AC%E0%A5%89%E0%A4%AF": {
+"file": "30b29a91b2c9db215b7c0dbf9e46b7278aa13212.txt",
+"status": 200,
+"tries": 1
+},
+"https://zh.wikipedia.org/w/api.php?action=query&list=search&format=json&srlimit=5&srsearch=%E7%88%B1%E6%8E%A2%E9%99%A9%E7%9A%84%E6%9C%B5%E6%8B%89": {
+"file": "381c6d5360fdb38ef20540b76bdcf80089f04230.txt",
+"status": 200,
+"tries": 1
+},
+"https://ja.wikipedia.org/w/api.php?action=query&list=search&format=json&srlimit=5&srsearch=%E3%83%89%E3%83%BC%E3%83%A9%E3%81%A8%E3%81%84%E3%81%A3%E3%81%97%E3%82%87%E3%81%AB%E5%A4%A7%E5%86%92%E9%99%BA": {
+"file": "3ec9c77759d85019a4ff13c53dcb5c4759380c51.txt",
+"status": 200,
+"tries": 1
+},
+"https://hi.wikipedia.org/w/api.php?action=query&list=search&format=json&srlimit=5&srsearch=%E0%A4%B6%E0%A4%BF%E0%A4%B5%E0%A4%BE%20%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%9F%E0%A5%82%E0%A4%A8": {
+"file": "297afe1595327cd03049a938989a6467ab8568ec.txt",
+"status": 200,
+"tries": 1
+},
+"https://zh.wikipedia.org/w/api.php?action=query&list=search&format=json&srlimit=5&srsearch=%E5%B0%8F%E7%A5%9E%E7%AB%A5%E5%8B%87%E8%80%85": {
+"file": "28c82c1ced8d289c85ceced1d8be6ec003b94a93.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&list=search&format=json&srlimit=5&srsearch=Vir%20the%20Robot%20Boy": {
+"file": "a17031bc3db29c9baa7b2109a0e824ef62b87118.txt",
+"status": 200,
+"tries": 1
+},
+"https://ja.wikipedia.org/w/api.php?action=query&list=search&format=json&srlimit=5&srsearch=%E3%83%9E%E3%82%A4%E3%83%86%E3%82%A3%E3%83%BB%E3%83%A9%E3%82%B8%E3%83%A5": {
+"file": "2bee27b350bf98584010b84c3ac6edaa280d001d.txt",
+"status": 200,
+"tries": 1
+},
+"https://hi.wikipedia.org/w/api.php?action=query&list=search&format=json&srlimit=5&srsearch=%E0%A4%9A%E0%A5%8B%E0%A4%B0%20%E0%A4%AA%E0%A5%81%E0%A4%B2%E0%A4%BF%E0%A4%B8%20%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%9F%E0%A5%82%E0%A4%A8": {
+"file": "8a8b376e2397b332284c6cdb55002ebb00239d6a.txt",
+"status": 200,
+"tries": 1
+},
+"https://zh.wikipedia.org/w/api.php?action=query&list=search&format=json&srlimit=5&srsearch=%E5%B0%8F%E4%B8%8D%E7%82%B9%E6%AF%94%E5%A7%86": {
+"file": "868aab685af9de5ec1a31a0fe3aeb7431961a3be.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&list=search&format=json&srlimit=5&srsearch=Shiva%20Nickelodeon%20cartoon": {
+"file": "23d38d32955e8d076968702980bdabdbd058966e.txt",
+"status": 200,
+"tries": 1
+},
+"https://ja.wikipedia.org/w/api.php?action=query&list=search&format=json&srlimit=5&srsearch=%E3%83%81%E3%83%A7%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%BB%E3%83%93%E3%83%BC%E3%83%A0": {
+"file": "31cb9c10f1b35aaac2c2b24cfc5b4e05cdf36be4.txt",
+"status": 200,
+"tries": 1
+},
+"https://hi.wikipedia.org/w/api.php?action=query&list=search&format=json&srlimit=5&srsearch=%E0%A4%B8%E0%A5%87%E0%A4%B2%E0%A5%8D%E0%A4%AB%E0%A5%80%20%E0%A4%B5%E0%A4%BF%E0%A4%A6%20%E0%A4%AC%E0%A4%9C%E0%A4%B0%E0%A4%82%E0%A4%97%E0%A5%80": {
+"file": "320f5c089b81497540e96890221d6687f576ed47.txt",
+"status": 200,
+"tries": 1
+},
+"https://ja.wikipedia.org/w/api.php?action=query&list=search&format=json&srlimit=5&srsearch=%E3%83%AA%E3%83%88%E3%83%AB%E3%83%BB%E3%82%AF%E3%83%AA%E3%82%B7%E3%83%A5%E3%83%8A": {
+"file": "68ac0b59ea476b7f30b17fdfd110988e2816cc89.txt",
+"status": 200,
+"tries": 1
+},
+"https://hi.wikipedia.org/w/api.php?action=query&list=search&format=json&srlimit=5&srsearch=%E0%A4%A1%E0%A5%8B%E0%A4%B0%E0%A4%BE%20%E0%A4%A6%20%E0%A4%8F%E0%A4%95%E0%A5%8D%E0%A4%B8%E0%A4%AA%E0%A5%8D%E0%A4%B2%E0%A5%8B%E0%A4%B0%E0%A4%B0": {
+"file": "a1951231fc776dda76ce978863a00fd12eddd139.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&list=search&format=json&srlimit=5&srsearch=Chorr%20Police%20cartoon": {
+"file": "417690e1ea63861b4c47ccc224e60be745ea6aad.txt",
+"status": 200,
+"tries": 1
+},
+"https://hi.wikipedia.org/w/api.php?action=query&list=search&format=json&srlimit=5&srsearch=%E0%A4%B9%E0%A4%A8%E0%A5%81%E0%A4%AE%E0%A4%BE%E0%A4%A8%20%E0%A4%8F%E0%A4%A8%E0%A4%BF%E0%A4%AE%E0%A5%87%E0%A4%9F%E0%A5%87%E0%A4%A1": {
+"file": "6f287c9771b39e26984baef15826def8197f02d8.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&list=search&format=json&srlimit=5&srsearch=Selfie%20with%20Bajrangi": {
+"file": "26694d9d4c4934b771134bc3398d4c667a73760a.txt",
+"status": 200,
+"tries": 1
+},
+"https://hi.wikipedia.org/w/api.php?action=query&list=search&format=json&srlimit=5&srsearch=%E0%A4%AC%E0%A4%BE%E0%A4%B2%20%E0%A4%97%E0%A4%A3%E0%A5%87%E0%A4%B6": {
+"file": "8b26bae2238969a73c4fb26ff4a1fcd232de0d18.txt",
+"status": 200,
+"tries": 1
+}
+}
