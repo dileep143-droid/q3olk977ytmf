@@ -1,0 +1,22 @@
+name: yt check 2 (PO token provider, no cookies)
+on:
+  workflow_dispatch:
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - run: pip install -q -U yt-dlp bgutil-ytdlp-pot-provider
+      - run: |
+          docker run -d --name pot -p 4416:4416 brainicism/bgutil-ytdlp-pot-provider
+          for i in $(seq 1 30); do curl -s http://127.0.0.1:4416/ping && break; sleep 2; done; echo
+      - run: |
+          for c in "web" "mweb" "web,android" "tv"; do
+            echo "== client $c"
+            python3 -m yt_dlp --no-warnings --simulate --extractor-args "youtube:player_client=$c" --print "%(id)s %(duration)s %(title).50s" "https://www.youtube.com/watch?v=PzpCxGdBwC0" && echo "SIMULATE OK ($c)" || echo "SIMULATE FAILED ($c)"
+          done
+          echo "== download test (web)"
+          python3 -m yt_dlp --no-warnings --extractor-args "youtube:player_client=web,mweb" -f "bestaudio/best" -o "t.%(ext)s" "https://www.youtube.com/watch?v=PzpCxGdBwC0" && ls -la t.* && echo "DOWNLOAD OK" || echo "DOWNLOAD FAILED"
+          rm -f t.*
+      - if: always()
+        run: docker logs pot 2>&1 | tail -20 || true
