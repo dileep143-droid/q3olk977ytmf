@@ -1,0 +1,17 @@
+{
+"https://doraemon.fandom.com/vi/api.php?action=query&prop=revisions&rvprop=content&rvslots=main&format=json&titles=Thu%E1%BB%91c%20vi%C3%AAn%20%22tr%E1%BB%91n%20ch%E1%BA%A1y%20ki%E1%BB%83u%20%C4%91%E1%BB%99ng%20v%E1%BA%ADt%22": {
+"file": "3091ec50f36f82754d4239e1220c8c57cd16a3f0.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/vi/api.php?action=query&prop=revisions&rvprop=content&rvslots=main&format=json&titles=%C3%94ng%20b%E1%BB%A5t%20Robot": {
+"file": "daa96a3a94f0007448b82627eee0fb2ef9c377e1.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/zh/api.php?action=query&prop=revisions&rvprop=content&rvslots=main&format=json&titles=%E5%8B%95%E7%89%A9%E5%BC%8F%E9%98%B2%E8%BA%AB%E9%8C%A0": {
+"file": "764efc919eb0425c5d78a6b6d9142598c44bcbcc.txt",
+"status": 200,
+"tries": 1
+}
+}
