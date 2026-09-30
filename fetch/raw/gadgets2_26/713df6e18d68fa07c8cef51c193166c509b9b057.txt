@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"search":[{"ns":0,"title":"Gilmore","pageid":5313,"size":4072,"wordcount":928,"snippet":"","timestamp":"2026-03-17T01:18:29Z"},{"ns":0,"title":"Ficus","pageid":5073,"size":6284,"wordcount":1528,"snippet":"","timestamp":"2020-12-31T08:29:05Z"}]}}
