@@ -1,0 +1,147 @@
+{
+"https://hi.wikipedia.org/w/api.php?action=query&list=search&format=json&srlimit=3&srsearch=Black%20Clover": {
+"file": "bee27986613275f436f87cc96c78915961eae26e.txt",
+"status": 200,
+"tries": 1
+},
+"https://zh.wikipedia.org/w/api.php?action=query&list=search&format=json&srlimit=3&srsearch=Vinland%20Saga": {
+"file": "c20388790d8f498f503cb4d40d47a07e1cb47f40.txt",
+"status": 200,
+"tries": 1
+},
+"https://hi.wikipedia.org/w/api.php?action=query&list=search&format=json&srlimit=3&srsearch=Bleach%20anime": {
+"file": "7ca932cb1fa5cf5a7ca8da8c0ca643927a1b6b3b.txt",
+"status": 200,
+"tries": 1
+},
+"https://zh.wikipedia.org/w/api.php?action=query&list=search&format=json&srlimit=3&srsearch=Pink%20Panther": {
+"file": "1627c90573b941aeeef8d8e3f733fabf7f08482c.txt",
+"status": 200,
+"tries": 1
+},
+"https://hi.wikipedia.org/w/api.php?action=query&list=search&format=json&srlimit=3&srsearch=Dr.%20Stone": {
+"file": "8b58f8065db78c09f44535c851c3510e72aaf38b.txt",
+"status": 200,
+"tries": 1
+},
+"https://hi.wikipedia.org/w/api.php?action=query&list=search&format=json&srlimit=3&srsearch=Heidi": {
+"file": "5373032572121f235cc6712852c24a962d9ad386.txt",
+"status": 200,
+"tries": 1
+},
+"https://hi.wikipedia.org/w/api.php?action=query&list=search&format=json&srlimit=3&srsearch=Hunter%20x%20Hunter": {
+"file": "aa2aff5baac96517fc8a41e28e5f2021e5aa8b44.txt",
+"status": 200,
+"tries": 1
+},
+"https://hi.wikipedia.org/w/api.php?action=query&list=search&format=json&srlimit=3&srsearch=Kick%20Buttowski": {
+"file": "cae5c88818e7772eb494cf5d6fbf2806a49d64f3.txt",
+"status": 200,
+"tries": 1
+},
+"https://hi.wikipedia.org/w/api.php?action=query&list=search&format=json&srlimit=3&srsearch=Kid%20vs.%20Kat": {
+"file": "a08d130e86ea3101a5493213243fdc1e3a0341a6.txt",
+"status": 200,
+"tries": 1
+},
+"https://www.wikidata.org/w/api.php?action=wbgetentities&sites=enwiki&titles=Vinland%20Saga%20(TV%20series)|Vinland%20Saga|Vinland%20Saga%20(manga)&props=sitelinks&format=json": {
+"file": "d5bff6b0a23aaf06173545f15b8bac162787e5d6.txt",
+"status": 200,
+"tries": 1
+},
+"https://hi.wikipedia.org/w/api.php?action=query&list=search&format=json&srlimit=3&srsearch=Kiteretsu": {
+"file": "fb76dfd25ee59721d703562ed775417c5996da36.txt",
+"status": 200,
+"tries": 1
+},
+"https://hi.wikipedia.org/w/api.php?action=query&list=search&format=json&srlimit=3&srsearch=Komi%20Can%27t%20Communicate": {
+"file": "d571a12107e864b2d9e62426f5768e243e264e1d.txt",
+"status": 200,
+"tries": 1
+},
+"https://hi.wikipedia.org/w/api.php?action=query&list=search&format=json&srlimit=3&srsearch=Lookism": {
+"file": "898c8ad96573bd8e0667ba61ad2533ccd4fce8bb.txt",
+"status": 200,
+"tries": 1
+},
+"https://hi.wikipedia.org/w/api.php?action=query&list=search&format=json&srlimit=3&srsearch=Mickey%20Mouse%20Clubhouse": {
+"file": "88692d1ce8cb1a71cdc16da748af980f5161f361.txt",
+"status": 200,
+"tries": 1
+},
+"https://hi.wikipedia.org/w/api.php?action=query&list=search&format=json&srlimit=3&srsearch=Monster%20Naoki%20Urasawa": {
+"file": "d05326ff510d047d9cfa04adfed6e011b53587f4.txt",
+"status": 200,
+"tries": 1
+},
+"https://hi.wikipedia.org/w/api.php?action=query&list=search&format=json&srlimit=3&srsearch=My%20Hero%20Academia": {
+"file": "6c750b609c5e09d1b6f1741bfc55726280194a43.txt",
+"status": 200,
+"tries": 1
+},
+"https://hi.wikipedia.org/w/api.php?action=query&list=search&format=json&srlimit=3&srsearch=Phineas%20and%20Ferb": {
+"file": "abfc7fa3605c13b0ea536a34fe2133a8ef7f68a0.txt",
+"status": 200,
+"tries": 1
+},
+"https://hi.wikipedia.org/w/api.php?action=query&list=search&format=json&srlimit=3&srsearch=Re%3AZero": {
+"file": "eabe631a22ddf380afd05d8c74482905a1bea225.txt",
+"status": 200,
+"tries": 1
+},
+"https://hi.wikipedia.org/w/api.php?action=query&list=search&format=json&srlimit=3&srsearch=Sakamoto%20Days": {
+"file": "4b43c03b432d14d19c49d0a862b7528bb1711f4c.txt",
+"status": 200,
+"tries": 1
+},
+"https://hi.wikipedia.org/w/api.php?action=query&list=search&format=json&srlimit=3&srsearch=Solo%20Leveling": {
+"file": "296b0faa525c012a6ae894ea9b52a6a7e9679162.txt",
+"status": 200,
+"tries": 1
+},
+"https://hi.wikipedia.org/w/api.php?action=query&list=search&format=json&srlimit=3&srsearch=Tokyo%20Revengers": {
+"file": "f07ed1ef95fd79fb6ff65d62032e99b02882800b.txt",
+"status": 200,
+"tries": 1
+},
+"https://hi.wikipedia.org/w/api.php?action=query&list=search&format=json&srlimit=3&srsearch=Tom%20and%20Jerry%20Kids": {
+"file": "149481689f364bab6adb770768fb0dad2c68ac6f.txt",
+"status": 200,
+"tries": 1
+},
+"https://hi.wikipedia.org/w/api.php?action=query&list=search&format=json&srlimit=3&srsearch=Vinland%20Saga": {
+"file": "0025e000c16d8902ea798ab96504039ba7728afa.txt",
+"status": 200,
+"tries": 1
+},
+"https://hi.wikipedia.org/w/api.php?action=query&list=search&format=json&srlimit=3&srsearch=Pink%20Panther": {
+"file": "c427229481845399f3185071d165ad4048ab0da8.txt",
+"status": 200,
+"tries": 1
+},
+"https://hi.wikipedia.org/w/api.php?action=query&list=search&format=json&srlimit=3&srsearch=The%20Daily%20Life%20of%20the%20Immortal%20King": {
+"file": "05d53a9bb184b8c13245bad85d765d67d5804594.txt",
+"status": 200,
+"tries": 1
+},
+"https://hi.wikipedia.org/w/api.php?action=query&list=search&format=json&srlimit=3&srsearch=Hanuman%20animated": {
+"file": "f035571730e8b45f1642fc45651ab07d349ef924.txt",
+"status": 200,
+"tries": 1
+},
+"https://hi.wikipedia.org/w/api.php?action=query&list=search&format=json&srlimit=3&srsearch=Little%20Krishna": {
+"file": "c22d5e01ede1c9ff8ea4536693064818f935ea66.txt",
+"status": 200,
+"tries": 1
+},
+"https://hi.wikipedia.org/w/api.php?action=query&list=search&format=json&srlimit=3&srsearch=Bal%20Ganesh": {
+"file": "c562b51ba2ceb8e89bcfb21d15450502598a1115.txt",
+"status": 200,
+"tries": 1
+},
+"https://hi.wikipedia.org/w/api.php?action=query&list=search&format=json&srlimit=3&srsearch=The%20Wonderfools": {
+"file": "2ef9da01e51ebb1b746ede77a4ca2882feffd915.txt",
+"status": 200,
+"tries": 1
+}
+}

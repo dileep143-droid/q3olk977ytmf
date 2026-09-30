@@ -1,0 +1,1 @@
+{"entities":{"Q930990":{"type":"item","id":"Q930990","sitelinks":{"jawiki":{"site":"jawiki","title":"\u30f4\u30a3\u30f3\u30e9\u30f3\u30c9\u30fb\u30b5\u30ac","badges":[]},"zhwiki":{"site":"zhwiki","title":"\u6d77\u76dc\u6230\u8a18","badges":[]}}}},"success":1}

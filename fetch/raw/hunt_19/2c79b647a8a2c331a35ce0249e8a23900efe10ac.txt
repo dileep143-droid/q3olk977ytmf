@@ -1,0 +1,1 @@
+{"entities":{"Q38275959":{"type":"item","id":"Q38275959","sitelinks":{"jawiki":{"site":"jawiki","title":"Dr.STONE","badges":[]},"zhwiki":{"site":"zhwiki","title":"Dr.STONE \u65b0\u77f3\u7d00","badges":[]}}}},"success":1}

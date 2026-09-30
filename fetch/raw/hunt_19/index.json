@@ -1,0 +1,37 @@
+{
+"https://www.wikidata.org/w/api.php?action=wbgetentities&sites=enwiki&titles=Vinland%20Saga%20%28TV%20series%29&props=sitelinks&sitefilter=jawiki|zhwiki|hiwiki|tewiki&format=json": {
+"file": "a246140575cb0ad7fa09c8b925ec460d9e164256.txt",
+"status": 200,
+"tries": 1
+},
+"https://www.wikidata.org/w/api.php?action=wbgetentities&sites=enwiki&titles=Vinland%20Saga&props=sitelinks&sitefilter=jawiki|zhwiki|hiwiki|tewiki&format=json": {
+"file": "10c04918a70516d9ef68440ff8fea00078bf8f2f.txt",
+"status": 200,
+"tries": 1
+},
+"https://www.wikidata.org/w/api.php?action=wbgetentities&sites=enwiki&titles=Dr.%20Stone&props=sitelinks&sitefilter=jawiki|zhwiki|hiwiki|tewiki&format=json": {
+"file": "2c79b647a8a2c331a35ce0249e8a23900efe10ac.txt",
+"status": 200,
+"tries": 1
+},
+"https://www.wikidata.org/w/api.php?action=wbgetentities&sites=enwiki&titles=Solo%20Leveling%20%28TV%20series%29&props=sitelinks&sitefilter=jawiki|zhwiki|hiwiki|tewiki&format=json": {
+"file": "ecc394631cc725e5b7ad9cd0d37bfcd9c7255668.txt",
+"status": 200,
+"tries": 1
+},
+"https://www.wikidata.org/w/api.php?action=wbgetentities&sites=enwiki&titles=Solo%20Leveling&props=sitelinks&sitefilter=jawiki|zhwiki|hiwiki|tewiki&format=json": {
+"file": "d8fb9e978cb0f7bbc07ad3f235480a73edce6ff5.txt",
+"status": 200,
+"tries": 1
+},
+"https://www.wikidata.org/w/api.php?action=wbgetentities&sites=enwiki&titles=Vinland_Saga_%28manga%29&props=sitelinks&sitefilter=jawiki|zhwiki|hiwiki|tewiki&format=json": {
+"file": "2f6970f79278c3cd0f4a15e9cbf5f9eed8b170ce.txt",
+"status": 200,
+"tries": 1
+},
+"https://www.wikidata.org/w/api.php?action=wbgetentities&sites=enwiki&titles=Dr._Stone_%28TV_series%29&props=sitelinks&sitefilter=jawiki|zhwiki|hiwiki|tewiki&format=json": {
+"file": "d20a534722a198bf21c20218494e071f53cb28fc.txt",
+"status": 200,
+"tries": 1
+}
+}
