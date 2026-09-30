@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"normalized":[{"from":"List_of_Pink_Panther_cartoons","to":"List of Pink Panther cartoons"}],"pages":{"-1":{"ns":0,"title":"List of Pink Panther cartoons","missing":""}}}}

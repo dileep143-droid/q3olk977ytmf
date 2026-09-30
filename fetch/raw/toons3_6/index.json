@@ -1,0 +1,52 @@
+{
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=List_of_Pok%C3%A9mon_anime_episodes": {
+"file": "cb4ada85d40d9379c551c78959fbeebecf25b417.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=List_of_Courage_the_Cowardly_Dog_episodes": {
+"file": "3a472a445295919b5db6e0fe887d75bb2daad5f9.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=List_of_The_Powerpuff_Girls_%281998_TV_series%29_episodes": {
+"file": "c52a29757264b3e8fbc148df08c95eb711fbad17.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=List_of_Ben_10_%282005_TV_series%29_episodes": {
+"file": "bf6eea71a081158dea10fc4699e5c7afb648b291.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=List_of_Kick_Buttowski%3A_Suburban_Daredevil_episodes": {
+"file": "cd2e98ef894bd377de248485d97744e535463a43.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=List_of_Pink_Panther_cartoons": {
+"file": "25d34baeaf8860b403a825cd38c66e5bb901a3b5.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=List_of_Mickey_Mouse_Clubhouse_episodes": {
+"file": "0f3d9798e2aa9e7a39c399e74f4ce2f8fe78445e.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=List_of_Dora_the_Explorer_episodes": {
+"file": "dd44f2f35420d90a94f52032e240ef7a3f6582db.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=List_of_Oggy_and_the_Cockroaches_episodes": {
+"file": "194cceeede8696e15578fa4d13f46e977db7049d.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=List_of_Tom_and_Jerry_Kids_episodes": {
+"file": "0d948648f274b48c261524cf13a0934052a5af7f.txt",
+"status": 200,
+"tries": 1
+}
+}
