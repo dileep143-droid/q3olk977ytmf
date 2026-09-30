@@ -1,0 +1,7 @@
+https://www.wikidata.org/w/api.php?action=wbgetentities&sites=enwiki&titles=Vinland%20Saga%20%28TV%20series%29&props=sitelinks&sitefilter=jawiki|zhwiki|hiwiki|tewiki&format=json
+https://www.wikidata.org/w/api.php?action=wbgetentities&sites=enwiki&titles=Vinland%20Saga&props=sitelinks&sitefilter=jawiki|zhwiki|hiwiki|tewiki&format=json
+https://www.wikidata.org/w/api.php?action=wbgetentities&sites=enwiki&titles=Dr.%20Stone&props=sitelinks&sitefilter=jawiki|zhwiki|hiwiki|tewiki&format=json
+https://www.wikidata.org/w/api.php?action=wbgetentities&sites=enwiki&titles=Solo%20Leveling%20%28TV%20series%29&props=sitelinks&sitefilter=jawiki|zhwiki|hiwiki|tewiki&format=json
+https://www.wikidata.org/w/api.php?action=wbgetentities&sites=enwiki&titles=Solo%20Leveling&props=sitelinks&sitefilter=jawiki|zhwiki|hiwiki|tewiki&format=json
+https://www.wikidata.org/w/api.php?action=wbgetentities&sites=enwiki&titles=Vinland_Saga_%28manga%29&props=sitelinks&sitefilter=jawiki|zhwiki|hiwiki|tewiki&format=json
+https://www.wikidata.org/w/api.php?action=wbgetentities&sites=enwiki&titles=Dr._Stone_%28TV_series%29&props=sitelinks&sitefilter=jawiki|zhwiki|hiwiki|tewiki&format=json
