@@ -1,12 +1,12 @@
 name: Transcribe Telugu episodes (6 shards)
 on:
+  # manual only: GitHub runners are refused by YouTube ("Sign in to confirm you're not a bot"), tested 30 Sep 2026;
+  # keep for the day that changes, or for audio staged elsewhere
   workflow_dispatch:
     inputs:
       shards:
         description: "number of parallel shards (one per Gemini key)"
         default: "6"
-  schedule:
-    - cron: "17 1 * * *"   # 06:47 IST daily, until the queue is empty
 jobs:
   shard:
     runs-on: ubuntu-latest
