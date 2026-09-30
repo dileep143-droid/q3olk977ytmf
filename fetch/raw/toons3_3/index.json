@@ -1,0 +1,267 @@
+{
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Ben_10": {
+"file": "f55de53ded5b9265828ed2f11f6b918031a8720d.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=List_of_Ben_10_episodes": {
+"file": "aab94525ba1e59a101be514979d8ec8209a4c282.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Ben_10:_Alien_Force": {
+"file": "82f1bd94278a6505aabcbd474207c1b03dfce97a.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Ben_10:_Ultimate_Alien": {
+"file": "c1decdffba9ce115bb847c9a63ebcff0a14f3611.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Ben_10:_Omniverse": {
+"file": "41bfe2e4c3ce71dbf62417c0fe573cc9a5833d88.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Ben_10_(2016_TV_series)": {
+"file": "790fc64ee78a8801034803ad2c5a6f505cd60cb7.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Ben_10:_Race_Against_Time": {
+"file": "2f374d914ca4c41b6992af9ec3d457ba37dc5444.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=List_of_Ben_10:_Alien_Force_episodes": {
+"file": "60cbb75bef5598b83f2c83194be1a04433254683.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=List_of_Ben_10:_Ultimate_Alien_episodes": {
+"file": "ba509b7c7c027c8b01cca4f4e567037d5ca35d61.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=List_of_Ben_10:_Omniverse_episodes": {
+"file": "f481dca0837176b0cad498d8f24fd3f1cc311ee2.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=List_of_Ben_10_(2016_TV_series)_episodes": {
+"file": "7247e2ad4983e45200d6bd4a9329a755285cf513.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Kick_Buttowski:_Suburban_Daredevil": {
+"file": "d9396d237c7370df145d437b709896e76c026a42.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=List_of_Kick_Buttowski:_Suburban_Daredevil_episodes": {
+"file": "443e3929841a1b21bd8d69e987756686024bc39b.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Kid_vs._Kat": {
+"file": "bbac9ec56e2101b069bd3b389aa198e6f23a5d5c.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=List_of_Kid_vs._Kat_episodes": {
+"file": "0c8001bf53937b2550843678a43e169afd6bea48.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Heidi,_Girl_of_the_Alps": {
+"file": "b6f1cfba24e8fa5f97da0e85fb6e58579cfbb235.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Little_Krishna": {
+"file": "45af90b7b4ec46917df2f679ba75de61e957c3eb.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Bal_Ganesh": {
+"file": "868a690ff905deaed36fe600e65a8b7133b0df8a.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Return_of_Hanuman": {
+"file": "312dae3768b6589c16b0624b084f1790175b6b01.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Hanuman_(2005_film)": {
+"file": "952c6fe431871dd99588d07a3dc254d35d71168e.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Shiva_(Indian_animated_series)": {
+"file": "48096b68165235986d758793ddf7ba8652b29575.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Vir:_The_Robot_Boy": {
+"file": "9fcfb1f1266809e4492759347ca6516d4f79ac5e.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=List_of_Vir:_The_Robot_Boy_episodes": {
+"file": "b6c00f1037d94a0e5f460173427305425e861382.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Keymon_Ache": {
+"file": "e9454b6032af14be9da96ecef976330d67f89da3.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Golmaal_Jr.": {
+"file": "6156884741a0512434311de3cf0f243a2da8be52.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Selfie_with_Bajrangi": {
+"file": "247df47bf25a8da09b1b9bd8cf291af79cafa95f.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Pink_Panther": {
+"file": "95d7e48bc4c814bc9407da0ffe6b377c0335b2ad.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=The_Pink_Panther_Show": {
+"file": "59a32b8890a0c1d04daa16ad8dabecf5860fc5bb.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=List_of_Pink_Panther_cartoons": {
+"file": "25d34baeaf8860b403a825cd38c66e5bb901a3b5.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=The_Powerpuff_Girls": {
+"file": "6a3122eaa0c6992cfc0cd6b2662459da27905c92.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=List_of_The_Powerpuff_Girls_episodes": {
+"file": "f87adefccb7c5e567d4c5e11f95d0f54e7e727b9.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Courage_the_Cowardly_Dog": {
+"file": "6e2ac1a0de20a7a3916c9816e6c429b3d7972cbf.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=List_of_Courage_the_Cowardly_Dog_episodes": {
+"file": "3a472a445295919b5db6e0fe887d75bb2daad5f9.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Dora_the_Explorer": {
+"file": "11e980857edd53c20a81893443c22039e785870b.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=List_of_Dora_the_Explorer_episodes": {
+"file": "dd44f2f35420d90a94f52032e240ef7a3f6582db.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Jackie_Chan_Adventures": {
+"file": "d44176ed5bc8d9241dabde44ed18a49b25e4dab9.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=List_of_Jackie_Chan_Adventures_episodes": {
+"file": "b9ccd27c3506ede3f71a8ec1550bf532652746ac.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Mickey_Mouse_Clubhouse": {
+"file": "38419c7db125d2c3a46e31c570720efd84b81045.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=List_of_Mickey_Mouse_Clubhouse_episodes": {
+"file": "0f3d9798e2aa9e7a39c399e74f4ce2f8fe78445e.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Pok%C3%A9mon_(TV_series)": {
+"file": "7089eb674684932e7ff4dfb261ba7c0cfd3fc201.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=List_of_Pok%C3%A9mon_episodes": {
+"file": "88fbbddc497c1ddf1b8a78cb03aba42933a629a8.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Pok%C3%A9mon:_Indigo_League": {
+"file": "aef6a45c86c3a4644a965aaac0fad2382636e016.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Pok%C3%A9mon:_Adventures_on_the_Orange_Islands": {
+"file": "64a3b38587bbbb3d46afd8627ca0d57018f0c6f2.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Pok%C3%A9mon:_The_Johto_Journeys": {
+"file": "02cd6a940958918288c6b039ae5f6cbc8c4104c5.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Pok%C3%A9mon:_Johto_League_Champions": {
+"file": "3ba57fc012dea8221ffbb1559fd6aa67dc1b4cce.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Pok%C3%A9mon:_Master_Quest": {
+"file": "638f96fab2e5c7795cb02569899cb42ab938c0e5.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Pok%C3%A9mon:_Advanced": {
+"file": "80c6226289d9258edad2334a57f9975384db566a.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Pok%C3%A9mon:_Diamond_and_Pearl": {
+"file": "538c098e5b47e821f8063b28c69c35d400c3cf9f.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Pok%C3%A9mon:_Black_%26_White": {
+"file": "44a7a1b521fbd73ef3d4ea3d66e7708b25917b01.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Pok%C3%A9mon:_XY": {
+"file": "441cb386f5bcbae493afc0488316499d786d4b79.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Pok%C3%A9mon_the_Series:_Sun_%26_Moon": {
+"file": "f7757ea5de85c5c01220e728bee31a9f2e2338f5.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Pok%C3%A9mon_Journeys:_The_Series": {
+"file": "4405b63134533020b1a9ed08a024072f59a9447d.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Pok%C3%A9mon_Horizons:_The_Series": {
+"file": "e88e8eec627051db5501ac9c2db6cf272008effd.txt",
+"status": 200,
+"tries": 1
+}
+}

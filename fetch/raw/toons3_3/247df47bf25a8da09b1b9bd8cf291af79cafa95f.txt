@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"normalized":[{"from":"Selfie_with_Bajrangi","to":"Selfie with Bajrangi"}],"pages":{"-1":{"ns":0,"title":"Selfie with Bajrangi","missing":""}}}}

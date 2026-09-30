@@ -1,0 +1,287 @@
+{
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Puss_Gets_the_Boot": {
+"file": "93b2e063cb8e61d9a80865a763967587adac6462.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=The_Midnight_Snack": {
+"file": "658b0d4d15e39ace529e958e1aac6d4c9c87bc94.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=The_Cat_Concerto": {
+"file": "e4812d1ae8ac74ef17540dc2f1f19f82eedcf712.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Johann_Mouse": {
+"file": "3ff9b70feae206acf78e34aaf016e8def433126f.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Quiet_Please!": {
+"file": "d805e2efbf03d4362f35667adf94f2757a4a446a.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=The_Yankee_Doodle_Mouse": {
+"file": "5a8f994b24f73ca8c3621979ee2cc8e0402de8ae.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Mouse_Trouble": {
+"file": "9aa9e3db1c63b15c0035f76d49d67716974d1733.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Dog_Trouble_(1942_film)": {
+"file": "071b2ccaa8d77b395046a9da93c574950fb00013.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Cue_Ball_Cat": {
+"file": "5b69d786359da69ab78b169348a770aa4fb67059.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Blue_Cat_Blues": {
+"file": "93ab805c9e1c97449f1d40ee23c95996a9a849f3.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Nit-Witty_Kitty": {
+"file": "8ca1d70651512a2b02c2f42630b6871eeea9c84d.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Salt_Water_Tabby": {
+"file": "075ae896c044eef6b76f11d680104f31d5e4626e.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=The_Two_Mouseketeers": {
+"file": "37662b94eb880387e6bca8fc1fc6821415aef280.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Jerry_and_the_Lion": {
+"file": "0d444c8e53be59c6fd355bbd4ecaec36da43df88.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=The_Flying_Cat": {
+"file": "ad7f49493363cbbcc63c52acfe7cab7cba71f3b0.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Hatch_Up_Your_Troubles": {
+"file": "88ea336617fc5d1e4d5d253f847a44ea0785c4d4.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Heavenly_Puss": {
+"file": "778269739f72e55f0ec70577548cfd331d7e9b30.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Kitty_Foiled": {
+"file": "63f4b46a8cfc12d09a0cbf8fa518d70c7b780e09.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Mouse_Cleaning": {
+"file": "b327aa4325067bdbad4debbebbf766bff2e87000.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Fine_Feathered_Friend": {
+"file": "409b1e6db94beacf2e160625489133324808220a.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Cat_Fishin'": {
+"file": "3b1c62025db05542a08e6731d90ec4e25af33df4.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Solid_Serenade": {
+"file": "09ecdfbadc1fe78b0ff6601a7f852e20183a4f79.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=The_Zoot_Cat": {
+"file": "a9e64756fb2d74b5474ab7f72032811a4343ae8d.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Mice_Follies": {
+"file": "3106981573d855eaa9bca7cddba7f4a4c6ef0348.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Puss_n'_Boots_(film)": {
+"file": "6894f1141ab89fbb4083631d468030b01f1a1b25.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=The_Bodyguard_(1944_film)": {
+"file": "6845f6ba19d7710dc5ef1df5d40a9a77c3a86104.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Sufferin'_Cats!": {
+"file": "076588e8479c77329978abbf0bdc001f832f37f1.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Tee_for_Two_(1945_film)": {
+"file": "85288e294970022647d9df1a519e5fcb561811d8.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Flirty_Birdy": {
+"file": "78ee57de1ce505e82f6e9d0dda64c95b1628b9a4.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Springtime_for_Thomas": {
+"file": "1ca6d039958b28a8fa3fca3b3305f92725fb2d95.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=The_Milky_Waif": {
+"file": "ac51e1242ef7d51e43acb4f71493d3da6a680b31.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Tom_and_Jerry_(franchise)": {
+"file": "d2afd9bb4bf1a44efc49e88513b7f78b9349f84e.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=List_of_Tom_and_Jerry_cartoons": {
+"file": "813cfe2ee96ebb632f11d5f3a9096fac79b65c1f.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Tom_and_Jerry_Kids": {
+"file": "e148eadee13871d10b8de3ac2862e19e99aadf50.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Tom_and_Jerry_Tales": {
+"file": "4da39326a362b496a22d6a23d7d54ee746903542.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=The_Tom_and_Jerry_Show_(2014_TV_series)": {
+"file": "18e77d6bf02aa0a7d5e712af3266f68577050136.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Tom_and_Jerry_(2021_film)": {
+"file": "f662d2616c548e6f8597ca0864a5cfd0b6cf0f36.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Tom_and_Jerry:_The_Movie": {
+"file": "dcfc04de7646c17dc5ea3d29afc058aca345ba17.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Tom_and_Jerry_in_New_York": {
+"file": "edefc1e1369657c92a006e2ebed763b23b407f07.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=The_Mansion_Cat": {
+"file": "c2fd512268a792e3f03a554be345b504169f1fdd.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Saturday_Evening_Puss": {
+"file": "0462c20ead50acf5dc89176e4f33763989e0632a.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Old_Rockin'_Chair_Tom": {
+"file": "1e51029d3feb26ecf85f69afd841be37d5c573fa.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Downhearted_Duckling": {
+"file": "4d1aaa5ab9bc5d66c7af039615467ed7d5ca38b3.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Little_Quacker": {
+"file": "06bab9061a1506e8956df61f2d3a531f008fc2fa.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=The_Truce_Hurts": {
+"file": "79432bbff4a496989446ff98490fc97c028813b4.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Baby_Puss": {
+"file": "278ffecb10eedc3e8b17113654c1a33a82dea7a7.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Dr._Jekyll_and_Mr._Mouse": {
+"file": "7566071abbd228461cf712c8ac434e660cd90ec7.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Polka-Dot_Puss": {
+"file": "6ec62270308b21a28369590f3e96e1fbdc2282dd.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Casanova_Cat": {
+"file": "6dd126213a79bc0ed4276130faf73ed963c16f8e.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Push-Button_Kitty": {
+"file": "b920199f1326fef526dae1cbf3e58a75fef52f7e.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Texas_Tom": {
+"file": "111375859b5d6087fb030e038015a2771f69b8f8.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Jerry's_Cousin": {
+"file": "99984e2d8e1ee4c8a05ab89e99ba072db0748dc2.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Little_Runaway": {
+"file": "a58d0bbc0e7f86eda68a1c6d05b313bcfbfbd0fe.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Smitten_Kitten": {
+"file": "c52dc33f33df033a03f4d2c4f223948864a6d6c2.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Jerry_and_Jumbo": {
+"file": "4dc7fb7fbdd1b0cc8c50a0f08f54b9cd5889d3b8.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=The_Night_Before_Christmas_(1941_film)": {
+"file": "1d14aa6e1d96d7717d01ebe7611ce2f40fcb1c54.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Yankee_Doodle_Mouse": {
+"file": "161aee604b45ef25da3ff19ab3ad147ad69f9986.txt",
+"status": 200,
+"tries": 1
+}
+}

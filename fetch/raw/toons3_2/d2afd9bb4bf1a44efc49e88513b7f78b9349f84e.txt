@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"normalized":[{"from":"Tom_and_Jerry_(franchise)","to":"Tom and Jerry (franchise)"}],"pages":{"-1":{"ns":0,"title":"Tom and Jerry (franchise)","missing":""}}}}

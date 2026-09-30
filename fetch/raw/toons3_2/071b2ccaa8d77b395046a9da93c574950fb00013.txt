@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"normalized":[{"from":"Dog_Trouble_(1942_film)","to":"Dog Trouble (1942 film)"}],"pages":{"-1":{"ns":0,"title":"Dog Trouble (1942 film)","missing":""}}}}
