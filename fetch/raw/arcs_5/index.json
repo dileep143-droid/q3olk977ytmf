@@ -22,11 +22,11 @@
 "https://en.wikipedia.org/w/api.php?action=parse&prop=wikitext&redirects=1&format=json&formatversion=2&page=List_of_Re:Zero_−_Starting_Life_in_Another_World_characters": {
 "file": "21f3080132ac8493553c8dce4f2bde4c15f427d5.txt",
 "status": 0,
-"tries": 2
+"tries": 3
 },
 "https://en.wikipedia.org/w/api.php?action=parse&prop=wikitext&redirects=1&format=json&formatversion=2&page=Re:Zero_−_Starting_Life_in_Another_World_(season_1)": {
 "file": "7cdf2938c4731aecc1dcd29aa85d13456b84f1a8.txt",
 "status": 0,
-"tries": 2
+"tries": 3
 }
 }
