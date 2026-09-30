@@ -1,0 +1,42 @@
+{
+"https://en.wikipedia.org/w/api.php?action=parse&prop=wikitext&format=json&redirects=1&page=List_of_Courage_the_Cowardly_Dog_episodes": {
+"file": "0dc6bef6f7e1285e5ecf7801cb7cdd86aa092b9b.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=parse&prop=wikitext&format=json&redirects=1&page=List_of_The_Powerpuff_Girls_episodes": {
+"file": "8d0fce913d46559e7bccece7c90fb6168ba270ce.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=parse&prop=wikitext&format=json&redirects=1&page=List_of_Pok%C3%A9mon_anime_episodes": {
+"file": "60cd3f5577f59e4b98741d9a8432819d06a1a9b4.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=parse&prop=wikitext&format=json&redirects=1&page=List_of_Pok%C3%A9mon_the_Series%3A_Diamond_and_Pearl_episodes": {
+"file": "e9a0120981affa1a5355214ff67ef94eeed86925.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=parse&prop=wikitext&format=json&redirects=1&page=List_of_Ben_10_%282005_TV_series%29_episodes": {
+"file": "5ba0ba595a240fc833910a80c74d4aded6c5785c.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=parse&prop=wikitext&format=json&redirects=1&page=List_of_Kick_Buttowski%3A_Suburban_Daredevil_episodes": {
+"file": "af84b306553907a3af2a5636f980d6fa187767d2.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=parse&prop=wikitext&format=json&redirects=1&page=List_of_Oggy_and_the_Cockroaches_episodes": {
+"file": "a974e8aa6e0c6cfc985c60d787dab2b65dadc0cc.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=parse&prop=wikitext&format=json&redirects=1&page=List_of_Tom_and_Jerry_Kids_Show_episodes": {
+"file": "8eb9253d68c0fd63b03eddc1e8fb6ac4e903e8bc.txt",
+"status": 200,
+"tries": 1
+}
+}
