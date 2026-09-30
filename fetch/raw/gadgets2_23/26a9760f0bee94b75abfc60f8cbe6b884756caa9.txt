@@ -1,0 +1,1 @@
+{"batchcomplete":"","continue":{"sroffset":3,"continue":"-||"},"query":{"search":[{"ns":0,"title":"Coagulation Light (gadget)","pageid":13278,"snippet":""},{"ns":0,"title":"Chapter 729:Freezing Light","pageid":66012,"snippet":""},{"ns":0,"title":"Chapter 531:Freeze-Framing Him","pageid":46606,"snippet":""}]}}

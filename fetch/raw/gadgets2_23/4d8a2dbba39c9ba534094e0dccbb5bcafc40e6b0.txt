@@ -1,0 +1,1 @@
+{"batchcomplete":"","continue":{"sroffset":3,"continue":"-||"},"query":{"search":[{"ns":0,"title":"Chapter 326:Swimming pool in the room","pageid":73272,"snippet":""},{"ns":0,"title":"Chapter 264:Swimming pool in clouds","pageid":73150,"snippet":""},{"ns":0,"title":"The Parlor Swimming Set","pageid":54752,"snippet":""}]}}

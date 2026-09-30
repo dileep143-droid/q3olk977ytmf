@@ -1,0 +1,1 @@
+{"batchcomplete":"","continue":{"sroffset":3,"continue":"-||"},"query":{"search":[{"ns":0,"title":"The Tanuki Wallet/2005 Anime","pageid":66164,"snippet":""},{"ns":0,"title":"Returning to the Owner Spray","pageid":54110,"snippet":""},{"ns":0,"title":"The Multi-Purpose Amulet/1979 Anime","pageid":73016,"snippet":""}]}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","continue":{"sroffset":3,"continue":"-||"},"query":{"search":[{"ns":0,"title":"Future Diary","pageid":69591,"snippet":""},{"ns":0,"title":"The Before-and-After Diary","pageid":54748,"snippet":""},{"ns":0,"title":"The Anytime Diary/2005 Anime","pageid":55260,"snippet":""}]}}

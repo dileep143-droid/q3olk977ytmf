@@ -1,0 +1,1 @@
+{"batchcomplete":"","continue":{"sroffset":3,"continue":"-||"},"query":{"search":[{"ns":0,"title":"Decision Concrete","pageid":70730,"snippet":""},{"ns":0,"title":"Determination Concrete/2005 Anime","pageid":71141,"snippet":""},{"ns":0,"title":"Practical Mini Car Set (Gadget)","pageid":65798,"snippet":""}]}}

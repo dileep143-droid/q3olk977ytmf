@@ -1,0 +1,1 @@
+{"batchcomplete":"","continue":{"sroffset":3,"continue":"-||"},"query":{"search":[{"ns":0,"title":"Chapter 336:Komon Candy","pageid":73273,"snippet":""},{"ns":0,"title":"Chapter 156:Urashima Candy","pageid":32279,"snippet":""},{"ns":0,"title":"Chapter 527:Life as a Ghost is too hard to Resist","pageid":73209,"snippet":""}]}}

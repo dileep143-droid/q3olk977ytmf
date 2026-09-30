@@ -1,0 +1,1 @@
+{"batchcomplete":"","continue":{"sroffset":3,"continue":"-||"},"query":{"search":[{"ns":0,"title":"Pebble Hat","pageid":10365,"snippet":""},{"ns":0,"title":"Jaiko Gouda","pageid":2038,"snippet":""},{"ns":0,"title":"The Time Cloth/1979 Anime/Remade","pageid":25271,"snippet":""}]}}

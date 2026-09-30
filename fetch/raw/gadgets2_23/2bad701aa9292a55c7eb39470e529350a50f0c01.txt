@@ -1,0 +1,1 @@
+{"batchcomplete":"","continue":{"sroffset":3,"continue":"-||"},"query":{"search":[{"ns":0,"title":"Strong Stone/2005 Anime/Remade","pageid":38010,"snippet":""},{"ns":0,"title":"The Real Japan-Traveling Super Express Sugoroku","pageid":54093,"snippet":""},{"ns":0,"title":"The Time Capsule/1979 Anime","pageid":46720,"snippet":""}]}}

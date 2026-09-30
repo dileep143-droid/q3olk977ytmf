@@ -1,0 +1,1 @@
+{"batchcomplete":"","continue":{"sroffset":3,"continue":"-||"},"query":{"search":[{"ns":0,"title":"The Genius Egg","pageid":43702,"snippet":""},{"ns":0,"title":"Meal Encyclopedia (Nobita and the Birth of Japan 2016 (video game)","pageid":66968,"snippet":""},{"ns":0,"title":"Shizuka-chan, in an Egg","pageid":16586,"snippet":""}]}}

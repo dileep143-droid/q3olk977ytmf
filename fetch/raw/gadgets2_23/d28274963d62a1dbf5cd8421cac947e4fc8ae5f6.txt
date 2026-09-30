@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"search":[{"ns":0,"title":"Lie DePuffer","pageid":48586,"snippet":""},{"ns":0,"title":"List of Doraemon manga (Kindle version) chapters","pageid":27472,"snippet":""},{"ns":0,"title":"Chapter 178:Thousand Needles Trout","pageid":68190,"snippet":""}]}}

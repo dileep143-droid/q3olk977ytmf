@@ -1,0 +1,1 @@
+{"batchcomplete":"","continue":{"sroffset":3,"continue":"-||"},"query":{"search":[{"ns":0,"title":"Opposite Arrow","pageid":54566,"snippet":""},{"ns":0,"title":"Chapter 005:Kobe Abe","pageid":4049,"snippet":""},{"ns":0,"title":"Kobe Abe (gadget)","pageid":6707,"snippet":""}]}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","continue":{"sroffset":3,"continue":"-||"},"query":{"search":[{"ns":0,"title":"The Future Book Coupon/2005 Anime","pageid":68764,"snippet":""},{"ns":0,"title":"Real Book/1979 Anime","pageid":66508,"snippet":""},{"ns":0,"title":"Going for a Vacuum Cleaner Drive/2005 Anime","pageid":43452,"snippet":""}]}}

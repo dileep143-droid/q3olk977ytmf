@@ -1,0 +1,1 @@
+{"batchcomplete":"","continue":{"sroffset":3,"continue":"-||"},"query":{"search":[{"ns":0,"title":"Mrs. Gouda","pageid":2423,"snippet":""},{"ns":0,"title":"Doraemon","pageid":1867,"snippet":""},{"ns":0,"title":"Dorami","pageid":1884,"snippet":""}]}}

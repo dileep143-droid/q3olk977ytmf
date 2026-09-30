@@ -1,0 +1,1 @@
+{"batchcomplete":"","continue":{"sroffset":3,"continue":"-||"},"query":{"search":[{"ns":0,"title":"Chapter 754:Swapping Glove","pageid":73639,"snippet":""},{"ns":0,"title":"Technology Gloves","pageid":13659,"snippet":""},{"ns":0,"title":"Super Gloves","pageid":6722,"snippet":""}]}}

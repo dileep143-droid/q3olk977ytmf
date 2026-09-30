@@ -1,0 +1,1 @@
+{"batchcomplete":"","continue":{"sroffset":3,"continue":"-||"},"query":{"search":[{"ns":0,"title":"The Air Conditioning Photo/1979 Anime","pageid":68198,"snippet":""},{"ns":0,"title":"The Air Conditioning Photo/2005 Anime","pageid":54526,"snippet":""},{"ns":0,"title":"Air Conditioning Photo","pageid":20614,"snippet":""}]}}

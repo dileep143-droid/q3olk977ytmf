@@ -1,0 +1,1 @@
+{"batchcomplete":"","continue":{"sroffset":3,"continue":"-||"},"query":{"search":[{"ns":0,"title":"Chapter 132:Bad Luck Diamond","pageid":28484,"snippet":""},{"ns":0,"title":"Chapter 794:Clam Cassette Ducking Underground!","pageid":74273,"snippet":""},{"ns":0,"title":"Chapter 069:Lucky Gun","pageid":5173,"snippet":""}]}}

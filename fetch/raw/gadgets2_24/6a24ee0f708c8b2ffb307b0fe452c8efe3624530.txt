@@ -1,0 +1,1 @@
+{"batchcomplete":"","continue":{"sroffset":3,"continue":"-||"},"query":{"search":[{"ns":0,"title":"3D Copy Paper","pageid":69391,"snippet":""},{"ns":0,"title":"Flattening Iron (gadget)","pageid":44660,"snippet":""},{"ns":0,"title":"The Object Replacing Cloth","pageid":37371,"snippet":""}]}}

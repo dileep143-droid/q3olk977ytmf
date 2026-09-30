@@ -1,0 +1,1 @@
+{"batchcomplete":"","continue":{"sroffset":3,"continue":"-||"},"query":{"search":[{"ns":0,"title":"Couple Test Badges (gadget)","pageid":51344,"snippet":""},{"ns":0,"title":"The Couple Test Badges/2005 Anime","pageid":26899,"snippet":""},{"ns":0,"title":"The Couple Test Badges","pageid":72047,"snippet":""}]}}

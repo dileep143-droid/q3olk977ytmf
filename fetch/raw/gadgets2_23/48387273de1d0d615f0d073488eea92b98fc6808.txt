@@ -1,0 +1,1 @@
+{"batchcomplete":"","continue":{"sroffset":3,"continue":"-||"},"query":{"search":[{"ns":0,"title":"Doraemon Theme Series","pageid":77675,"snippet":""},{"ns":0,"title":"Shizuka-chan, in an Egg/1979 Anime","pageid":20952,"snippet":""},{"ns":0,"title":"List of Doraemon manga (Shogakukan Asia version) chapters","pageid":36555,"snippet":""}]}}

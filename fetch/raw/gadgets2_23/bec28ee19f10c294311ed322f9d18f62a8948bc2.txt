@@ -1,0 +1,1 @@
+{"batchcomplete":"","continue":{"sroffset":3,"continue":"-||"},"query":{"search":[{"ns":0,"title":"Kuntakku","pageid":2634,"snippet":""},{"ns":0,"title":"Chapter 860: The Man Who Comes From Garapa Planet","pageid":40241,"snippet":""},{"ns":0,"title":"Chapter 860:The Man who comes from Garapa Planet","pageid":50653,"snippet":""}]}}

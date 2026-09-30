@@ -1,0 +1,1 @@
+{"batchcomplete":"","continue":{"sroffset":3,"continue":"-||"},"query":{"search":[{"ns":0,"title":"Jaiko's Boyfriend = Nobita/1979 Anime","pageid":54860,"snippet":""},{"ns":0,"title":"Jaiko's Boyfriend = Nobita/2005 Anime/Original","pageid":69000,"snippet":""},{"ns":0,"title":"Chapter 401:Jaiko's Fan is Nobita","pageid":73185,"snippet":""}]}}

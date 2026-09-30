@@ -1,0 +1,1 @@
+{"batchcomplete":"","continue":{"sroffset":3,"continue":"-||"},"query":{"search":[{"ns":0,"title":"Chapter 154:Human Controller","pageid":73191,"snippet":""},{"ns":0,"title":"The Human Controller/2005 Anime","pageid":66658,"snippet":""},{"ns":0,"title":"The Human Controller/1979 Anime/Original","pageid":71735,"snippet":""}]}}

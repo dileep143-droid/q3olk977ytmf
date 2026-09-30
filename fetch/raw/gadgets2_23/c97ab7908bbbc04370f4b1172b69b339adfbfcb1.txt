@@ -1,0 +1,1 @@
+{"batchcomplete":"","continue":{"sroffset":3,"continue":"-||"},"query":{"search":[{"ns":0,"title":"The Maze Wheel/1979 Anime/Original","pageid":69197,"snippet":""},{"ns":0,"title":"Amazing Maze","pageid":66055,"snippet":""},{"ns":0,"title":"The Maze Wheel/2005 Anime/Original","pageid":28014,"snippet":""}]}}

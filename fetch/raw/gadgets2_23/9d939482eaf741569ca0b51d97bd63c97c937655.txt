@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"search":[{"ns":0,"title":"The Town Breakthrough Strategy/2005 Anime/Original","pageid":29561,"snippet":""},{"ns":0,"title":"The Helping Hand Spray/2005 Anime","pageid":42237,"snippet":""}]}}

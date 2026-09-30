@@ -1,0 +1,1 @@
+{"batchcomplete":"","continue":{"sroffset":3,"continue":"-||"},"query":{"search":[{"ns":0,"title":"Just-As-You-Said Pills","pageid":28244,"snippet":""},{"ns":0,"title":"The Invincible! Insect Pills/1979 Anime/Remade/Gallery","pageid":79252,"snippet":""},{"ns":0,"title":"Jekyll and Hyde Pills","pageid":7521,"snippet":""}]}}

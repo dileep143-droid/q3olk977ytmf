@@ -1,0 +1,1 @@
+{"batchcomplete":"","continue":{"sroffset":3,"continue":"-||"},"query":{"search":[{"ns":0,"title":"Indiscriminate Fad-Causing Virus","pageid":28290,"snippet":""},{"ns":0,"title":"The Indiscriminate Fad-Causing Virus","pageid":54462,"snippet":""},{"ns":0,"title":"Fashion Virus","pageid":7436,"snippet":""}]}}

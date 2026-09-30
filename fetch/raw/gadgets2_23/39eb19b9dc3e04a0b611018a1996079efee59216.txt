@@ -1,0 +1,1 @@
+{"batchcomplete":"","continue":{"sroffset":3,"continue":"-||"},"query":{"search":[{"ns":0,"title":"Momotaro Jirushi's Millet Dumplings","pageid":19253,"snippet":""},{"ns":0,"title":"Momotaro Jirushi's Millet Dumplings/1979 Anime","pageid":73458,"snippet":""},{"ns":0,"title":"Wild Beast-Taming Pellets (Manga)","pageid":76373,"snippet":""}]}}

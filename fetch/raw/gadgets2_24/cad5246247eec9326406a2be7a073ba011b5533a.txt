@@ -1,0 +1,1 @@
+{"batchcomplete":"","continue":{"sroffset":3,"continue":"-||"},"query":{"search":[{"ns":0,"title":"Weather Exchange Map","pageid":19187,"snippet":""},{"ns":0,"title":"The Weather Exchange Map","pageid":21719,"snippet":""},{"ns":0,"title":"The Magic Map/2005 Anime","pageid":75614,"snippet":""}]}}

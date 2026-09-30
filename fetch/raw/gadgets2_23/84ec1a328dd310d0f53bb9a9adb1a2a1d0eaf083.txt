@@ -1,0 +1,1 @@
+{"batchcomplete":"","continue":{"sroffset":3,"continue":"-||"},"query":{"search":[{"ns":0,"title":"Chapter 595:Afterward Album","pageid":40001,"snippet":""},{"ns":0,"title":"Doraemon's Great Prediction/2005 Anime","pageid":33934,"snippet":""},{"ns":0,"title":"Chapter 199:Antenna of Prediction","pageid":73110,"snippet":""}]}}

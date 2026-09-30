@@ -1,0 +1,1 @@
+{"batchcomplete":"","continue":{"sroffset":3,"continue":"-||"},"query":{"search":[{"ns":0,"title":"The Private Satellite/1979 Anime/Original","pageid":68139,"snippet":""},{"ns":0,"title":"The Private Satellite/2005 Anime","pageid":68140,"snippet":""},{"ns":0,"title":"Automatic Rocket for Space Travel","pageid":79606,"snippet":""}]}}

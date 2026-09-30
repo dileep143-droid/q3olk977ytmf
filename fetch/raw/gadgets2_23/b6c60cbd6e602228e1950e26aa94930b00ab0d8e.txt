@@ -1,0 +1,1 @@
+{"batchcomplete":"","continue":{"sroffset":3,"continue":"-||"},"query":{"search":[{"ns":0,"title":"Comedy Rock (gadget)","pageid":3770,"snippet":""},{"ns":0,"title":"Taking Revenge with the Disciplinary Warehouse/1979 Anime/Remade","pageid":71935,"snippet":""},{"ns":0,"title":"The Joking Microphone","pageid":54758,"snippet":""}]}}

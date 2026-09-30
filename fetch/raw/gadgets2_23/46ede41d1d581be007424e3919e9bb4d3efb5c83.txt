@@ -1,0 +1,1 @@
+{"batchcomplete":"","continue":{"sroffset":3,"continue":"-||"},"query":{"search":[{"ns":0,"title":"Chapter 066:Mysterious Person from the Future","pageid":5136,"snippet":""},{"ns":0,"title":"Chapter 385:Alone in the Future World","pageid":40081,"snippet":""},{"ns":0,"title":"Chapter 628:Future Camera","pageid":70325,"snippet":""}]}}

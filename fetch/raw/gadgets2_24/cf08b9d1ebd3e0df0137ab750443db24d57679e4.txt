@@ -1,0 +1,1 @@
+{"batchcomplete":"","continue":{"sroffset":3,"continue":"-||"},"query":{"search":[{"ns":0,"title":"Chapter 383:Hight Responsibility Amulet","pageid":73169,"snippet":""},{"ns":0,"title":"Chapter 064:Melody Gas","pageid":5112,"snippet":""},{"ns":0,"title":"Chapter 774:Inherit Gas","pageid":74265,"snippet":""}]}}

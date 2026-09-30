@@ -1,0 +1,1 @@
+{"batchcomplete":"","continue":{"sroffset":3,"continue":"-||"},"query":{"search":[{"ns":0,"title":"The Ghost Timer/1979 Anime","pageid":68074,"snippet":""},{"ns":0,"title":"Chapter 687:Alarm Ghost","pageid":74243,"snippet":""},{"ns":0,"title":"Chapter 164:The Telephone Ghost","pageid":73097,"snippet":""}]}}

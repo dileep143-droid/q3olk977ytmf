@@ -1,0 +1,1 @@
+{"batchcomplete":"","continue":{"sroffset":3,"continue":"-||"},"query":{"search":[{"ns":0,"title":"Jekyll and Hyde Pills","pageid":7521,"snippet":""},{"ns":0,"title":"The Unnamed Boys","pageid":70354,"snippet":""},{"ns":0,"title":"The Invincible! Insect Pills/2005 Anime/Remade","pageid":42555,"snippet":""}]}}

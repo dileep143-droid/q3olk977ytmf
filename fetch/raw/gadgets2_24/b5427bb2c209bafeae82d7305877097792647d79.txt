@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"search":[{"ns":0,"title":"The Sympathy Antenna","pageid":73572,"snippet":""},{"ns":0,"title":"Denja","pageid":3030,"snippet":""}]}}

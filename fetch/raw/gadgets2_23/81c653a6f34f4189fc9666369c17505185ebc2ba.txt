@@ -1,0 +1,1 @@
+{"batchcomplete":"","continue":{"sroffset":3,"continue":"-||"},"query":{"search":[{"ns":0,"title":"Delay Candy/2005 Anime","pageid":34315,"snippet":""},{"ns":0,"title":"Delay Candy","pageid":21287,"snippet":""},{"ns":0,"title":"Delay Candy/1979 Anime","pageid":34314,"snippet":""}]}}

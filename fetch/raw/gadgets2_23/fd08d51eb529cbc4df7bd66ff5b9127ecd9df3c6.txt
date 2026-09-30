@@ -1,0 +1,1 @@
+{"batchcomplete":"","continue":{"sroffset":3,"continue":"-||"},"query":{"search":[{"ns":0,"title":"Magic Hand","pageid":6076,"snippet":""},{"ns":0,"title":"The Magic Handkerchief/2005 Anime","pageid":74684,"snippet":""},{"ns":0,"title":"Magic Encylopedia","pageid":22289,"snippet":""}]}}

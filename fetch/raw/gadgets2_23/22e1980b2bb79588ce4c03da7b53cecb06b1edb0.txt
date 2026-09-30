@@ -1,0 +1,1 @@
+{"batchcomplete":"","continue":{"sroffset":3,"continue":"-||"},"query":{"search":[{"ns":0,"title":"Highly Effective Disaster Eliminate Sticker","pageid":54239,"snippet":""},{"ns":0,"title":"Deluxe Light (gadget)","pageid":8056,"snippet":""},{"ns":0,"title":"The Smoke Ghost of the Lamp/Remade","pageid":51450,"snippet":""}]}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","continue":{"sroffset":3,"continue":"-||"},"query":{"search":[{"ns":0,"title":"The Understanding and Thankfulness Machine/1979 Anime/Remade","pageid":39952,"snippet":""},{"ns":0,"title":"Chapter 18: Human Programming Pill/Gallery","pageid":42852,"snippet":""},{"ns":0,"title":"Hitler Pills","pageid":70655,"snippet":""}]}}

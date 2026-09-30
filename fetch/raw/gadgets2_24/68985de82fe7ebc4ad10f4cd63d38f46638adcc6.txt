@@ -1,0 +1,1 @@
+{"batchcomplete":"","continue":{"sroffset":3,"continue":"-||"},"query":{"search":[{"ns":0,"title":"The Targeted Gian/1979 Anime","pageid":68709,"snippet":""},{"ns":0,"title":"The Targeted Gian/2005 Anime","pageid":68710,"snippet":""},{"ns":0,"title":"Chapter 298:Singing Tadpoles","pageid":73129,"snippet":""}]}}

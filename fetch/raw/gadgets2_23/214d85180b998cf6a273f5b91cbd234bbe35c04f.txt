@@ -1,0 +1,1 @@
+{"batchcomplete":"","continue":{"sroffset":3,"continue":"-||"},"query":{"search":[{"ns":0,"title":"Doraemon in the United Kingdom and Ireland","pageid":17238,"snippet":""},{"ns":0,"title":"Prophecy: The End of the Earth","pageid":29464,"snippet":""},{"ns":0,"title":"The Town Breakthrough Strategy/2005 Anime/Original","pageid":29561,"snippet":""}]}}

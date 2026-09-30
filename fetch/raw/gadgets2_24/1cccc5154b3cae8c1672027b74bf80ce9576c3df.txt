@@ -1,0 +1,1 @@
+{"batchcomplete":"","continue":{"sroffset":3,"continue":"-||"},"query":{"search":[{"ns":0,"title":"Odd Umbrellas","pageid":19013,"snippet":""},{"ns":0,"title":"The Odd, Odd Umbrellas/2005 Anime/Remade","pageid":69131,"snippet":""},{"ns":0,"title":"The Odd, Odd Umbrellas/2005 Anime/Original","pageid":33902,"snippet":""}]}}

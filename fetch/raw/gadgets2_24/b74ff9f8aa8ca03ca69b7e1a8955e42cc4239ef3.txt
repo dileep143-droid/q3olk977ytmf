@@ -1,0 +1,1 @@
+{"batchcomplete":"","continue":{"sroffset":3,"continue":"-||"},"query":{"search":[{"ns":0,"title":"Secret Gadget Air Pistol","pageid":13643,"snippet":""},{"ns":0,"title":"Air Pistol (gadget)","pageid":6721,"snippet":""},{"ns":0,"title":"Air Cannon","pageid":6711,"snippet":""}]}}

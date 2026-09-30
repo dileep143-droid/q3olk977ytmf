@@ -1,0 +1,1 @@
+{"batchcomplete":"","continue":{"sroffset":3,"continue":"-||"},"query":{"search":[{"ns":0,"title":"Emotion Energy Cylinder","pageid":22406,"snippet":""},{"ns":0,"title":"The Emotion Energy Cylinder/1979 Anime","pageid":68374,"snippet":""},{"ns":0,"title":"The Emotion Energy Cylinder/1979 Anime/Gallery","pageid":79678,"snippet":""}]}}

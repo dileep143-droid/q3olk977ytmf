@@ -1,0 +1,1 @@
+{"batchcomplete":"","continue":{"sroffset":3,"continue":"-||"},"query":{"search":[{"ns":0,"title":"Chapter 2: A Tickling Glove","pageid":25083,"snippet":""},{"ns":0,"title":"The Swapping Glove/2005 Anime","pageid":78527,"snippet":""},{"ns":0,"title":"Decision Concrete","pageid":70730,"snippet":""}]}}

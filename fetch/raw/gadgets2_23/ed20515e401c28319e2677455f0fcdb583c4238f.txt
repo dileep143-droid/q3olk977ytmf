@@ -1,0 +1,1 @@
+{"batchcomplete":"","continue":{"sroffset":3,"continue":"-||"},"query":{"search":[{"ns":0,"title":"Magic Hands","pageid":19166,"snippet":""},{"ns":0,"title":"Chapter 236:The Magic Hand","pageid":28471,"snippet":""},{"ns":0,"title":"Chapter 693:Magic Dictionary","pageid":74309,"snippet":""}]}}

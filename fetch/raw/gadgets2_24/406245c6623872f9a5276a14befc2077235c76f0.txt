@@ -1,0 +1,1 @@
+{"batchcomplete":"","continue":{"sroffset":3,"continue":"-||"},"query":{"search":[{"ns":0,"title":"The Wall Drill","pageid":37205,"snippet":""},{"ns":0,"title":"Doraemon, The Prank","pageid":37203,"snippet":""},{"ns":0,"title":"The Time Capsule/2005 Anime","pageid":45579,"snippet":""}]}}

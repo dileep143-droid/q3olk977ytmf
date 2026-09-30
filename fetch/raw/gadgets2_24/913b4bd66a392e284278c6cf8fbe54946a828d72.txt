@@ -1,0 +1,1 @@
+{"batchcomplete":"","continue":{"sroffset":3,"continue":"-||"},"query":{"search":[{"ns":0,"title":"Secret Gadget Encyclopedia (Nobita's Treasure Island (video game)","pageid":66972,"snippet":""},{"ns":0,"title":"Summon Buzzer (Gadget)","pageid":41658,"snippet":""},{"ns":0,"title":"All the Way From the Country of the Future/1973 Anime","pageid":34580,"snippet":""}]}}

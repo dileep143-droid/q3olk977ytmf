@@ -1,0 +1,1 @@
+{"batchcomplete":"","continue":{"sroffset":3,"continue":"-||"},"query":{"search":[{"ns":0,"title":"Chapter 686:Prank Toy Machine","pageid":74242,"snippet":""},{"ns":0,"title":"The Prank Toy Machine/2005 Anime","pageid":34390,"snippet":""},{"ns":0,"title":"Chapter 069:Lucky Gun","pageid":5173,"snippet":""}]}}

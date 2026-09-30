@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"search":[{"ns":0,"title":"Doraemon in India","pageid":56264,"snippet":""},{"ns":0,"title":"List of Doraemon Manga (Volumes and Chapters)","pageid":30147,"snippet":""}]}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","continue":{"sroffset":3,"continue":"-||"},"query":{"search":[{"ns":0,"title":"Time Piggy Bank (Gadget)","pageid":66461,"snippet":""},{"ns":0,"title":"The Fine Box/2005 Anime","pageid":74490,"snippet":""},{"ns":0,"title":"A Love Ice Box","pageid":49484,"snippet":""}]}}

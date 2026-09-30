@@ -1,0 +1,1 @@
+{"batchcomplete":"","continue":{"sroffset":3,"continue":"-||"},"query":{"search":[{"ns":0,"title":"Yes-No Fortune Teller","pageid":64812,"snippet":""},{"ns":0,"title":"Goods Fortune Teller","pageid":71002,"snippet":""},{"ns":0,"title":"Fortune Telling Through Tongue Reading!/1979 Anime","pageid":54591,"snippet":""}]}}

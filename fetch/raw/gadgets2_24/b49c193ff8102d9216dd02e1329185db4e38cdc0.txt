@@ -1,0 +1,1 @@
+{"batchcomplete":"","continue":{"sroffset":3,"continue":"-||"},"query":{"search":[{"ns":0,"title":"Lightning Rod","pageid":71242,"snippet":""},{"ns":0,"title":"Doraemon's Long Day","pageid":30536,"snippet":""},{"ns":0,"title":"Wrestling Killer/1979 Anime","pageid":33930,"snippet":""}]}}

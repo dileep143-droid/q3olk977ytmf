@@ -1,0 +1,1 @@
+{"batchcomplete":"","continue":{"sroffset":3,"continue":"-||"},"query":{"search":[{"ns":0,"title":"Comedy Rock (gadget)","pageid":3770,"snippet":""},{"ns":0,"title":"Mom's Rock Cave (gadget)","pageid":41761,"snippet":""},{"ns":0,"title":"World Rock-ord/2005 Anime","pageid":28719,"snippet":""}]}}

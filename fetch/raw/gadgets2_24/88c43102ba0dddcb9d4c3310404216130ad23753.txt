@@ -1,0 +1,1 @@
+{"batchcomplete":"","continue":{"sroffset":3,"continue":"-||"},"query":{"search":[{"ns":0,"title":"Chapter 499:Real Game Player","pageid":73227,"snippet":""},{"ns":0,"title":"List of Doraemon video games","pageid":3155,"snippet":""},{"ns":0,"title":"Chapter 674:Booking Chip","pageid":40432,"snippet":""}]}}

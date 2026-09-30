@@ -1,0 +1,1 @@
+{"batchcomplete":"","continue":{"sroffset":3,"continue":"-||"},"query":{"search":[{"ns":0,"title":"List of Doraemon Manga Chapters","pageid":74690,"snippet":""},{"ns":0,"title":"Chapter 091:Hot Spring Trip","pageid":7644,"snippet":""},{"ns":0,"title":"Time Machine","pageid":1955,"snippet":""}]}}

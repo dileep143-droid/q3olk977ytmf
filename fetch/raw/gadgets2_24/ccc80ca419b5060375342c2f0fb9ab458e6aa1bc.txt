@@ -1,0 +1,1 @@
+{"batchcomplete":"","continue":{"sroffset":3,"continue":"-||"},"query":{"search":[{"ns":0,"title":"The Manual Maker","pageid":54534,"snippet":""},{"ns":0,"title":"Invention Maker","pageid":36814,"snippet":""},{"ns":0,"title":"The Mecha Maker/U.S. English dub","pageid":34301,"snippet":""}]}}

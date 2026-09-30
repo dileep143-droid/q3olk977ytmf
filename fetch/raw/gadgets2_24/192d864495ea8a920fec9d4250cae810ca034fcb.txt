@@ -1,0 +1,1 @@
+{"batchcomplete":"","continue":{"sroffset":3,"continue":"-||"},"query":{"search":[{"ns":0,"title":"Chapter 741:Mentalist Hat","pageid":74254,"snippet":""},{"ns":0,"title":"Posing Scholar Hat","pageid":78170,"snippet":""},{"ns":0,"title":"Chapter 068:Pebble Hat","pageid":5163,"snippet":""}]}}

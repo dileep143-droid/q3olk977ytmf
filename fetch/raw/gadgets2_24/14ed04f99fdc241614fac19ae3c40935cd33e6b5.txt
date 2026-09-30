@@ -1,0 +1,1 @@
+{"batchcomplete":"","continue":{"sroffset":3,"continue":"-||"},"query":{"search":[{"ns":0,"title":"Shifting Stick","pageid":77481,"snippet":""},{"ns":0,"title":"The Shifting Stick/2005 Anime","pageid":34376,"snippet":""},{"ns":0,"title":"Chapter 239:Reverse Light","pageid":73262,"snippet":""}]}}

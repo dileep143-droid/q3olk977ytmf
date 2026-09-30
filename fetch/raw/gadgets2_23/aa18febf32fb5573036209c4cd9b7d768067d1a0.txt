@@ -1,0 +1,1 @@
+{"batchcomplete":"","continue":{"sroffset":3,"continue":"-||"},"query":{"search":[{"ns":0,"title":"Chapter 345:Delivery Machine","pageid":73237,"snippet":""},{"ns":0,"title":"Chapter 236:The Magic Hand","pageid":28471,"snippet":""},{"ns":0,"title":"Chapter 647:Automatic Delivery Label","pageid":73621,"snippet":""}]}}

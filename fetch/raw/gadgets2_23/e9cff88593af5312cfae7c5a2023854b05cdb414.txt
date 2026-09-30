@@ -1,0 +1,1 @@
+{"batchcomplete":"","continue":{"sroffset":3,"continue":"-||"},"query":{"search":[{"ns":0,"title":"Ataru Gun (gadget)","pageid":21351,"snippet":""},{"ns":0,"title":"Dream Gun","pageid":65520,"snippet":""},{"ns":0,"title":"Air Cannon","pageid":6711,"snippet":""}]}}

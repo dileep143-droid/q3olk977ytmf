@@ -1,0 +1,1 @@
+{"batchcomplete":"","continue":{"sroffset":3,"continue":"-||"},"query":{"search":[{"ns":0,"title":"The Werewolf Cream/2005 Anime/Remade","pageid":42618,"snippet":""},{"ns":0,"title":"The Werewolf Cream/2005 Anime/Original","pageid":42619,"snippet":""},{"ns":0,"title":"The Werewolf Cream/U.S. English dub","pageid":33999,"snippet":""}]}}

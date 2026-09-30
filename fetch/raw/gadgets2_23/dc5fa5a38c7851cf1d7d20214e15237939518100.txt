@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"search":[{"ns":0,"title":"Doraemon Nobita no Dorabian Nights","pageid":34603,"snippet":""},{"ns":0,"title":"List of Doraemon Manga Chapters","pageid":74690,"snippet":""}]}}

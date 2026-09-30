@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"search":[{"ns":0,"title":"Umezu","pageid":70656,"snippet":""},{"ns":0,"title":"Korosuke","pageid":64538,"snippet":""}]}}

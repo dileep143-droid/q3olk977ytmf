@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"search":[{"ns":0,"title":"Chapter 400:Getting Hurt Without an Accident","pageid":73180,"snippet":""},{"ns":0,"title":"Chapter 065:Nobizaemon's Secret","pageid":5126,"snippet":""}]}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","continue":{"sroffset":3,"continue":"-||"},"query":{"search":[{"ns":0,"title":"Chapter 207:Fortune Telling Through Tongue Reading","pageid":73105,"snippet":""},{"ns":0,"title":"Chapter 619:Continuous Imagination Magnifying Glass","pageid":73325,"snippet":""},{"ns":0,"title":"Chapter 372:Let me join your fortune","pageid":73134,"snippet":""}]}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"search":[{"ns":0,"title":"Chapter 21: Time Pistol to Eliminate Obstacle","pageid":41522,"snippet":""}]}}

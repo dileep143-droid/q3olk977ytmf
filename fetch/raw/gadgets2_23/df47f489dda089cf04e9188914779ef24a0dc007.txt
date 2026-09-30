@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"search":[{"ns":0,"title":"Coordinate it with SuneCapa","pageid":54920,"snippet":""},{"ns":0,"title":"The Story of Suneo's Other World","pageid":66903,"snippet":""},{"ns":0,"title":"Tokyo","pageid":12633,"snippet":""}]}}

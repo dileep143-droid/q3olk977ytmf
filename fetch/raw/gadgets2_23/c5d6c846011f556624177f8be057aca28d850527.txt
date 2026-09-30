@@ -1,0 +1,1 @@
+{"batchcomplete":"","continue":{"sroffset":3,"continue":"-||"},"query":{"search":[{"ns":0,"title":"The Liquid-and-Gas Pills/1979 Anime","pageid":38269,"snippet":""},{"ns":0,"title":"The Invincible! Insect Pills/2005 Anime/Original","pageid":42556,"snippet":""},{"ns":0,"title":"The Invincible! Insect Pills/1979 Anime/Original","pageid":34002,"snippet":""}]}}

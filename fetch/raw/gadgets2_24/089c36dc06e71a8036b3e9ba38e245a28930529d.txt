@@ -1,0 +1,1 @@
+{"batchcomplete":"","continue":{"sroffset":3,"continue":"-||"},"query":{"search":[{"ns":0,"title":"A Loooooong Day with the Time Floodgate/2005 Anime","pageid":81669,"snippet":""},{"ns":0,"title":"Time Floodgate (Gadget)","pageid":43505,"snippet":""},{"ns":0,"title":"A Loooooong Day with the Time Floodgate/1979 Anime","pageid":65942,"snippet":""}]}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"search":[{"ns":0,"title":"Nessie is Coming/2005 Anime","pageid":68269,"snippet":""},{"ns":0,"title":"Mole-type Speaker","pageid":40947,"snippet":""}]}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"search":[{"ns":0,"title":"Doubter Pills","pageid":69811,"snippet":""},{"ns":0,"title":"Just-As-You-Said Pills","pageid":28244,"snippet":""},{"ns":0,"title":"Chapter 048:Delusion Pill/Gallery","pageid":43036,"snippet":""}]}}

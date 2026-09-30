@@ -1,0 +1,1 @@
+{"batchcomplete":"","continue":{"sroffset":3,"continue":"-||"},"query":{"search":[{"ns":0,"title":"Welcome to Ghost Inn!","pageid":30884,"snippet":""},{"ns":0,"title":"Using the Helping Pills on Me/2005 Anime/Remade","pageid":69541,"snippet":""},{"ns":0,"title":"Gigazombie","pageid":5772,"snippet":""}]}}

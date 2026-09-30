@@ -1,0 +1,1 @@
+{"batchcomplete":"","continue":{"sroffset":3,"continue":"-||"},"query":{"search":[{"ns":0,"title":"Slope Cane (gadget)","pageid":56171,"snippet":""},{"ns":0,"title":"Chapter 659:Slope Gear","pageid":73339,"snippet":""},{"ns":0,"title":"Slope Cane/2005 Anime/Remade","pageid":68099,"snippet":""}]}}

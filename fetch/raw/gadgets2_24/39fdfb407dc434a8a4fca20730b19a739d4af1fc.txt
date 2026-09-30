@@ -1,0 +1,1 @@
+{"batchcomplete":"","continue":{"sroffset":3,"continue":"-||"},"query":{"search":[{"ns":0,"title":"Magical Girl Shizu-chan/2005 Anime/Remade","pageid":34185,"snippet":""},{"ns":0,"title":"Magical Girl Shizu-chan/1979 Anime/Original","pageid":34182,"snippet":""},{"ns":0,"title":"How to Eat the Delicious Nobita","pageid":35132,"snippet":""}]}}

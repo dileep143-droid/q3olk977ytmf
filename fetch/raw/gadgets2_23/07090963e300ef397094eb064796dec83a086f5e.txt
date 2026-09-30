@@ -1,0 +1,1 @@
+{"batchcomplete":"","continue":{"sroffset":3,"continue":"-||"},"query":{"search":[{"ns":0,"title":"Boxing Gloves","pageid":40332,"snippet":""},{"ns":0,"title":"Champion Gloves","pageid":19184,"snippet":""},{"ns":0,"title":"The Opposite Gloves","pageid":73569,"snippet":""}]}}

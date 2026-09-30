@@ -1,0 +1,1 @@
+{"batchcomplete":"","continue":{"sroffset":3,"continue":"-||"},"query":{"search":[{"ns":0,"title":"Hypnotizing Megaphone","pageid":28201,"snippet":""},{"ns":0,"title":"Chapter 855:Represent Paper Doll","pageid":74351,"snippet":""},{"ns":0,"title":"Chapter 476:Equalable Bomb","pageid":73312,"snippet":""}]}}

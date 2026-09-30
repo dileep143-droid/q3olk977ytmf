@@ -1,0 +1,1 @@
+{"batchcomplete":"","continue":{"sroffset":3,"continue":"-||"},"query":{"search":[{"ns":0,"title":"Adventure Tea","pageid":42728,"snippet":""},{"ns":0,"title":"Doraemon: Gadget Cat from the Future","pageid":38669,"snippet":""},{"ns":0,"title":"Slow-Slow, Quick-Quick/1973 Anime","pageid":33862,"snippet":""}]}}

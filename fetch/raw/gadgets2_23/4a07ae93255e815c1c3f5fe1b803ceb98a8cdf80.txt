@@ -1,0 +1,1 @@
+{"batchcomplete":"","continue":{"sroffset":3,"continue":"-||"},"query":{"search":[{"ns":0,"title":"Invitation Pill","pageid":28266,"snippet":""},{"ns":0,"title":"My Pool is the Pacific Ocean/2005 Anime","pageid":26738,"snippet":""},{"ns":0,"title":"Chapter 13: A Mirage Candle","pageid":41311,"snippet":""}]}}

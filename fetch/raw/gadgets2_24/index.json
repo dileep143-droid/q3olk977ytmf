@@ -1,0 +1,1042 @@
+{
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Monk%20Training%20Suitcase": {
+"file": "777b3eef9311a0aee650c07e6247b336a7270033.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Mood%20Magnifier": {
+"file": "2b27e1ec26cc9d3c0a3d5702382b2078c2d4bae7.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Moon%20Light%20Torch": {
+"file": "0450fdc7a8da001f06f5874fe9419c2a89726490.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Moving%20Microphone": {
+"file": "91d6761b7c90f4534e3bfa673364fb3e5e17e2e6.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Multiplying%20Drops": {
+"file": "28fe5e0f5867a3c5dadc68e22c45bb784957c732.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Multiplying%20Drug": {
+"file": "db6a8d53664733a057b01c15a63aebc2e9994fe3.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Music%20Rope": {
+"file": "018e9a1816fb3f49f7829107d7360b11a9357a5f.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Music%20Umbrella": {
+"file": "1cccc5154b3cae8c1672027b74bf80ce9576c3df.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Navel%20Gas%20Pump": {
+"file": "7b57ec326ef9f8abeb5243fbb9f7d7057bf07d9f.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Needlefish%20Badge": {
+"file": "f317c34ada2794725b3f87a2bbb5c9503896cb6e.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Never-Miss%20Gun": {
+"file": "3d5496b354b944ede1e0f4a86406ca2d53b67d67.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=New-Species%20Maker": {
+"file": "9d842cb446ad4460e7e67a6b2c0d638b3df4c919.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Next-Gen%20Planter": {
+"file": "3e6445bfb6f384557853fd2f6d498ba821646f06.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Night-Owl%20Pills": {
+"file": "485cd3845fae49ee72fde089e936a29bee507823.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Nightmare%20Candy": {
+"file": "75f97226b124dd66c351411a00be38dbcbcfc8d4.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Nobiko": {
+"file": "89e68a24b19c78bf32b176b85a75aa9f3239dca9.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Nobita%20Storm%20Map": {
+"file": "cad5246247eec9326406a2be7a073ba011b5533a.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Nobody-Sees-Me%20Eye%20Drops": {
+"file": "68c45c28be1c9516040a3b4c7d03cc58b080e999.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Now-You-See-Me%20Tap": {
+"file": "b646e07a6832e11b2e79496fe4226a5230f868d6.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Object%20Fishing%20Rod": {
+"file": "63bcad380c8c1611e8285f4e5ca4f7f31d50375c.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Object%20Hypnosis%20Loudspeaker": {
+"file": "ad83d5d59b35c57be7438e74c12ee1ffc6354c3a.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Object%20Hypnosis%20Speaker": {
+"file": "8f952621904e7aa9ac018ab9c79f9e1b800c63a5.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Object-Moving%20Paper": {
+"file": "6a24ee0f708c8b2ffb307b0fe452c8efe3624530.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Odd-Behaviour%20Bomb": {
+"file": "dbb223e6a8eb2d06efbbb82b9fc49adafac9ed5d.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Ofukur%C5%8D": {
+"file": "d30edd3d825dc9adbd9bc643aaf93c2891823796.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Ole%20Cape": {
+"file": "40014d286a23c1ae7657949c34a123783dd4d9bb.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Orator%20Doll": {
+"file": "ad7bb6448621c69cf045db12173670248b724388.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Ore%20Solution": {
+"file": "b9446da6f77b1941ffadead7e9adf2c33b798c06.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Owl%20Hero%20Suit": {
+"file": "7fe9a56fc598f393e9b5ad74c1d476b1ceae9b22.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Owl%20Perfume": {
+"file": "d10befa83a1ddea87fc4573242d315fd88d17a6f.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Painter%27s%20Hat": {
+"file": "2cf03eeebbd87a8730fa5026dca73d1337d11166.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Past-Future%20Hole": {
+"file": "b035ade0d6c900278a8edf0662b889fafe3c8774.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Path-Opening%20Lamp": {
+"file": "f7d9832ecb64cb31f58843f971a90545571afd96.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Peace-Making%20Bee": {
+"file": "5bb5de58802476767a58ccc2155797be60049e8f.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Peeping%20Kit": {
+"file": "fbde308a01d2fa71bfcc8eafba628f54e5860205.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Perfection%20Gas": {
+"file": "d8cfe9852bc503076317fb0477a5cdab1b0a82b8.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Perfection%20Machine": {
+"file": "fa04f1988d68ef7dda241c6b456d4cebe8fcbcbe.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Permeation%20Gas": {
+"file": "4dcb3bd699d6b6a4cc955f205ba92098bb70da90.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Persistence%20Hat": {
+"file": "3aabfacfc65f34de3d43b376450c1a38840a8de2.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Personality%20Pills": {
+"file": "7369c5e6b1b26750c8c2811eefaa0971bf7428d5.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Personality%20Projector%20Hat": {
+"file": "292aa87459409a767992f72b462292c80255c764.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Personifying%20Glasses": {
+"file": "047cc4fdc9a3525e0f2944175c4f2d9a7699b62e.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Picture%20Book%20Lamp": {
+"file": "d6cfce46b3604bf60246c1d299aa400c74e06948.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Pine%20Sprout": {
+"file": "823f320101addde33af15b00feba34d72564d668.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Plan%20Notebook": {
+"file": "840a1714f4799c0c4413d44fa169a757a9e2b5dd.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Plant%20Breeder": {
+"file": "d883bc78f8690c28d4d1ebb2b04680a6bced9c5b.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Pocket%202D%20Camera": {
+"file": "5a937a525e9db680e979d7a473a6e72cfe967dbd.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Position-Swap%20Gun": {
+"file": "a264d9e0ef8b4312fd50a757173e9a42f3179d14.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Possession%20Gas": {
+"file": "4ba01c3042ccf9930835a010dc2864b4dc8875cf.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=PR%20Robot": {
+"file": "887ef36944e5ed204d35aa3ed7dbc9c199ddded6.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Prank%20Gun": {
+"file": "4ebc7c25e0b97edb3239c90e4d001d63bc2b56ea.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Prayer%20Set": {
+"file": "338301acb14e1aab26f01bcfb418cd613fbc8187.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Preservation%20Sign": {
+"file": "b3bf7eba5a9739eb2c2371b0c60c74a9d9a11cbb.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Pressure%20Pill": {
+"file": "239fe0f42792a05c691d6bf3c59fa60136fa0afe.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Problem%20Solver": {
+"file": "939f4b680ee07a6d2d9d6a22cb5206840612405b.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Professional-Nose%20Pill": {
+"file": "a64b267e15f7c01db23e2f0229042d515b4c7ad9.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Prophecy%20Eyes": {
+"file": "539e049ba61abd8ada4cecf2958394a3a9f84464.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Protected-Species%20Spray": {
+"file": "f8a8c8ea221d85a5863ed68d6dd888345d9cc8f6.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Pull-Force%20Changer": {
+"file": "48625b994932414a72ea56e05e1023056067c5d7.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Punishment%20Candy": {
+"file": "711776f22e32a8a48ce86f3f9087232094aabce6.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Puzzle%20Torch": {
+"file": "4f20a77b4d98d7eb7d34b0bb9602f40875dbbf9f.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Reaction%20Spray": {
+"file": "d8419bd42a8f6297f39b07bab1d646878d25fa3c.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Real-Life%20Video%20Game": {
+"file": "88c43102ba0dddcb9d4c3310404216130ad23753.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Recording%20Album": {
+"file": "7102ad5787beb6c5fe800f9145d55df103fd07e3.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Reminder%20Bird": {
+"file": "2263e7a8cbac20b2fab6b0e93714458e1e64daf0.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Reminder%20Slip": {
+"file": "3a9dd6685cb5493d32d146f06621939ef1a4fea1.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Remote%20Balloon": {
+"file": "cb752dd4f63a245e9a00614ee84f59d15f0e1c59.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Remote%20Magic%20Glove": {
+"file": "c0c2da2a25f75c7b957d7ec97eb17ff15802a554.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Remote%20Model%201641": {
+"file": "bae699fade30df7fcf0a956d95c89aeeec70a15b.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Remote%20Model%202155": {
+"file": "32b534e01fd24d29527864a8e07c058ad5b54588.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Remote%20Submarine%20Set": {
+"file": "24337c74a569847086861d91f1983b0ab7ccb257.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Rescuer%20Hat": {
+"file": "39fdfb407dc434a8a4fca20730b19a739d4af1fc.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Resolve%20Concrete": {
+"file": "2ae5d2e238386bb0261432362acfaad9a78b5132.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Resolve%20Thorn": {
+"file": "ccc69c8efc1a1279c98f28d1f9a48cd98e75a5e0.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Responsibility%20Gas": {
+"file": "cf08b9d1ebd3e0df0137ab750443db24d57679e4.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Restoring%20Cream": {
+"file": "ee85657e8d55c8edbe11039ca2c0a213754a2967.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Revenge%20Arm": {
+"file": "b49c193ff8102d9216dd02e1329185db4e38cdc0.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Robot%20Animals": {
+"file": "65b33f9a840e36ec8541c7461594ec78c9a2b5cc.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Rubber%20Doll%20Lens": {
+"file": "21372605675a4c1ae154452460b1d5b897231b42.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Rumour%20Robot": {
+"file": "1802cb5ccdc95f9fae624c4f86c60b5916f47d7f.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Sacred%20Land%20Ticket": {
+"file": "9508ab9f2bdc115c7cef9ee1f768f070b25755a6.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Sadness%20Meter": {
+"file": "29de0f8995373466f99056d452c79f143eb5e003.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Safety%20Belt": {
+"file": "3ea16395b600f8af8e7497330630f418b42b729a.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Safety%20Float": {
+"file": "1a65ac3a839468c5969fca2e974dde6869741051.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Safety%20Sphere": {
+"file": "8312b97042925c5c7162c958e68413023f003cd5.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Sai%20Weng%27s%20Horse": {
+"file": "4b6463f789273798e11eb344e29fc9182e903466.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Satellite%20Screen": {
+"file": "dd99a1b94f66f2de27da4ec8ba3ef1af35f62d3c.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Say-Little%20Pill": {
+"file": "b9285bbd22570d186a51f942d7a61e4df0abcfb1.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Scare%20Stick": {
+"file": "38aa0969028922c12024708ead01212409e20fe1.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Scenery%20Magnifier%20Set": {
+"file": "4e3a50964823c5931b69ad6d184f6b5b1929b621.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Scenery%20Tent": {
+"file": "784911df3f4d2ab291ab1673b143c8db30a25e76.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Schedule%20Pear": {
+"file": "0db6d7c1e2c53e3f53299c92bf9501a1a4eb087b.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Scrap-Paper%20Detector": {
+"file": "63cba3ead6a98d94f1ae073f5eeca00afaa3b601.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Seashell%20Vault": {
+"file": "b43f0a7e7e6220ca5f030f07f084023d0a4297ab.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Secret%20Gadget%20Air%20Pistol": {
+"file": "b74ff9f8aa8ca03ca69b7e1a8955e42cc4239ef3.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Sectioning%20Sword": {
+"file": "bfe80089a1c0f62aaaf665bd9a4bd7b49d5431f8.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=See-Through%20Magnifier": {
+"file": "e2962ed98686979773ca331c0f965f491a456134.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Self-Defence%20Fuse": {
+"file": "7e00f094b1c00f193004cc6ef7e38ff4940a9e61.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Sensation%20Seasoning": {
+"file": "4f615c5bac69cd1f7fb105e6f8e12538a4617357.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Sensing%20Hat": {
+"file": "092ceeeae77d2a3878b6622422864ae56f8ad49a.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Shape-Change%20Gun": {
+"file": "913b4bd66a392e284278c6cf8fbe54946a828d72.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Sharpshooter%20Cap": {
+"file": "6717212b4d62c5969401f3bd3685ef96a9f57671.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Sheep-Counting%20Hypnotiser": {
+"file": "e2785044bb5b80359479d4593693294b80c9b37e.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Shift%20Controller": {
+"file": "b5427bb2c209bafeae82d7305877097792647d79.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Shining%20Moss": {
+"file": "dd35e83904d87dc20d73f57c05ffa59b6ce9d6d8.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Shrink%20Gun": {
+"file": "f7a1b3f60557306cbb0b3dfadddf2be18545857b.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Shrinking%20Spray": {
+"file": "8ad487c9a83baaab9bb03020606054bf69a6f547.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Shuttlecock%20Machine": {
+"file": "b5c578960e5b3a2b09b4cf350a5261b9d91c7cc0.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Singing%20Birds%20Buns": {
+"file": "618e4c055ec91d1479bf01eb1aa3398ee187728b.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Singing%20Trainer": {
+"file": "68985de82fe7ebc4ad10f4cd63d38f46638adcc6.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Ski%20Trainer": {
+"file": "4539a76d50d0a4186620d9fa485e9b1a4c983d1c.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Skin-Peeling%20Torch": {
+"file": "b39c1d6b43a0ff090b3c328fa80dc2d53401ee63.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Sleepwalking%20Loudspeaker": {
+"file": "c61dcd5b7c98566b9354308168e450496642a0bb.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Slimming%20Pill": {
+"file": "7666e6c77c6902fa3eda61a7d73051a51c6cb030.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Smoke%20Pill": {
+"file": "7b3f41debe025ba6b90d839ad51913e5a6ce71dc.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Solar%20Car": {
+"file": "ac2b47d78536f5f6e1eb5088bcf856cd5485ca91.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Solitude%20Pill": {
+"file": "522a1260cfa0423dfaa908b6b722832de436bea9.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Soul%20Clay": {
+"file": "e4a750450cb336f158c46e4ea3ba593b5066029e.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Soul%20Perfume": {
+"file": "aad2bd8222c8ee1371aa6c0983960aeb84f7ad12.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Soul%20Sender": {
+"file": "9cc48f18530c9bf3627af5caf4abe28a8510f457.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Soul-Snatching%20Gun": {
+"file": "1f4d003c34b1e9adbb20669c04126f1bdfca5115.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Sound-Sucking%20Mic": {
+"file": "6964143edaaa6164866107b60d7a0a350f80f1ce.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Space%20Probe%20Map": {
+"file": "040724a38405c48d451af70063994ad60d6b9f5a.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Space-Eating%20Worm": {
+"file": "124790690c64bd151cbc00e85ffc11f05811c915.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Speak-For%20Mike": {
+"file": "7b52e22de7186ac586fae9ec2180b26ad8d3e457.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Speaking-For%20Megaphone": {
+"file": "b5dd21df77b74291458ac20c3063fdf8d63e40ec.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Specter%20Cream%20Set": {
+"file": "0c5e5c8259f6b3d7a34ee2145a0d486dc6c4d256.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Speed-Up%20Pill": {
+"file": "3e4d82537a41345fa91924c6d8a703af84aded71.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Speed-Up%20Wind-Up%20Key": {
+"file": "6573b2b6834e88412b27d552b1c34c4543a2bbb3.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Spendthrift%20/%20Miser%20Pills": {
+"file": "3bd18452cf4d212ada07ca8d0569622b7c24f9fd.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Spirit%20Caller": {
+"file": "9d785a7a363c9ad547d3a69d8083ee33d99d9df3.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Splitting%20Hammer": {
+"file": "3589e92678bb367acbe858fe6ae46253a2700a9d.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Spy%20Lens": {
+"file": "614af7a8a638dcb969cfdc7243466deb26caa5a4.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Stain-Moving%20Stick": {
+"file": "14ed04f99fdc241614fac19ae3c40935cd33e6b5.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Stand-In%20Can": {
+"file": "1a697e1e5838ed1239f260cf7c40825b2027b699.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Standing-Dream%20Hat": {
+"file": "c153a84efeaafc3f3fe9ae1f7f45a31b0e1b9e1b.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Stone%20Powder": {
+"file": "df39b425d334747620e437ac2c0f1eb53b16be3a.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Straight-Through%20Phone": {
+"file": "95e63bfe038892339203406d0b987afc25010496.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Summoning%20Collar": {
+"file": "3f30ec396b197622ea4a090c893439476ce797d5.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Sunta": {
+"file": "36ab0fc1318bb52e67ab42fa419e57efa4bd15d5.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Surgery%20Gloves": {
+"file": "1c3a597552ef37e1d136cd501f74c57d79193231.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Surveillance%20TV": {
+"file": "55b003b63ec9b6dc7b3f76a6ccfdba09b4634f0d.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Tadpole%20Melody": {
+"file": "06e35810d2c0227b67e2a4e9b8e50cdee6258fff.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Task%20Waker": {
+"file": "23d94abcc4080e5588b3808fe8ae118b3e8a2e33.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Telepathy%20Seeds": {
+"file": "011f3a664ca17e392ab6ec204cdb9dd5a627320b.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Terrain%20Changer": {
+"file": "68fe9d2f4c21ac7db45b7fc903b88e5337c05d40.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Text%20Vacuum": {
+"file": "36955a6638632fe92ca8d0c2de97991f4bbc6cb8.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=The%20Manual%20Maker": {
+"file": "ccc80ca419b5060375342c2f0fb9ab458e6aa1bc.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=The%20Wall%20Drill": {
+"file": "406245c6623872f9a5276a14befc2077235c76f0.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Third-Speed%20Sticker": {
+"file": "b6741c250de5804a2f4250d5c6d6b41c7e599f1b.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Thought%20Camera%20Hat": {
+"file": "192d864495ea8a920fec9d4250cae810ca034fcb.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Thought%20Pump": {
+"file": "cf02331e133cb06bec2ace559810dd99e4be06bf.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Tickle%20Bug": {
+"file": "64c0da11bf1bcc8b7c3cd616abb2e347ac5f4f47.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Time%20Birdlime": {
+"file": "83ab278f34f4cc9d6746be513ee374a5292c023a.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Time%20Box": {
+"file": "07b47bf1b619e79c7d5bb765c2ddd0d5ada41d49.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Time%20Cloth/Gallery": {
+"file": "f1f9e2b9ff10d9335ab2a9b96bcd3f6e284611c8.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Time%20Magnifying%20Glass": {
+"file": "6e938180263bd2f4641ddaed8d51b48aa7f233b1.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Time%20Patrol%20Injections": {
+"file": "f34b5a73ee3b60364b256212a028ec479179a824.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Time%20Patrol%20Pills": {
+"file": "a1690d0e03310670cde61d2949cb0529ac2c71a0.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Time%20Sluice%20Gate": {
+"file": "089c36dc06e71a8036b3e9ba38e245a28930529d.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Time%20Tornado": {
+"file": "70a0a7271bce5e75ccff9ca8544dcef73e4cc89c.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Time%20Zoning%20Machine": {
+"file": "e42940a0fd03fe9e24600b1153f168643c85713f.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Time-Stretch%20Gun": {
+"file": "35749989ed793090844582d8fda4ba1dcb6be86f.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Tiny%20Hat": {
+"file": "632bbd0f75176c3d30a1c8a0181037f805b18229.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Tourist%20Submarine": {
+"file": "3d3d22df5ed7166a21bf9774c61bf1e2ef30400f.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Tournevis": {
+"file": "49a82f5da46f1cc176662a190b3371a31b3d1e8a.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Trace%20Tracker": {
+"file": "82a9988cba07347da7e8c0baeb5a58d1b30441b0.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Transformation%20Charm": {
+"file": "c3c4079d8c19ac22330dabeae4132b0aef1e0612.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Triple-Speed%20Sticker": {
+"file": "04e2ea1844f537523366d511a665cf84b1ebb29c.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Truth%20Megaphone": {
+"file": "be82565cdb2531759fded9181d3685b8bb02859d.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Truth%20Serum": {
+"file": "57fc6ed437b2b0f4422e9b8fcadb5559eb25a3f2.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=TV%20Book": {
+"file": "29e559c81c94382fa5985300eba8c18a39f23277.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=TV%20Fishing%20Rod": {
+"file": "2b6963ba3d68792faad8d074c539fe9c2665376e.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Two%20Scouts": {
+"file": "38b4d0374caefcf2c7395079f053b11308280680.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Underground%20Diving%20Suit": {
+"file": "6b39df58c7feb6d63d6901dd2fab997d551655a1.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Underground%20House%20Builder": {
+"file": "1534371884972e99ca3b9ed70b188efc3c796776.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Underground%20Probe": {
+"file": "1e108beec36fbbb0633fd639f67866976571c00f.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Universal%20Reins": {
+"file": "53f3cb6bbdcc3cf91a416f5674d8adf13a668946.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Universe%20Model": {
+"file": "2586b83ff657c29398f9c322c3499d0d1a6cc139.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Unlikeable%20Drug": {
+"file": "a6476b013bb9e43ae94faa167ca0b6c840dab3b9.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Upgrade%20Light": {
+"file": "7ec9180cc9fb74f1e3bf4f855ed6d20fb09df63d.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Upgrade%20Torch": {
+"file": "af6db474ab24026d826a24361baa176a0de9afe4.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Ventriloquist%20Mic": {
+"file": "c4f2b928a3f74975addbfe2a9bbdaac716bd4fee.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Verticopy": {
+"file": "784dc750310e7a890e4e71a70b9ef4fbd33c4abc.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Vielding%20Machine": {
+"file": "b4d4f88a7c9274a6eab7835d80e8f6a4ef03b07c.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Virtual%20Treadmill": {
+"file": "f3c8b7e2e8c4472c0289916b811caceb8021cec3.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Voice%20Printer": {
+"file": "fad60a60007c7b326c3a761910a95cc5a7ece768.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Voice-Freezing%20Pills": {
+"file": "2d3e825f5a106fe3d213f91afdd96c6d11c88efd.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Wall%20Picture%20Door": {
+"file": "e6428c601b79e718f8ba5c18039045736282952f.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Watching%20Mirror": {
+"file": "dc924135c1f2453fb98d3b544caebda06390243f.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Water%20Additives": {
+"file": "5ff78e6490b4bfa84d685544756faf83b2ce7316.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Weightless%20Rod": {
+"file": "6093e34a101af3f4e09a22fabf8ec250c2f1d934.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Weightlifting%20Umbrella": {
+"file": "aeffe9bfed84c63cbdfb20fa3221234dced68769.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Werewolf%20Light": {
+"file": "aab3f722e785a3c0ad03648428a1c5148ff01bee.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Wide-Screen%20Pill": {
+"file": "f7bfe71dbf31b949a29963e17edb2d0df5360e90.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Wilderness%20Radio": {
+"file": "8ef426c5b65becab860513fffe752d061178032c.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Wind%20Carpet": {
+"file": "217189c27f3cf01bce18c69547344ccab120f551.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Wind%20Leaf": {
+"file": "43d8913dd2fe0c49ef29b57c1dcfcf4a51d69497.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Window%20Changer": {
+"file": "64a10e4c8b14bb18ddd20e6a6009ebe1218709bd.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Wish%20Candy": {
+"file": "a9486f3db7d1f7ffe13891c3f3fc629abcc0604b.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Wish%20Matches": {
+"file": "31ec070eb77c1c2bc856695a930cfeb571ddb831.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Wish%20Pills": {
+"file": "b822252569b8055bb6ea6abefae8679fe9dfeee7.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Witness%20Stone": {
+"file": "9d25f30b5e867f9a0d06a3ed28f7e959c4588ec7.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=X-Ray%20Reading%20Stand%20and%20Stamp": {
+"file": "24bb4e2d3e730e934f22ba1180ac1999cf5cc18a.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=X-Ray%20Telescope": {
+"file": "471446ba6935c2f8b7f24c169c239cace5ec3ef4.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Yes-No%20Fortune%20Teller": {
+"file": "8731ef38720aab9634563250fbded2027a8bf4ab.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=4D%20Pocket/Gadgets": {
+"file": "8da24c32a3f8f2dd4171b69012bfdd3b9000f47f.txt",
+"status": 200,
+"tries": 1
+},
+"https://doraemon.fandom.com/api.php?action=query&list=search&format=json&srlimit=3&srprop=snippet&srsearch=Comedy%20Rock%20%28gadget%29": {
+"file": "7654707ad32a0f278dd4d01652b3ad902d71e3c3.txt",
+"status": 200,
+"tries": 1
+}
+}

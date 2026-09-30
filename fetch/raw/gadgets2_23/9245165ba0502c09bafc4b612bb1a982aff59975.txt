@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"search":[{"ns":0,"title":"The Supporter Cheer Horn","pageid":78282,"snippet":""},{"ns":0,"title":"Chapter 32: The Seventh Mystery","pageid":40496,"snippet":""},{"ns":0,"title":"The Mood Meter","pageid":54834,"snippet":""}]}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","continue":{"sroffset":3,"continue":"-||"},"query":{"search":[{"ns":0,"title":"Chapter 006:Antique Competition","pageid":4079,"snippet":""},{"ns":0,"title":"Ancient Equipment Warfare/1979 Anime/Original","pageid":34469,"snippet":""},{"ns":0,"title":"Chapter 006:Antique Competition/Gallery","pageid":42658,"snippet":""}]}}

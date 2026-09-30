@@ -1,0 +1,1 @@
+{"batchcomplete":"","continue":{"sroffset":3,"continue":"-||"},"query":{"search":[{"ns":0,"title":"Chapter 18: Misfortune From Nobita\u2019s Point of View","pageid":41339,"snippet":""},{"ns":0,"title":"My Guardian Paper/2005 Anime","pageid":71863,"snippet":""},{"ns":0,"title":"My Guardian/2005 Anime","pageid":34518,"snippet":""}]}}

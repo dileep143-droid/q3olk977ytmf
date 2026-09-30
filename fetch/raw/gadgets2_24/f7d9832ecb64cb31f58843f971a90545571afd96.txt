@@ -1,0 +1,1 @@
+{"batchcomplete":"","continue":{"sroffset":3,"continue":"-||"},"query":{"search":[{"ns":0,"title":"The Pocket Traffic Light/2005 Anime","pageid":26548,"snippet":""},{"ns":0,"title":"Walk, Walk, All the Way to the Moon/2005 Anime/Remade","pageid":70237,"snippet":""},{"ns":0,"title":"The Magic Lamp without a Genie/1979 Anime/Alternate","pageid":71168,"snippet":""}]}}

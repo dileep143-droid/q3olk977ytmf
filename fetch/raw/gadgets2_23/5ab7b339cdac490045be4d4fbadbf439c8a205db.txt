@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"search":[{"ns":0,"title":"Bamboo Shoot-shaped Tent Village","pageid":65385,"snippet":""},{"ns":0,"title":"I Hate Doraemon!?/1979 Anime","pageid":35032,"snippet":""},{"ns":0,"title":"Chapter 588:Variety of Ghosts","pageid":73628,"snippet":""}]}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"search":[{"ns":0,"title":"Screw Typhoon","pageid":66223,"snippet":""},{"ns":0,"title":"The Screw Typhoon/2005 Anime","pageid":66183,"snippet":""}]}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","continue":{"sroffset":3,"continue":"-||"},"query":{"search":[{"ns":0,"title":"Chapter 802:Going Too Far! The Hope Achieving Machine","pageid":41235,"snippet":""},{"ns":0,"title":"Chapter 183:Wishing Star","pageid":29565,"snippet":""},{"ns":0,"title":"The Story of a Cute Umbrella","pageid":54537,"snippet":""}]}}

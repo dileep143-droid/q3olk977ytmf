@@ -1,0 +1,1 @@
+{"batchcomplete":"","continue":{"sroffset":3,"continue":"-||"},"query":{"search":[{"ns":0,"title":"The Easy Fishing Rod/1979 Anime","pageid":70982,"snippet":""},{"ns":0,"title":"The Lost Item Searcher Fishing Rod","pageid":73555,"snippet":""},{"ns":0,"title":"The Easy Fishing Rod/2005 Anime","pageid":67003,"snippet":""}]}}

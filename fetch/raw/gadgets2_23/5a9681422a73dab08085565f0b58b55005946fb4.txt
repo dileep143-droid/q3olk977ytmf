@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"search":[{"ns":0,"title":"Chapter 24:The Tanabata's Wish/Gallery","pageid":42752,"snippet":""}]}}

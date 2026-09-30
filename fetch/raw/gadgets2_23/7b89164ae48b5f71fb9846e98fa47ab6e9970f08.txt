@@ -1,0 +1,1 @@
+{"batchcomplete":"","continue":{"sroffset":3,"continue":"-||"},"query":{"search":[{"ns":0,"title":"Shizuka-chan Becomes a Grandma!?","pageid":86001,"snippet":""},{"ns":0,"title":"The Rainbow Drop","pageid":54765,"snippet":""},{"ns":0,"title":"It's Tough to Be a Rain Man/2005 Anime/Remade","pageid":34446,"snippet":""}]}}

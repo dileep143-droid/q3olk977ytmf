@@ -1,0 +1,1 @@
+{"batchcomplete":"","continue":{"sroffset":3,"continue":"-||"},"query":{"search":[{"ns":0,"title":"The Urashima Candy/2005 Anime/Original","pageid":42596,"snippet":""},{"ns":0,"title":"The Urashima Candy/2005 Anime/Remade","pageid":42595,"snippet":""},{"ns":0,"title":"Chapter 399:Education Candy","pageid":73188,"snippet":""}]}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","continue":{"sroffset":3,"continue":"-||"},"query":{"search":[{"ns":0,"title":"Speak-For Mike","pageid":28247,"snippet":""},{"ns":0,"title":"An Emotional, Heart-Touching Expression/2005 Anime/Original/2005 Anime/Remade","pageid":54989,"snippet":""},{"ns":0,"title":"Doraemon: Nobita's Great Adventure in the South Seas","pageid":2122,"snippet":""}]}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","continue":{"sroffset":3,"continue":"-||"},"query":{"search":[{"ns":0,"title":"Banana Leaf Fan","pageid":12879,"snippet":""},{"ns":0,"title":"The Banana Leaf Fan/2005 Anime","pageid":48746,"snippet":""},{"ns":0,"title":"The Banana Leaf Fan/1979 Anime","pageid":55846,"snippet":""}]}}

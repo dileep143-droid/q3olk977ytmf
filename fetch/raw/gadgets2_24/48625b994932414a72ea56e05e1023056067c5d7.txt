@@ -1,0 +1,1 @@
+{"batchcomplete":"","continue":{"sroffset":3,"continue":"-||"},"query":{"search":[{"ns":0,"title":"It's Solved! The Dekisugi Case/2005 Anime","pageid":39878,"snippet":""},{"ns":0,"title":"Lucky Gun/1979 Anime","pageid":7781,"snippet":""},{"ns":0,"title":"Epidemical Viruses","pageid":54866,"snippet":""}]}}

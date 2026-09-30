@@ -1,0 +1,1 @@
+{"batchcomplete":"","continue":{"sroffset":3,"continue":"-||"},"query":{"search":[{"ns":0,"title":"Anywhere Door","pageid":2468,"snippet":""},{"ns":0,"title":"Chapter 270:Door Out Of Nothing","pageid":73115,"snippet":""},{"ns":0,"title":"Secret Room Door/1979 Anime","pageid":34541,"snippet":""}]}}

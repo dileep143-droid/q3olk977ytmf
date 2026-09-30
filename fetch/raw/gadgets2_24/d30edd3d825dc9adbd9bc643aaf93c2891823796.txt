@@ -1,0 +1,1 @@
+{"batchcomplete":"","continue":{"sroffset":3,"continue":"-||"},"query":{"search":[{"ns":0,"title":"Ofukur\u014d","pageid":18543,"snippet":""},{"ns":0,"title":"Mii-chan","pageid":2448,"snippet":""},{"ns":0,"title":"Gatchako","pageid":10219,"snippet":""}]}}

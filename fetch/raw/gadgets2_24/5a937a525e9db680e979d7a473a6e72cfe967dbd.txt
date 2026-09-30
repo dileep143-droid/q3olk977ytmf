@@ -1,0 +1,1 @@
+{"batchcomplete":"","continue":{"sroffset":3,"continue":"-||"},"query":{"search":[{"ns":0,"title":"Chip Pocket Two-dimensional Camera (gadget)","pageid":64856,"snippet":""},{"ns":0,"title":"The Chip-Pocket 2D Camera/1979 Anime","pageid":65378,"snippet":""},{"ns":0,"title":"The Chip-Pocket 2D Camera/2005 Anime","pageid":54281,"snippet":""}]}}

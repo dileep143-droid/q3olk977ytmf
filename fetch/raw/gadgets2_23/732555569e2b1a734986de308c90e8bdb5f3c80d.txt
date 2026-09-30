@@ -1,0 +1,1 @@
+{"batchcomplete":"","continue":{"sroffset":3,"continue":"-||"},"query":{"search":[{"ns":0,"title":"The Forcing Training Pants/1979 Anime/Original","pageid":71997,"snippet":""},{"ns":0,"title":"Nobita Wins First Prize with a Cucumber?","pageid":50403,"snippet":""},{"ns":0,"title":"Chapter 309:Exercise Trousers","pageid":73285,"snippet":""}]}}

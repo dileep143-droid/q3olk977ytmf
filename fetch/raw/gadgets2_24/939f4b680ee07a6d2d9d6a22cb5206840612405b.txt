@@ -1,0 +1,1 @@
+{"batchcomplete":"","continue":{"sroffset":3,"continue":"-||"},"query":{"search":[{"ns":0,"title":"Resolution Door","pageid":18537,"snippet":""},{"ns":0,"title":"All the Way From the Country of the Future/1973 Anime","pageid":34580,"snippet":""},{"ns":0,"title":"Tamako Nobi/Gallery","pageid":7989,"snippet":""}]}}

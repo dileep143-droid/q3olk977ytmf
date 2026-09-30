@@ -1,0 +1,1 @@
+{"batchcomplete":"","continue":{"sroffset":3,"continue":"-||"},"query":{"search":[{"ns":0,"title":"Upgrade Light","pageid":18340,"snippet":""},{"ns":0,"title":"Secret Gadget Encyclopedia (Nobita's Space Heroes (video game)","pageid":66966,"snippet":""},{"ns":0,"title":"Chapter 833:Upgrade me","pageid":74342,"snippet":""}]}}

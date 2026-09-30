@@ -1,0 +1,1 @@
+{"batchcomplete":"","continue":{"sroffset":3,"continue":"-||"},"query":{"search":[{"ns":0,"title":"Assorted Monsters","pageid":28239,"snippet":""},{"ns":0,"title":"The Assorted Ghosts/1979 Anime","pageid":71829,"snippet":""},{"ns":0,"title":"The Weather Deciding Table","pageid":73549,"snippet":""}]}}

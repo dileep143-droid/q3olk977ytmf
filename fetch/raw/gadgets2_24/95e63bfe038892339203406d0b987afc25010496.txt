@@ -1,0 +1,1 @@
+{"batchcomplete":"","continue":{"sroffset":3,"continue":"-||"},"query":{"search":[{"ns":0,"title":"Chapter 706:Interruption Phone","pageid":40983,"snippet":""},{"ns":0,"title":"Chapter 770:Left Straight Right Right Left","pageid":74263,"snippet":""},{"ns":0,"title":"Chapter 087:The Tele-Telephone","pageid":7539,"snippet":""}]}}
