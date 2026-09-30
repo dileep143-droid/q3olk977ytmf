@@ -1,0 +1,92 @@
+{
+"https://ja.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&format=json&titles=パーマン": {
+"file": "c0cb204227bbea0fc973ccf6cecc86d1a9c4d9d6.txt",
+"status": 0,
+"tries": 1
+},
+"https://chhotabheem.fandom.com/api.php?action=query&list=allpages&aplimit=500&format=json": {
+"file": "cf608bef3b48df44290b8abec85cadc81f0d2ea9.txt",
+"status": 200,
+"tries": 1
+},
+"https://mightyraju.fandom.com/api.php?action=query&list=allpages&aplimit=500&format=json": {
+"file": "b7fae3a190166e0c389646cd710b48a37f9d8fc0.txt",
+"status": 404,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&format=json&titles=List_of_Chhota_Bheem_episodes": {
+"file": "ab9ca6b08a384fc65667eb3d4ba2cfbd40213ed5.txt",
+"status": 200,
+"tries": 1
+},
+"https://mighty-raju.fandom.com/api.php?action=query&list=allpages&aplimit=500&format=json": {
+"file": "6186ae98c3a1d79ce829033d28550e058c8865f1.txt",
+"status": 404,
+"tries": 1
+},
+"https://kiteretsu.fandom.com/api.php?action=query&list=allpages&aplimit=500&format=json": {
+"file": "51af05303a24ffc2b48e274f9400bcb51904fa2b.txt",
+"status": 200,
+"tries": 1
+},
+"https://chhota-bheem.fandom.com/api.php?action=query&list=allpages&aplimit=500&format=json": {
+"file": "eff6ef8219e438c6c95d82343753febd1af6c4fa.txt",
+"status": 404,
+"tries": 1
+},
+"https://ja.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&format=json&titles=パーマン_(アニメ)": {
+"file": "1a22e67eb557785252ee4ebf94f5ccc9541be125.txt",
+"status": 0,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&format=json&titles=List_of_Chhota_Bheem_films": {
+"file": "42e1011c051db8f18f5cd30bb31d1fc2369ec35d.txt",
+"status": 200,
+"tries": 1
+},
+"https://chhota-bheem.fandom.com/api.php?action=query&list=categorymembers&cmtitle=Category:Episodes&cmlimit=500&format=json": {
+"file": "83060f2fad41ff7b058b213a01994c77b9669217.txt",
+"status": 404,
+"tries": 1
+},
+"https://perman.fandom.com/api.php?action=query&list=allpages&aplimit=500&format=json": {
+"file": "c49ddd86a9bc965abeec20320add79136606620d.txt",
+"status": 200,
+"tries": 1
+},
+"https://ja.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&format=json&titles=キテレツ大百科": {
+"file": "2b2d91b35742d71d731d421499103b7aa8f6d70f.txt",
+"status": 0,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&format=json&titles=Mighty_Raju": {
+"file": "36fe8267e2d1eafef70e6743ccbfa1c37d7db866.txt",
+"status": 200,
+"tries": 1
+},
+"https://ja.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&format=json&titles=キテレツ大百科の登場人物": {
+"file": "04a7b9b5e6f5787b5feaccb7283fd94299bb28b3.txt",
+"status": 0,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&format=json&titles=Mighty_Raju_Rio_Calling": {
+"file": "f2b2443b278cf2b6c9b830c81c8cc0096bddb864.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&format=json&titles=List_of_Kiteretsu_Daihyakka_episodes": {
+"file": "d1d3dffd61101f004da51d170d15eabe9f2fe9c4.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&format=json&titles=Perman": {
+"file": "e802622113f60d556c372a1e16756ae81c20aeb1.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&format=json&titles=List_of_Perman_episodes": {
+"file": "840b3b03f588d39a94e07be445a76645a4b405ea.txt",
+"status": 200,
+"tries": 1
+}
+}

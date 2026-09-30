@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"normalized":[{"from":"Mighty_Raju","to":"Mighty Raju"}],"pages":{"77820030":{"pageid":77820030,"ns":0,"title":"Mighty Raju","extract":""}}}}
