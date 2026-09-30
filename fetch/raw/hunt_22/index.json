@@ -1,0 +1,227 @@
+{
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=List%20of%20Doraemon%20episodes%20%281979%20TV%20series%29": {
+"file": "4d5e018cfe257a8051f9218d23178be7789b4f57.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikiquote.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Doraemon": {
+"file": "18675b136a22f686f7b5c7c21f12ad45ffdedb76.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=List%20of%20Crayon%20Shin-chan%20episodes": {
+"file": "d6a7038187ff34813a76a2f8931b127382416b86.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikiquote.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Crayon%20Shin-chan": {
+"file": "949badf7f928db376a24d11cc03f4bbfbf14f5b0.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=List%20of%20One%20Piece%20episodes%20%28seasons%201%E2%80%937%29": {
+"file": "fa057000f1a309e1bca18958da6c0cf05b463848.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikiquote.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=One%20Piece": {
+"file": "b462be9af43bb4e6664bcb19b4fb2c2f8419f8fe.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikiquote.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Naruto": {
+"file": "c21005a90842504742e6693dacc8d7fc150f9f91.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=List%20of%20Naruto%20episodes": {
+"file": "9079374634088183834b8f67ea14662ec8b485b0.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikiquote.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Death%20Note": {
+"file": "b0bc82096ca440fb9fd0c676515a4044b5071022.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=List%20of%20Death%20Note%20episodes": {
+"file": "05a2446f81316da8657a26e0c0ad390c1621e33c.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=List%20of%20Motu%20Patlu%20episodes": {
+"file": "d0fb20a20f262ed236200536a55fa74b39203b40.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikiquote.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Attack%20on%20Titan": {
+"file": "3c4602e1bd9eb073eaf1fd1c4871d2c0c4385847.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikiquote.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Demon%20Slayer%3A%20Kimetsu%20no%20Yaiba": {
+"file": "f7d650120c5910c5847ed32ae88e4e21979d6050.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=List%20of%20Oggy%20and%20the%20Cockroaches%20episodes": {
+"file": "d34b1647a22cad04fd387727a9eb7f1886e17745.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikiquote.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Jujutsu%20Kaisen": {
+"file": "4b5a243d24a3bf97d99d4966d424cdfbd689d1a4.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=List%20of%20Courage%20the%20Cowardly%20Dog%20episodes": {
+"file": "5cc0f7c154915a82cf7b83872232a86e70389162.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikiquote.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=One-Punch%20Man": {
+"file": "b9aad5be98bda626f450058580461ca161282594.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=List%20of%20Ben%2010%20episodes": {
+"file": "d8fb1b76ab7af56bf19bcd036255cf5349cdba7a.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikiquote.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Spy%20%C3%97%20Family": {
+"file": "2271042a23ecd62d764a80cc4d074d093c2e12c0.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=List%20of%20Pok%C3%A9mon%3A%20Indigo%20League%20episodes": {
+"file": "eca3e6980602eaf0bd4547a4d4b3c773017d5fae.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikiquote.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Hunter%20%C3%97%20Hunter": {
+"file": "4496c28e8550dec5e8630aa20dcaecb2fc3d94ad.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=List%20of%20Mr.%20Bean%3A%20The%20Animated%20Series%20episodes": {
+"file": "b394fc3eaa4a6803b54e9c4c49da07f88354eb91.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=List%20of%20Ninja%20Hattori-kun%20episodes": {
+"file": "483dbb813253d94db592df1703b0feaf22ab51ab.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikiquote.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Bleach%20%28manga%29": {
+"file": "686d7debe15415f962b0cbc31cc296a332e3ffa1.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=List%20of%20Chhota%20Bheem%20episodes": {
+"file": "c5087fd48b4100860a6212e10f77b209956d96af.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikiquote.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Fullmetal%20Alchemist": {
+"file": "3c365cf5ae923d9510f6b83b4f0b7d0681ee461d.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikiquote.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Tom%20and%20Jerry": {
+"file": "849b780563362b800cbfc51b653d68ce0bca4b44.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikiquote.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Mr.%20Bean": {
+"file": "4b4d2879a87daaff9c3f9fceeb6629c35d80b69d.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikiquote.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Pok%C3%A9mon": {
+"file": "2090fbf3e6b73428f6ed75da068b9380729efc3f.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikiquote.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Stranger%20Things": {
+"file": "cc5f4b726f49d6bbe190afd58dccd65c6cbbcdb7.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikiquote.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Courage%20the%20Cowardly%20Dog": {
+"file": "8b352b92624f5a2fbbd08d34e64ee9a6aa16fe0e.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikiquote.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Ben%2010": {
+"file": "13fcdb1f3537983d03c47df17a355bf69b3ff427.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikiquote.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=The%20Powerpuff%20Girls": {
+"file": "fee311a3d74146c508cfe6349ee001bf54e39543.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikiquote.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Pink%20Panther": {
+"file": "c0a943b2ee5451ba71992fbed3ef988458cd582a.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikiquote.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Monster%20%28manga%29": {
+"file": "9a21a252f81d7671a04899c72b61802d613d6c51.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikiquote.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=My%20Hero%20Academia": {
+"file": "b33fd03cef313fe0296d909b256a1582e8dc3b75.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikiquote.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Dr.%20Stone": {
+"file": "6c83e3b99aad35bd66f31f6c356aea3ea9242673.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikiquote.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Black%20Clover": {
+"file": "0d4cec35c8b473b96c379e1b4358a0942405fa15.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikiquote.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Tokyo%20Revengers": {
+"file": "34bb3eda556461a1c4d228d5c35c0ed6206525ce.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikiquote.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Vinland%20Saga": {
+"file": "e79f872229f930602e18589a559e9cd28788265a.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikiquote.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Solo%20Leveling": {
+"file": "67549b499630700534341a47994f1621ae3c3428.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikiquote.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Ninja%20Hattori-kun": {
+"file": "10465683d4de4f6e56e50c16fa9918f30b92e4d1.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikiquote.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Perman": {
+"file": "877e4ff3fefae97bb669003cc328c2340bb1dd09.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikiquote.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Phineas%20and%20Ferb": {
+"file": "a6b43c14231baad841904045ca04dad5a04588cc.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikiquote.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Jackie%20Chan%20Adventures": {
+"file": "64d4b944492616b0d5edcd0a391c064a9c91611b.txt",
+"status": 200,
+"tries": 1
+}
+}
