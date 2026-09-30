@@ -1,0 +1,7 @@
+{
+"https://doraemon.fandom.com/api.php?action=query&prop=revisions&rvprop=content&rvslots=main&format=json&formatversion=2&titles=Human%20Controller%7CForgetting%20Bird%7CSpeed%20Clock%7CHuman%20Controller%20Frame%7CReminder%20Bird%7CDay-Night%20Speed%20Clock": {
+"file": "fa8f3327c9f119ca672683c24e72436327d630da.txt",
+"status": 200,
+"tries": 1
+}
+}
