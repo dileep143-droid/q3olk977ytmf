@@ -1,0 +1,127 @@
+{
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Tokyo_Revengers": {
+"file": "2f53687b32818d96fa6af19d23d8adca79dc0210.txt",
+"status": 200,
+"tries": 1
+},
+"https://ja.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=%E6%9D%B1%E4%BA%AC%E5%8D%8D%E3%83%AA%E3%83%99%E3%83%B3%E3%82%B8%E3%83%A3%E3%83%BC%E3%82%BA": {
+"file": "227bf01aa0ea2683c0b0bbb4379d0543e8fe1eb5.txt",
+"status": 200,
+"tries": 1
+},
+"https://ja.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=%E5%BD%BC%E5%A5%B3%E3%80%81%E3%81%8A%E5%80%9F%E3%82%8A%E3%81%97%E3%81%BE%E3%81%99": {
+"file": "3ea9860a0e8130a658ae7b6beb07a0ce73a4cdab.txt",
+"status": 200,
+"tries": 1
+},
+"https://hi.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=%E0%A4%B0%E0%A5%87%E0%A4%82%E0%A4%9F-%E0%A4%8F-%E0%A4%97%E0%A4%B0%E0%A5%8D%E0%A4%B2%E0%A4%AB%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%82%E0%A4%A1": {
+"file": "589d65834f1e2877f28d5992309a681d7f2967fa.txt",
+"status": 200,
+"tries": 1
+},
+"https://zh.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=%E6%9D%B1%E4%BA%AC%E5%8D%8D%E5%BE%A9%E4%BB%87%E8%80%85": {
+"file": "58db8c381ed0a65341322425c8d6f8b17a49872b.txt",
+"status": 200,
+"tries": 1
+},
+"https://ja.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=%E3%83%B4%E3%82%A3%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89%E3%83%BB%E3%82%B5%E3%82%AC": {
+"file": "767164b5b478181d17d9eaa625a887927c51c12b.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Rent-A-Girlfriend_%28TV_series%29": {
+"file": "ff1bf7891c27987d3527be22e8b36b0780427a4b.txt",
+"status": 200,
+"tries": 1
+},
+"https://zh.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=%E7%A7%9F%E5%80%9F%E5%A5%B3%E5%8F%8B": {
+"file": "b89a2eb47f4295f66812c1b6a6190e22be12b12a.txt",
+"status": 200,
+"tries": 1
+},
+"https://hi.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=%E0%A4%B5%E0%A5%80%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%3A_%E0%A4%A6_%E0%A4%B0%E0%A5%8B%E0%A4%AC%E0%A5%8B%E0%A4%9F_%E0%A4%AC%E0%A5%89%E0%A4%AF": {
+"file": "9e1803ba47e7b126534cbfe3a43d097806865812.txt",
+"status": 200,
+"tries": 1
+},
+"https://ja.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=%E3%83%89%E3%83%BC%E3%83%A9%E3%81%A8%E3%81%84%E3%81%A3%E3%81%97%E3%82%87%E3%81%AB%E5%A4%A7%E5%86%92%E9%99%BA": {
+"file": "6081fcc36042b7dd7b9156361a4d4ef3ec9b8c81.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Vinland_Saga_%28manga%29": {
+"file": "baf55d9cd126e6bd31b2d82326d3e75e09382e22.txt",
+"status": 200,
+"tries": 1
+},
+"https://hi.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=%E0%A4%A1%E0%A5%8B%E0%A4%B0%E0%A4%BE_%E0%A4%A6_%E0%A4%8F%E0%A4%95%E0%A5%8D%E0%A4%B8%E0%A4%AA%E0%A5%8D%E0%A4%B2%E0%A5%8B%E0%A4%B0%E0%A4%B0": {
+"file": "e22173da6bc363055278fad93c24cca7237ab805.txt",
+"status": 200,
+"tries": 1
+},
+"https://zh.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=%E4%BB%99%E7%8E%8B%E7%9A%84%E6%97%A5%E5%B8%B8%E7%94%9F%E6%B4%BB": {
+"file": "5a24a9afa1e9feeaf9fa55824db93ffab64a05a9.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=List_of_Indian_animated_television_series": {
+"file": "cbd9ee15bc514914cc4a7ff86bcc0de5edc377d7.txt",
+"status": 200,
+"tries": 1
+},
+"https://hi.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=%E0%A4%9B%E0%A5%8B%E0%A4%9F%E0%A4%BE_%E0%A4%AD%E0%A5%80%E0%A4%AE_%E0%A4%94%E0%A4%B0_%E0%A4%B9%E0%A4%A8%E0%A5%81%E0%A4%AE%E0%A4%BE%E0%A4%A8": {
+"file": "ff62af162ebecdc499696f2151f12eddeb763647.txt",
+"status": 200,
+"tries": 1
+},
+"https://zh.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=%E6%84%9B%E6%8E%A2%E9%9A%AA%E7%9A%84%E6%9C%B5%E6%8B%89": {
+"file": "d5c55c4e8171e4364cfcf308b8329dbcfea3e0da.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Inspector_Chingum": {
+"file": "5de94e66a54665cf3919e7725e64167a47692329.txt",
+"status": 200,
+"tries": 1
+},
+"https://hi.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=%E0%A4%9B%E0%A5%8B%E0%A4%9F%E0%A4%BE_%E0%A4%AD%E0%A5%80%E0%A4%AE_%E0%A4%94%E0%A4%B0_%E0%A4%97%E0%A4%A3%E0%A5%87%E0%A4%B6": {
+"file": "2d0835a16297147ef01d9e5e4babb91c8b5d5275.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Green_Gold_Animations": {
+"file": "7450d78c8399a6c2bf1d26544c3e12a30ee634d5.txt",
+"status": 200,
+"tries": 1
+},
+"https://hi.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=%E0%A4%A6_%E0%A4%B2%E0%A5%87%E0%A4%9C%E0%A5%87%E0%A4%82%E0%A4%A1_%E0%A4%91%E0%A4%AB_%E0%A4%B9%E0%A4%A8%E0%A5%81%E0%A4%AE%E0%A4%BE%E0%A4%A8": {
+"file": "faf01ce6c1490fdbeecbef66235201e867980cc9.txt",
+"status": 200,
+"tries": 1
+},
+"https://hi.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=%E0%A4%87%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%AA%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%9F%E0%A4%B0_%E0%A4%9A%E0%A4%BF%E0%A4%82%E0%A4%97%E0%A4%AE": {
+"file": "44b34cccc655be5db4a15e93a96139cc4cede29f.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Little_Singham": {
+"file": "ade21312e7962e1c8461925725f99285ea979769.txt",
+"status": 200,
+"tries": 1
+},
+"https://hi.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=%E0%A4%AE%E0%A4%BE%E0%A4%87%E0%A4%9F%E0%A5%80_%E0%A4%B2%E0%A4%BF%E0%A4%9F%E0%A4%BF%E0%A4%B2_%E0%A4%AD%E0%A5%80%E0%A4%AE": {
+"file": "71f6d404c019dddc4750332a4788c6b673791f40.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Bandbudh_Aur_Budbak": {
+"file": "8af9d46614f888ea4833b0d54a463f1b0c6c1e8d.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=Akbar_and_Birbal_%28TV_series%29": {
+"file": "7ae3ca6f363765364d7df466c51fe4d4bcc41552.txt",
+"status": 200,
+"tries": 1
+}
+}
