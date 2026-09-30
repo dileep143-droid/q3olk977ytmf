@@ -1,0 +1,7 @@
+https://en.wikipedia.org/w/api.php?action=parse&prop=wikitext&redirects=1&format=json&formatversion=2&page=Bleach:_Thousand-Year_Blood_War
+https://en.wikipedia.org/w/api.php?action=parse&prop=wikitext&redirects=1&format=json&formatversion=2&page=Bleach:_Thousand-Year_Blood_War_(season_1)
+https://en.wikipedia.org/w/api.php?action=parse&prop=wikitext&redirects=1&format=json&formatversion=2&page=Black_Clover_(season_4)
+https://en.wikipedia.org/w/api.php?action=parse&prop=wikitext&redirects=1&format=json&formatversion=2&page=Black_Clover_season_4
+https://en.wikipedia.org/w/api.php?action=parse&prop=wikitext&redirects=1&format=json&formatversion=2&page=List_of_Black_Clover_episodes
+https://en.wikipedia.org/w/api.php?action=parse&prop=wikitext&redirects=1&format=json&formatversion=2&page=Black_Clover
+https://en.wikipedia.org/w/api.php?action=parse&prop=wikitext&redirects=1&format=json&formatversion=2&page=Bleach_(TV_series)
