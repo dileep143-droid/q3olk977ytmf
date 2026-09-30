@@ -1,0 +1,57 @@
+{
+"https://en.wikipedia.org/w/api.php?action=query&format=json&redirects=1&prop=langlinks&lllimit=500&lllang=zh&titles=Doraemon|Crayon%20Shin-chan|Ninja%20Hattori-kun|Perman|Motu%20Patlu|Mr.%20Bean%3A%20The%20Animated%20Series|Phineas%20and%20Ferb|Heidi%2C%20Girl%20of%20the%20Alps|Kid%20vs.%20Kat|Oggy%20and%20the%20Cockroaches|Chhota%20Bheem|Mighty%20Raju|Little%20Krishna|Bal%20Ganesh|Return%20of%20Hanuman|Roll%20No.%2021|Chorr%20Police|Shiva%20%28TV%20series%29|Vir%3A%20The%20Robot%20Boy|Keymon%20Ache|Golmaal%20Jr.|Kiteretsu%20Daihyakka|Pok%C3%A9mon%20%28TV%20series%29|Tom%20and%20Jerry|Ben%2010%20%282005%20TV%20series%29|The%20Pink%20Panther%20Show|The%20Powerpuff%20Girls%20%281998%20TV%20series%29|Courage%20the%20Cowardly%20Dog|Tom%20%26%20Jerry%20Kids|Dora%20the%20Explorer|Jackie%20Chan%20Adventures|Mickey%20Mouse%20Clubhouse|Kick%20Buttowski%3A%20Suburban%20Daredevil|Demon%20Slayer%3A%20Kimetsu%20no%20Yaiba|Death%20Note|Dr.%20Stone|One%20Piece|Naruto|Bleach%20%28TV%20series%29|Attack%20on%20Titan": {
+"file": "24b9dd50195eba8333276e5d7adab8a5f0d0bbf1.txt",
+"status": 200,
+"tries": 1
+},
+"https://ja.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=%E3%83%89%E3%83%A9%E3%81%88%E3%82%82%E3%82%93%E3%81%AE%E3%82%A2%E3%83%8B%E3%83%A1%E3%82%A8%E3%83%94%E3%82%BD%E3%83%BC%E3%83%89%E4%B8%80%E8%A6%A7": {
+"file": "a39b59620c729819d922e7a1d993933d883f5a5b.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&format=json&redirects=1&prop=langlinks&lllimit=500&lllang=hi&titles=Doraemon|Crayon%20Shin-chan|Ninja%20Hattori-kun|Perman|Motu%20Patlu|Mr.%20Bean%3A%20The%20Animated%20Series|Phineas%20and%20Ferb|Heidi%2C%20Girl%20of%20the%20Alps|Kid%20vs.%20Kat|Oggy%20and%20the%20Cockroaches|Chhota%20Bheem|Mighty%20Raju|Little%20Krishna|Bal%20Ganesh|Return%20of%20Hanuman|Roll%20No.%2021|Chorr%20Police|Shiva%20%28TV%20series%29|Vir%3A%20The%20Robot%20Boy|Keymon%20Ache|Golmaal%20Jr.|Kiteretsu%20Daihyakka|Pok%C3%A9mon%20%28TV%20series%29|Tom%20and%20Jerry|Ben%2010%20%282005%20TV%20series%29|The%20Pink%20Panther%20Show|The%20Powerpuff%20Girls%20%281998%20TV%20series%29|Courage%20the%20Cowardly%20Dog|Tom%20%26%20Jerry%20Kids|Dora%20the%20Explorer|Jackie%20Chan%20Adventures|Mickey%20Mouse%20Clubhouse|Kick%20Buttowski%3A%20Suburban%20Daredevil|Demon%20Slayer%3A%20Kimetsu%20no%20Yaiba|Death%20Note|Dr.%20Stone|One%20Piece|Naruto|Bleach%20%28TV%20series%29|Attack%20on%20Titan": {
+"file": "cc0448adc4aea9069b1efb776754c7040e9f220c.txt",
+"status": 200,
+"tries": 1
+},
+"https://ja.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=%E3%82%AF%E3%83%AC%E3%83%A8%E3%83%B3%E3%81%97%E3%82%93%E3%81%A1%E3%82%83%E3%82%93%E3%81%AE%E3%82%A2%E3%83%8B%E3%83%A1%E3%82%A8%E3%83%94%E3%82%BD%E3%83%BC%E3%83%89%E4%B8%80%E8%A6%A7": {
+"file": "11cc6d8c7c84cf5bd579cdd692eacc1a57da248f.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&format=json&redirects=1&prop=langlinks&lllimit=500&lllang=ko&titles=Doraemon|Crayon%20Shin-chan|Ninja%20Hattori-kun|Perman|Motu%20Patlu|Mr.%20Bean%3A%20The%20Animated%20Series|Phineas%20and%20Ferb|Heidi%2C%20Girl%20of%20the%20Alps|Kid%20vs.%20Kat|Oggy%20and%20the%20Cockroaches|Chhota%20Bheem|Mighty%20Raju|Little%20Krishna|Bal%20Ganesh|Return%20of%20Hanuman|Roll%20No.%2021|Chorr%20Police|Shiva%20%28TV%20series%29|Vir%3A%20The%20Robot%20Boy|Keymon%20Ache|Golmaal%20Jr.|Kiteretsu%20Daihyakka|Pok%C3%A9mon%20%28TV%20series%29|Tom%20and%20Jerry|Ben%2010%20%282005%20TV%20series%29|The%20Pink%20Panther%20Show|The%20Powerpuff%20Girls%20%281998%20TV%20series%29|Courage%20the%20Cowardly%20Dog|Tom%20%26%20Jerry%20Kids|Dora%20the%20Explorer|Jackie%20Chan%20Adventures|Mickey%20Mouse%20Clubhouse|Kick%20Buttowski%3A%20Suburban%20Daredevil|Demon%20Slayer%3A%20Kimetsu%20no%20Yaiba|Death%20Note|Dr.%20Stone|One%20Piece|Naruto|Bleach%20%28TV%20series%29|Attack%20on%20Titan": {
+"file": "5639384e415c2e5a5f975c58b129105c80c9f9c3.txt",
+"status": 200,
+"tries": 1
+},
+"https://ja.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=%E3%83%89%E3%83%A9%E3%81%88%E3%82%82%E3%82%93%E6%98%A0%E7%94%BB%E4%BD%9C%E5%93%81": {
+"file": "d59346321b332993b96a7807fff9c7d9a258240d.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&format=json&redirects=1&prop=langlinks&lllimit=500&lllang=ta&titles=Doraemon|Crayon%20Shin-chan|Ninja%20Hattori-kun|Perman|Motu%20Patlu|Mr.%20Bean%3A%20The%20Animated%20Series|Phineas%20and%20Ferb|Heidi%2C%20Girl%20of%20the%20Alps|Kid%20vs.%20Kat|Oggy%20and%20the%20Cockroaches|Chhota%20Bheem|Mighty%20Raju|Little%20Krishna|Bal%20Ganesh|Return%20of%20Hanuman|Roll%20No.%2021|Chorr%20Police|Shiva%20%28TV%20series%29|Vir%3A%20The%20Robot%20Boy|Keymon%20Ache|Golmaal%20Jr.|Kiteretsu%20Daihyakka|Pok%C3%A9mon%20%28TV%20series%29|Tom%20and%20Jerry|Ben%2010%20%282005%20TV%20series%29|The%20Pink%20Panther%20Show|The%20Powerpuff%20Girls%20%281998%20TV%20series%29|Courage%20the%20Cowardly%20Dog|Tom%20%26%20Jerry%20Kids|Dora%20the%20Explorer|Jackie%20Chan%20Adventures|Mickey%20Mouse%20Clubhouse|Kick%20Buttowski%3A%20Suburban%20Daredevil|Demon%20Slayer%3A%20Kimetsu%20no%20Yaiba|Death%20Note|Dr.%20Stone|One%20Piece|Naruto|Bleach%20%28TV%20series%29|Attack%20on%20Titan": {
+"file": "a5b25b21e3e9e645e754cd105a07e5909c51e076.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&format=json&redirects=1&prop=langlinks&lllimit=500&lllang=zh&titles=My%20Hero%20Academia|Jujutsu%20Kaisen|Spy%20%C3%97%20Family|Solo%20Leveling%20%28TV%20series%29|Tokyo%20Revengers%20%28TV%20series%29|Komi%20Can%27t%20Communicate|Rent-a-Girlfriend|Vinland%20Saga%20%28TV%20series%29|One-Punch%20Man|Classroom%20of%20the%20Elite|Monster%20%28manga%29|Hunter%20%C3%97%20Hunter%20%282011%20TV%20series%29|Black%20Clover|Sakamoto%20Days|Re%3AZero|Lookism|Stranger%20Things|Alice%20in%20Borderland%20%28TV%20series%29|Enthiran|Doraemon%3A%20Nobita%27s%20Dinosaur|List%20of%20Doraemon%20films|List%20of%20Crayon%20Shin-chan%20films|Pogo%20%28TV%20channel%29|Sony%20YAY%21|Discovery%20Kids%20%28Indian%20TV%20channel%29|Nickelodeon%20%28Indian%20TV%20channel%29|Cartoon%20Network%20%28Indian%20TV%20channel%29|Hungama%20TV|Disney%20Channel%20%28India%29|List%20of%20Doraemon%20episodes|List%20of%20Crayon%20Shin-chan%20episodes|Doraemon%20%282005%20TV%20series%29|Doraemon%20%281979%20TV%20series%29|Perman%20%28TV%20series%29": {
+"file": "bf5a368c31c73b8b4420bbf0804170f6233e748a.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&format=json&redirects=1&prop=langlinks&lllimit=500&lllang=hi&titles=My%20Hero%20Academia|Jujutsu%20Kaisen|Spy%20%C3%97%20Family|Solo%20Leveling%20%28TV%20series%29|Tokyo%20Revengers%20%28TV%20series%29|Komi%20Can%27t%20Communicate|Rent-a-Girlfriend|Vinland%20Saga%20%28TV%20series%29|One-Punch%20Man|Classroom%20of%20the%20Elite|Monster%20%28manga%29|Hunter%20%C3%97%20Hunter%20%282011%20TV%20series%29|Black%20Clover|Sakamoto%20Days|Re%3AZero|Lookism|Stranger%20Things|Alice%20in%20Borderland%20%28TV%20series%29|Enthiran|Doraemon%3A%20Nobita%27s%20Dinosaur|List%20of%20Doraemon%20films|List%20of%20Crayon%20Shin-chan%20films|Pogo%20%28TV%20channel%29|Sony%20YAY%21|Discovery%20Kids%20%28Indian%20TV%20channel%29|Nickelodeon%20%28Indian%20TV%20channel%29|Cartoon%20Network%20%28Indian%20TV%20channel%29|Hungama%20TV|Disney%20Channel%20%28India%29|List%20of%20Doraemon%20episodes|List%20of%20Crayon%20Shin-chan%20episodes|Doraemon%20%282005%20TV%20series%29|Doraemon%20%281979%20TV%20series%29|Perman%20%28TV%20series%29": {
+"file": "6c74f932d3376332faf3a06b1c3f377fb2f10570.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&format=json&redirects=1&prop=langlinks&lllimit=500&lllang=ko&titles=My%20Hero%20Academia|Jujutsu%20Kaisen|Spy%20%C3%97%20Family|Solo%20Leveling%20%28TV%20series%29|Tokyo%20Revengers%20%28TV%20series%29|Komi%20Can%27t%20Communicate|Rent-a-Girlfriend|Vinland%20Saga%20%28TV%20series%29|One-Punch%20Man|Classroom%20of%20the%20Elite|Monster%20%28manga%29|Hunter%20%C3%97%20Hunter%20%282011%20TV%20series%29|Black%20Clover|Sakamoto%20Days|Re%3AZero|Lookism|Stranger%20Things|Alice%20in%20Borderland%20%28TV%20series%29|Enthiran|Doraemon%3A%20Nobita%27s%20Dinosaur|List%20of%20Doraemon%20films|List%20of%20Crayon%20Shin-chan%20films|Pogo%20%28TV%20channel%29|Sony%20YAY%21|Discovery%20Kids%20%28Indian%20TV%20channel%29|Nickelodeon%20%28Indian%20TV%20channel%29|Cartoon%20Network%20%28Indian%20TV%20channel%29|Hungama%20TV|Disney%20Channel%20%28India%29|List%20of%20Doraemon%20episodes|List%20of%20Crayon%20Shin-chan%20episodes|Doraemon%20%282005%20TV%20series%29|Doraemon%20%281979%20TV%20series%29|Perman%20%28TV%20series%29": {
+"file": "7bec58ea516c6ae965d190bd4ba32e3dbaab9aaf.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&format=json&redirects=1&prop=langlinks&lllimit=500&lllang=ta&titles=My%20Hero%20Academia|Jujutsu%20Kaisen|Spy%20%C3%97%20Family|Solo%20Leveling%20%28TV%20series%29|Tokyo%20Revengers%20%28TV%20series%29|Komi%20Can%27t%20Communicate|Rent-a-Girlfriend|Vinland%20Saga%20%28TV%20series%29|One-Punch%20Man|Classroom%20of%20the%20Elite|Monster%20%28manga%29|Hunter%20%C3%97%20Hunter%20%282011%20TV%20series%29|Black%20Clover|Sakamoto%20Days|Re%3AZero|Lookism|Stranger%20Things|Alice%20in%20Borderland%20%28TV%20series%29|Enthiran|Doraemon%3A%20Nobita%27s%20Dinosaur|List%20of%20Doraemon%20films|List%20of%20Crayon%20Shin-chan%20films|Pogo%20%28TV%20channel%29|Sony%20YAY%21|Discovery%20Kids%20%28Indian%20TV%20channel%29|Nickelodeon%20%28Indian%20TV%20channel%29|Cartoon%20Network%20%28Indian%20TV%20channel%29|Hungama%20TV|Disney%20Channel%20%28India%29|List%20of%20Doraemon%20episodes|List%20of%20Crayon%20Shin-chan%20episodes|Doraemon%20%282005%20TV%20series%29|Doraemon%20%281979%20TV%20series%29|Perman%20%28TV%20series%29": {
+"file": "ecbaa41a19830c29f0b64a016f7b1bc8d2c210a9.txt",
+"status": 200,
+"tries": 1
+}
+}
