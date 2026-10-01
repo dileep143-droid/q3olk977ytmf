@@ -1,0 +1,8 @@
+{
+  "head" : {
+    "vars" : [ "i", "ja", "en" ]
+  },
+  "results" : {
+    "bindings" : [ ]
+  }
+}
