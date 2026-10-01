@@ -1,0 +1,9 @@
+https://chhotabheem.fandom.com/api.php?action=query&list=allpages&aplimit=500&format=json
+https://chhotabheem.fandom.com/api.php?action=query&list=categorymembers&cmtitle=Category:Episodes&cmlimit=500&format=json
+https://kiteretsu.fandom.com/api.php?action=query&list=allpages&aplimit=500&format=json
+https://mightyraju.fandom.com/api.php?action=query&list=allpages&aplimit=500&format=json
+https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&format=json&titles=Mighty%20Raju
+https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&format=json&titles=List%20of%20Chhota%20Bheem%20episodes
+https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&format=json&titles=List%20of%20Kiteretsu%20Daihyakka%20episodes
+https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&format=json&titles=List%20of%20Perman%20episodes
+https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&format=json&titles=Kiteretsu%20Daihyakka
