@@ -1,0 +1,3 @@
+https://ja.wikipedia.org/w/index.php?title=ドラえもんのエピソード一覧_(テレビ朝日系)&action=raw
+https://ja.wikipedia.org/w/index.php?title=ドラえもんのエピソード一覧_(1979年版)&action=raw
+https://ja.wikipedia.org/w/api.php?action=query&list=search&srsearch=ドラえもん+エピソード一覧&format=json&srlimit=20
