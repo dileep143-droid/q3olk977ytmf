@@ -1,0 +1,2 @@
+https://ja.wikipedia.org/w/api.php?action=parse&prop=wikitext&format=json&redirects=1&page=クレヨンしんちゃんのアニメエピソード一覧_(2002年_-_2011年)
+https://ja.wikipedia.org/w/api.php?action=parse&prop=wikitext&format=json&redirects=1&page=クレヨンしんちゃんのアニメエピソード一覧_(2012年_-_)
