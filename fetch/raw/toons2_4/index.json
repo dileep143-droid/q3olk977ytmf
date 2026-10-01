@@ -1,0 +1,47 @@
+{
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&format=json&titles=Mighty%20Raju": {
+"file": "f0f968f81c32c1abd351d2939309514cbd40fa2a.txt",
+"status": 200,
+"tries": 1
+},
+"https://mightyraju.fandom.com/api.php?action=query&list=allpages&aplimit=500&format=json": {
+"file": "b7fae3a190166e0c389646cd710b48a37f9d8fc0.txt",
+"status": 404,
+"tries": 1
+},
+"https://kiteretsu.fandom.com/api.php?action=query&list=allpages&aplimit=500&format=json": {
+"file": "51af05303a24ffc2b48e274f9400bcb51904fa2b.txt",
+"status": 200,
+"tries": 1
+},
+"https://chhotabheem.fandom.com/api.php?action=query&list=allpages&aplimit=500&format=json": {
+"file": "cf608bef3b48df44290b8abec85cadc81f0d2ea9.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&format=json&titles=List%20of%20Chhota%20Bheem%20episodes": {
+"file": "6a5aaaaa6e9db333b98528462caa89ba90e64dc0.txt",
+"status": 200,
+"tries": 1
+},
+"https://chhotabheem.fandom.com/api.php?action=query&list=categorymembers&cmtitle=Category:Episodes&cmlimit=500&format=json": {
+"file": "6e0e01f5d4693bc08d0d5cb64084366ba314be56.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&format=json&titles=List%20of%20Kiteretsu%20Daihyakka%20episodes": {
+"file": "3e0c9692df6d5937977b44a82f9500077305ea53.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&format=json&titles=List%20of%20Perman%20episodes": {
+"file": "eb2bb8e0cc4102b4efefc6be38011b4731aa82f6.txt",
+"status": 200,
+"tries": 1
+},
+"https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&format=json&titles=Kiteretsu%20Daihyakka": {
+"file": "3249dcba0280aa0c7be023e8abe14a320ca21353.txt",
+"status": 200,
+"tries": 1
+}
+}

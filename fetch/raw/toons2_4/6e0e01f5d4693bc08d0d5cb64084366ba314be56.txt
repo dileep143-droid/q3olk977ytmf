@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"categorymembers":[{"pageid":833,"ns":0,"title":"Fashion fundas"},{"pageid":832,"ns":0,"title":"Frog race"}]}}

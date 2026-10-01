@@ -2,11 +2,11 @@
 "https://ja.wikipedia.org/w/api.php?action=parse&prop=wikitext&format=json&redirects=1&page=クレヨンしんちゃんのアニメエピソード一覧_(2002年_-_2011年)": {
 "file": "b7c5521b180a4caba4b9d12195bf8c436f7472ab.txt",
 "status": 0,
-"tries": 2
+"tries": 3
 },
 "https://ja.wikipedia.org/w/api.php?action=parse&prop=wikitext&format=json&redirects=1&page=クレヨンしんちゃんのアニメエピソード一覧_(2012年_-_)": {
 "file": "2101ebaafb2f383a87586c6c8ffe7745efd7892e.txt",
 "status": 0,
-"tries": 2
+"tries": 3
 }
 }
