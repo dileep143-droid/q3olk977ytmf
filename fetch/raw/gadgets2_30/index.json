@@ -1,0 +1,7 @@
+{
+"https://doraemon.fandom.com/api.php?action=query&prop=revisions&rvprop=content&rvslots=main&format=json&redirects=1&titles=Chapter%20129%3AGraphs%20Don%27t%20Lie%7CFind%20the%20Concentration%20Machine%7CProposal%20Strategy%7CRestoration%20Light%7CSwapping%20Moms%7CThe%20Schedule%20Clock": {
+"file": "a9319b602dfa2d14883664fc0a7ddd6c86f2ba82.txt",
+"status": 200,
+"tries": 1
+}
+}
