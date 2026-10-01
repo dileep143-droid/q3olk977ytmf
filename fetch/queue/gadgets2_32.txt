@@ -1,0 +1,3 @@
+https://ja.wikipedia.org/w/index.php?title=%E3%83%89%E3%83%A9%E3%81%88%E3%82%82%E3%82%93%E3%81%AE%E3%82%A8%E3%83%94%E3%82%BD%E3%83%BC%E3%83%89%E4%B8%80%E8%A6%A7_%28%E3%83%86%E3%83%AC%E3%83%93%E6%9C%9D%E6%97%A5%E7%B3%BB%29&action=raw
+https://ja.wikipedia.org/w/index.php?title=%E3%83%89%E3%83%A9%E3%81%88%E3%82%82%E3%82%93%E3%81%AE%E3%82%A8%E3%83%94%E3%82%BD%E3%83%BC%E3%83%89%E4%B8%80%E8%A6%A7_%281979%E5%B9%B4%E7%89%88%29&action=raw
+https://ja.wikipedia.org/w/api.php?action=query&list=search&srsearch=%E3%83%89%E3%83%A9%E3%81%88%E3%82%82%E3%82%93%20%E3%82%A8%E3%83%94%E3%82%BD%E3%83%BC%E3%83%89%E4%B8%80%E8%A6%A7&format=json&srlimit=20
