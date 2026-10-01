@@ -1,0 +1,17 @@
+https://query.wikidata.org/sparql?format=json&query=SELECT%20%3Fi%20%3Fja%20%3Fen%20WHERE%20%7B%20%3Fi%20wdt%3AP1441%20wd%3AQ28856%20.%20OPTIONAL%7B%3Fi%20rdfs%3Alabel%20%3Fja%20FILTER%28lang%28%3Fja%29%3D%22ja%22%29%7D%20OPTIONAL%7B%3Fi%20rdfs%3Alabel%20%3Fen%20FILTER%28lang%28%3Fen%29%3D%22en%22%29%7D%20%7D%20LIMIT%202000
+https://query.wikidata.org/sparql?format=json&query=SELECT%20%3Fi%20%3Fja%20%3Fen%20WHERE%20%7B%20%3Fi%20wdt%3AP1080%20wd%3AQ28856%20.%20OPTIONAL%7B%3Fi%20rdfs%3Alabel%20%3Fja%20FILTER%28lang%28%3Fja%29%3D%22ja%22%29%7D%20OPTIONAL%7B%3Fi%20rdfs%3Alabel%20%3Fen%20FILTER%28lang%28%3Fen%29%3D%22en%22%29%7D%20%7D%20LIMIT%202000
+https://doraemon.fandom.com/vi/api.php?action=query&list=allcategories&aclimit=500&format=json
+https://doraemon.fandom.com/vi/api.php?action=query&list=allpages&aplimit=500&format=json
+https://doraemon.fandom.com/zh/api.php?action=query&list=allcategories&aclimit=500&format=json
+https://doraemon.fandom.com/zh/api.php?action=query&list=allpages&aplimit=500&format=json
+https://doraemon.fandom.com/es/api.php?action=query&list=allcategories&aclimit=500&format=json
+https://doraemon.fandom.com/es/api.php?action=query&list=allpages&aplimit=500&format=json
+https://doraemon.fandom.com/id/api.php?action=query&list=allcategories&aclimit=500&format=json
+https://doraemon.fandom.com/id/api.php?action=query&list=allpages&aplimit=500&format=json
+https://doraemon.fandom.com/pt/api.php?action=query&list=allcategories&aclimit=500&format=json
+https://doraemon.fandom.com/pt/api.php?action=query&list=allpages&aplimit=500&format=json
+https://doraemon.fandom.com/it/api.php?action=query&list=allcategories&aclimit=500&format=json
+https://doraemon.fandom.com/it/api.php?action=query&list=allpages&aplimit=500&format=json
+https://doraemon.fandom.com/fr/api.php?action=query&list=allcategories&aclimit=500&format=json
+https://doraemon.fandom.com/fr/api.php?action=query&list=allpages&aplimit=500&format=json
+https://hi.wikipedia.org/w/api.php?action=query&list=search&srsearch=%E0%A4%A1%E0%A5%8B%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A5%8B%E0%A4%A8&srlimit=50&format=json
