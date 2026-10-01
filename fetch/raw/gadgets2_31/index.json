@@ -2,16 +2,16 @@
 "https://ja.wikipedia.org/w/index.php?title=ドラえもんのエピソード一覧_(テレビ朝日系)&action=raw": {
 "file": "df6a63730c8034f53028b5ae1b374e4e6cafadab.txt",
 "status": 0,
-"tries": 1
+"tries": 2
 },
 "https://ja.wikipedia.org/w/index.php?title=ドラえもんのエピソード一覧_(1979年版)&action=raw": {
 "file": "1ff7eebac85997d4c8c08879968e6afd384a6a82.txt",
 "status": 0,
-"tries": 1
+"tries": 2
 },
 "https://ja.wikipedia.org/w/api.php?action=query&list=search&srsearch=ドラえもん+エピソード一覧&format=json&srlimit=20": {
 "file": "209cde5eba3045eab04073190d540240088b28b3.txt",
 "status": 0,
-"tries": 1
+"tries": 2
 }
 }
