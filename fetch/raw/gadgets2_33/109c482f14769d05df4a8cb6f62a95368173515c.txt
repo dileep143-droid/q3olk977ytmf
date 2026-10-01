@@ -1,0 +1,1163 @@
+{{pp-vandalism|small=yes}}
+{{Pathnav|frame=1|ドラえもん|ドラえもんの派生作品|ドラえもん (1979年のテレビアニメ)}}
+{{出典の明記|date=2026年7月}}
+'''ドラえもんのアニメエピソード一覧 (1986年 - 1990年)'''（ドラえもんのアニメエピソードいちらん）では、1979年から放送されたテレビアニメ『[[ドラえもん (1979年のテレビアニメ)|ドラえもん]]』での放送作品のうち1986年1月3日から1990年12月31日までに放送された各話放送タイトル及びスタッフリストを記述する。
+
+'''原作'''欄は[[てんとう虫コミックス]]『ドラえもん』の巻数を示す。'''+'''は『ドラえもんプラス』、'''C'''は『ドラえもんカラー作品集』、'''CC'''は『カラーコミックス』、'''PC'''は『ぴっかぴかコミックス』、'''コロコロ文庫○○編'''は『小学館コロコロ文庫』、'''大'''は『[[藤子・F・不二雄大全集]]「ドラえもん」』の略（プラス、カラー作品集、ぴっかぴかコミックスなどを優先して表記）として表記している。未表記のものは、原作のないアニメオリジナル作品であることを示す。また、原案、原作が2つ以上存在する場合は併せて付記している。特番用に制作された作品は'''SPECIAL'''と表記し、話数には含まない。'''放送日'''は[[テレビ朝日]]・同時ネット局の放送日。
+
+== 1986年 ==
+{| class="wikitable" style="font-size:small;"
+|-
+!放送日!!放送回数!!話数!!サブタイトル!!原作!!脚本!!コンテ!!演出!!作画監督
+|-
+|rowspan="4"|1月3日||rowspan="4"|SPECIAL||rowspan="2"|SPECIAL||ぐーたらお正月セット||35巻||小川あさ美||森脇真琴||安藤敏彦||若松孝思
+|-
+|のび太の宝さがし||PC12巻<br />大2巻||rowspan="2" colspan="4" style="text-align:center"|再放送
+|-
+|574||かがみのない世界||27巻
+|-
+|SPECIAL||おばあちゃん大好き||4巻||水出弘一||小林和彦||原恵一||rowspan="2"|中村英一
+|-
+|rowspan="2"|1月10日||rowspan="2"|208||848||タイムシーバー||1巻||丸尾みほ||森脇真琴||安藤敏彦
+|-
+|706||無敵メンコレータム||大14巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|1月17日||rowspan="2"|209||849||入れかえロープ||42巻||小川あさ美||colspan="2" style="text-align:center"|原恵一||中村英一
+|-
+|705||宇宙たんけんごっこ||29巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|1月24日||rowspan="2"|210||850||なんとかばち||+1巻||水出弘一||colspan="2" style="text-align:center"|原恵一||若松孝思
+|-
+|700||人間ブックカバー||27巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|1月31日||rowspan="2"|211||851||パパだって甘えんぼ||16巻||水出弘一||金子伸吾||安藤敏彦||若松孝思
+|-
+|707||ジャイアンテレビに出る||30巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|2月7日||rowspan="2"|212||852||あの窓にさようなら||19巻||丸尾みほ||colspan="2" style="text-align:center"|原恵一||中村英一
+|-
+|710||バリヤーポイント||31巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|2月14日||rowspan="2"|213||853||無敵砲台||38巻||水出弘一||colspan="2" style="text-align:center"|安藤敏彦||中村英一
+|-
+|708||まんがかジャイ子||29巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|2月21日||rowspan="2"|214||854||さとりヘルメット||39巻||丸尾みほ||colspan="2" style="text-align:center"|原恵一||中村英一
+|-
+|709||しずかのネックレス||28巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|2月28日||rowspan="2"|215||855||警察犬つけ鼻||39巻||小川あさ美||[[朴京順|パクキョンスン]]||安藤敏彦||中村英一
+|-
+|711||やめさせロボット||大14巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|3月7日||rowspan="2"|216||856||円盤そうじゅう訓練機||13巻||松岡清治||colspan="2" style="text-align:center"|原恵一||中村英一
+|-
+|713||ヒミツゲンシュ犬||+1巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|3月14日||rowspan="2"|217||857||空間入れかえ機||19巻||小川あさ美||colspan="2" style="text-align:center"|安藤敏彦||中村英一
+|-
+|703||アンケーターでプレゼント||28巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|3月21日||rowspan="2"|218||858||感情エネルギーボンベ||42巻||水出弘一||金子伸吾||原恵一||中村英一
+|-
+|714||宇宙救命ボート||32巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|3月28日||rowspan="2"|219||859||タイム手ぶくろとめがね||PC14巻||丸尾みほ||森脇真琴||安藤敏彦||中村英一
+|-
+|716||ほしい人探知機||32巻||rowspan="2" colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="3"|4月4日||rowspan="3"|SPECIAL||794||ハリーのしっぽ||33巻
+|-
+|860||ミュンヒハウゼン城へようこそ||12巻||-||望月智充||安藤敏彦||富永貞義
+|-
+|656||コピー頭脳でラクをしよう||43巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|4月11日||rowspan="2"|220||861||アトカラホントスピーカー||37巻||滝原弥生||colspan="2" style="text-align:center"|原恵一||中村英一
+|-
+|718||変身ドリンク||34巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|4月18日||rowspan="2"|221||862||四次元くずかご||45巻||丸尾みほ||中村孝一郎||安藤敏彦||中村英一
+|-
+|717||ペンシルミサイル||rowspan="2"|+5巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|4月25日||rowspan="2"|222||863||ミミダケとシャベリップ||松岡清治||colspan="2" style="text-align:center"|原恵一||中村英一
+|-
+|719||家元かんばん||28巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|5月2日||rowspan="2"|223||864||無人境ドリンク||38巻||小川あさ美||colspan="2" style="text-align:center"|安藤敏彦||中村英一
+|-
+|720||のび太はいかが||28巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|5月9日||rowspan="2"|224||865||きらいなテストにガーンバ||+1巻||もとひら了||colspan="2" style="text-align:center"|原恵一||中村英一
+|-
+|728||空とぶドレス||29巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|5月16日||rowspan="2"|225||866||抜け穴ボールペン||39巻||丸尾みほ||森脇真琴||安藤敏彦||中村英一
+|-
+|721||10円なんでもストア||44巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|5月23日||rowspan="2"|226||867||逆重力ベルト||大13巻||小川あさ美||森脇真琴||安藤敏彦||中村英一
+|-
+|712||いやなことヒューズ||33巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|5月30日||rowspan="2"|227||868||地球製造セット||5巻||水出弘一||西山裕次||原恵一||中村英一
+|-
+|725||しずかちゃんとスイートホーム||35巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|6月6日||rowspan="2"|228||869||星とりあみとハンマー||38巻||松岡清治||colspan="2" style="text-align:center"|原恵一||中村英一
+|-
+|727||たましいステッキ||39巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|6月13日||rowspan="2"|229||870||一時あずけカード||+3巻||水出弘一||colspan="2" style="text-align:center"|安藤敏彦||中村英一
+|-
+|722||物体電送アダプター||30巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|6月20日||rowspan="2"|230||871||魔神のいない魔法のランプ||C3巻||水出弘一||森脇真琴||原恵一||中村英一
+|-
+|726||しあわせ保険機||大11巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|6月27日||rowspan="2"|231||872||四次元若葉マーク||39巻||もとひら了||西山裕次||安藤敏彦||中村英一
+|-
+|715||うらめしドロップ||29巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|7月4日||rowspan="2"|232||873||けしきカッター||42巻||もとひら了||中村孝一郎||原恵一||中村英一
+|-
+|731||でんしょひこうき||+4巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|7月11日||rowspan="2"|233||874||具象化鏡||39巻||丸尾みほ||colspan="2" style="text-align:center"|安藤敏彦||中村英一
+|-
+|734||へやこうかんスイッチ||30巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|7月18日||rowspan="2"|234||875||みせかけ落がきペン||+4巻||小川あさ美||森脇真琴||原恵一||中村英一
+|-
+|736||かぐやロボット||37巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|7月25日||rowspan="2"|235||876||ずらしんぼ||39巻||松岡清治||森脇真琴||安藤敏彦||中村英一
+|-
+|729||しりとり変身カプセル||28巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|8月1日||rowspan="2"|236||877||翼ちゃんの秘密||+5巻||滝原弥生||colspan="2" style="text-align:center"|原恵一||中村英一
+|-
+|735||みせかけつり針||31巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|8月8日||rowspan="2"|237||878||タチバガン||44巻||松岡清治||colspan="2" style="text-align:center"|安藤敏彦||中村英一
+|-
+|739||むだ時間とりもどしポンプ||rowspan="2"|34巻||rowspan="2" colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="3"|8月15日||rowspan="3"|SPECIAL||771||エスキモーエキス
+|-
+|879||20世紀のおとのさま||24巻||-||芝山努||安藤敏彦<br />原恵一||富永貞義
+|-
+|768||エネルギー節約熱気球||+4巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|8月22日||rowspan="2"|238||880||メルヘンランド入場券||39巻||水出弘一||colspan="2" style="text-align:center"|原恵一||中村英一
+|-
+|737||貸し切りチップ||36巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|8月29日||rowspan="2"|239||881||のび太のカターイ決心||rowspan="2"|32巻||もとひら了||colspan="2" style="text-align:center"|原恵一||中村英一
+|-
+|738||本の味の友||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|9月5日||rowspan="2"|240||882||ユメかんとくイス||+2巻||丸尾みほ||大金正一||安藤敏彦||中村英一
+|-
+|740||決心コンクリート||43巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|9月12日||rowspan="2"|241||883||風船手紙コントローラー||39巻||滝原弥生||森脇真琴||安藤敏彦||中村英一
+|-
+|742||タッチてぶくろ||40巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|9月19日||rowspan="2"|242||884||光ファイバーつた||+2巻||丸尾みほ||石井文子||原恵一||中村英一
+|-
+|741||動物変身恩返しグスリ||35巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|9月26日||rowspan="2"|243||885||シャボンヘルメット||+1巻||水出弘一||colspan="2" style="text-align:center"|安藤敏彦||中村英一
+|-
+|744||あとからアルバム||31巻||colspan="4" style="text-align:center"|再放送
+|-
+|9月29日||SPECIAL||colspan="7" style="text-align:center;"|[[ドラえもん のび太と鉄人兵団]]（監督：芝山努）
+|-
+|rowspan="2"|10月3日||rowspan="2"|244||886||おこのみフォトプリンター||+1巻||もとひら了||colspan="2" style="text-align:center"|原恵一||中村英一
+|-
+|746||することレンズ||31巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|10月10日||rowspan="2"|245||887||ハンディキャップ||39巻||小川あさ美||金子伸吾||安藤敏彦||中村英一
+|-
+|745||ゼンマイ式潜地艦||35巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|10月17日||rowspan="2"|246||888||たくはいキャップ||44巻||丸尾みほ||colspan="2" style="text-align:center"|安藤敏彦||中村英一
+|-
+|747||悪魔のイジワール||34巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|10月24日||rowspan="2"|247||889||しかえし伝票||38巻||松岡清治||colspan="2" style="text-align:center"|原恵一||中村英一
+|-
+|750||カワイソメダル||PC12巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|10月31日||rowspan="2"|248||890||テレテレホン||+4巻||水出弘一||colspan="2" style="text-align:center"|原恵一||中村英一
+|-
+|749||たましいふきこみ銃||34巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|11月7日||rowspan="2"|249||891||実用ミニカーセット||42巻||水出弘一||井上修||安藤敏彦||中村英一
+|-
+|752||ホンワカキャップ||30巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|11月21日||rowspan="2"|250||892||リフトストック||37巻||滝原弥生||colspan="2" style="text-align:center"|原恵一||中村英一
+|-
+|753||運動神経コントローラー||43巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|11月28日||rowspan="2"|251||893||コメットハンターに挑戦||大14巻||松岡清治||colspan="2" style="text-align:center"|安藤敏彦||中村英一
+|-
+|748||自動買い取り機||29巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|12月5日||rowspan="2"|252||894||みかた指輪||大16巻||もとひら了||西山裕次||原恵一||中村英一
+|-
+|759||メモリーディスク||39巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|12月12日||rowspan="2"|253||895||グレードアップ液||44巻||水出弘一||colspan="2" style="text-align:center"|安藤敏彦||中村英一
+|-
+|751||モーゼステッキ||31巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|12月19日||rowspan="2"|254||896||つづれ屋をたてなおせ||rowspan="2"|32巻||松岡清治||colspan="2" style="text-align:center"|原恵一||中村英一
+|-
+|754||時差時計||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|12月26日||rowspan="2"|255||897||厚みぬきとりバリ||39巻||丸尾みほ||colspan="2" style="text-align:center"|安藤敏彦||中村英一
+|-
+|756||のぞき穴ボード||29巻||rowspan="3" colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|12月31日<ref>通常秋田県では、[[秋田放送]]（[[日本テレビネットワーク協議会|日本テレビ系列]]）が遅れネットしていたが、この回に限っては特例で[[秋田テレビ]]（当時は[[フジネットワーク|フジテレビ系列]]・[[オールニッポン・ニュースネットワーク|テレビ朝日系列]][[クロスネット局]]）が同時ネット放送した（放送当日の[[秋田魁新報]]など、秋田県版の新聞のテレビ欄より）。</ref>||rowspan="2"|SPECIAL<ref>『藤子不二雄スペシャル』として、他の藤子Fおよび藤子A原作作品との抱き合わせ放送。</ref>||654||必中けん賞はがき||33巻
+|-
+|685||ニンニン修業セット||28巻
+|}
+
+== 1987年 ==
+{| class="wikitable" style="font-size:small;"
+|-
+!放送日!!放送回数!!話数!!サブタイトル!!原作!!脚本!!コンテ!!演出!!作画監督
+|-
+|rowspan="3"|1月2日||rowspan="3" colspan="2" style="text-align:center"|SPECIAL||三倍時計ペタンコ||23巻||colspan="4" style="text-align:center"|再放送
+|-
+|のら犬「イチ」の国||22巻||松岡清治||colspan="2" style="text-align:center"|安藤敏彦||富永貞義
+|-
+|精霊よびだしうでわ||21巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|1月9日||rowspan="2"|256||898||ふきかえ糸電話||37巻||水出弘一||塚田庄英||原恵一||中村英一
+|-
+|755||フエール銀行||30巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|1月16日||rowspan="2"|257||899||空中シューズ||+1巻||もとひら了||colspan="2" style="text-align:center"|安藤敏彦||中村英一
+|-
+|761||ジャイアンへのホットなレター||35巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|1月23日||rowspan="2"|258||900||ユメ完結チップ||+6巻||丸尾みほ||colspan="2" style="text-align:center"|安藤敏彦||中村英一
+|-
+|760||やじうまアンテナ||34巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|1月30日||rowspan="2"|259||901||モンスターボール||22巻||滝原弥生||森脇真琴||安藤敏彦||中村英一
+|-
+|757||雲かためガス||34巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|2月6日||rowspan="2"|260||902||あべこべせかいミラー||C1巻||丸尾みほ||colspan="2" style="text-align:center"|原恵一||中村英一
+|-
+|762||ロッカーカッター||PC11巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|2月13日||rowspan="2"|261||903||のび太の秘密基地||20巻||松岡清治||金子伸吾||安藤敏彦||中村英一
+|-
+|730||十戒石板||39巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|2月20日||rowspan="2"|262||904||ペッター||+3巻||水出弘一||colspan="2" style="text-align:center"|原恵一||中村英一
+|-
+|743||どこでも誰でもローラースケート||33巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|2月27日||rowspan="2"|263||905||としのいずみロープ||C1巻||松岡清治||colspan="2" style="text-align:center"|安藤敏彦||中村英一
+|-
+|732||SLえんとつ||33巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|3月6日||rowspan="2"|264||906||赤いクツの思い出||6巻||水出弘一||colspan="2" style="text-align:center"|原恵一||中村英一
+|-
+|733||能力カセット||34巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|3月13日||rowspan="2"|265||907||日付変更チョーク||C2巻||colspan="2" style="text-align:center"|もとひら了||原恵一||中村英一
+|-
+|684||新種図鑑で有名に||28巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|3月20日||rowspan="2"|266||908||あの日あの時あのダルマ||18巻||丸尾みほ||colspan="2" style="text-align:center"|安藤敏彦||中村英一
+|-
+|763||雨男はつらいよ||34巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|3月27日||rowspan="2"|267||909||真夜中のお花見||45巻||松岡清治||colspan="2" style="text-align:center"|原恵一||中村英一
+|-
+|672||水ざいくで遊ぼう||23巻||rowspan="2" colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="3"|4月3日||rowspan="3"|SPECIAL||724||さよならのび太||31巻
+|-
+|910||ガンファイターのび太||24巻||-||森脇真琴||[[平井峰太郎]]||中村英一
+|-
+|SPECIAL||のび太のガリバー旅行||36巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|4月10日||rowspan="2"|268||911||ホログラ機||+3巻||もとひら了||colspan="2" style="text-align:center"|平井峰太郎||中村英一
+|-
+|767||超リアル・ジオラマ作戦||32巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|4月17日||rowspan="2"|269||912||木こりの泉||36巻||滝原弥生||colspan="2" style="text-align:center"|安藤敏彦||中村英一
+|-
+|773||四次元ポケットのスペア||25巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|4月24日||rowspan="2"|270||913||植物歩かせ液||C4巻||丸尾みほ||colspan="2" style="text-align:center"|平井峰太郎||中村英一
+|-
+|764||地中さかなつり||30巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|5月1日||rowspan="2"|271||914||レプリコッコ||35巻||丸尾みほ||colspan="2" style="text-align:center"|安藤敏彦||中村英一
+|-
+|766||イメージガム||PC3巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|5月8日||rowspan="2"|272||915||ポップ地下室とフエルミラー||39巻||水出弘一||西山裕次||平井峰太郎||中村英一
+|-
+|765||山びこ山||35巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|5月15日||rowspan="2"|273||916||カサイラズ||C2巻||丸尾みほ||金子伸吾||安藤敏彦||中村英一
+|-
+|774||ウルトラヒーロー||大15巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|5月22日||rowspan="2"|274||917||クローンリキッド悟空||37巻||水出弘一||森脇真琴||平井峰太郎||中村英一
+|-
+|770||ペットペン||rowspan="2"|+2巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|5月29日||rowspan="2"|275||918||プログラミングほくろ||もとひら了||colspan="2" style="text-align:center"|安藤敏彦||中村英一
+|-
+|775||マジックハンカチ||34巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|6月5日||rowspan="2"|276||919||たたりチンキ||rowspan="2"|40巻||丸尾みほ||森脇真琴||平井峰太郎||中村英一
+|-
+|777||台風トラップと風蔵庫||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|6月12日||rowspan="2"|277||920||ジオラマブック||C1巻||松岡清治||芝山努||安藤敏彦||中村英一
+|-
+|778||かんこうりょこう窓||大15巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|6月19日||rowspan="2"|278||921||交通標識ステッカー||+4巻||松岡清治||colspan="2" style="text-align:center"|平井峰太郎||中村英一
+|-
+|780||人間磁石ベルト||rowspan="2"|大15巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|6月26日||rowspan="2"|279||922||ついせきアロー||もとひら了||井上修||安藤敏彦||中村英一
+|-
+|779||時空間とりかえ機||34巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|7月3日||rowspan="2"|280||923||ねがい七夕ロケット||PC14巻||滝原弥生||colspan="2" style="text-align:center"|平井峰太郎||中村英一
+|-
+|772||サンタイン||33巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|7月10日||rowspan="2"|281||924||なおしバンとこわしバン||C3巻||水出弘一||金子伸吾||安藤敏彦||中村英一
+|-
+|782||ルームガードセット||+1巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|7月17日||rowspan="2"|282||925||大げさカメラ||C3巻||小川あさ美||竹内大三||平井峰太郎||中村英一
+|-
+|783||ガッコー仮面登場||33巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|7月24日||rowspan="2"|283||926||きもだめしメガネ||+3巻||水出弘一||colspan="2" style="text-align:center"|安藤敏彦||中村英一
+|-
+|784||地震訓練ペーパー||34巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|7月31日||rowspan="2"|284||927||ナカミスイトール||C1巻||丸尾みほ||colspan="2" style="text-align:center"|平井峰太郎||中村英一
+|-
+|785||ロボット背後霊||37巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|8月7日||rowspan="2"|285||928||スリルチケット||+1巻||もとひら了||安藤敏彦||平井峰太郎||中村英一
+|-
+|786||ジャイアンのめいわくコンサート||38巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|8月14日||rowspan="2"|SPECIAL||929||GO!GO!ノビタマン||21巻||-||芝山努||安藤敏彦||中村英一
+|-
+|SPECIAL||ネッシーがくる!||6巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|8月21日||rowspan="2"|286||930||ブラックホールペン||44巻||丸尾みほ||colspan="2" style="text-align:center"|平井峰太郎||中村英一
+|-
+|771||エスキモーエキス||34巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|8月28日||rowspan="2"|287||931||重さすいこみ銃||C2巻||水出弘一||森脇真琴||安藤敏彦||中村英一
+|-
+|781||即席海つくり機||PC2巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|9月4日||rowspan="2"|288||932||オバケタイマー||36巻||松岡清治||金子伸吾||平井峰太郎||中村英一
+|-
+|787||感覚モニター||37巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|9月11日||rowspan="2"|289||933||ジャイアンをだまらせろ||23巻||-||芝山努||安藤敏彦||中村英一
+|-
+|788||合成鉱山の素||43巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|9月18日||rowspan="2"|290||934||交通規制タイマー||+5巻||水出弘一||井上修||平井峰太郎||中村英一
+|-
+|790||現実ビデオ化機||35巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|9月25日||rowspan="2"|291||935||家の中で迷子||18巻||丸尾みほ||colspan="2" style="text-align:center"|安藤敏彦||中村英一
+|-
+|789||わからずやのパパは、のび太||36巻||colspan="4" style="text-align:center"|再放送
+|-
+|9月28日||SPECIAL||colspan="7" style="text-align:center;"|[[ドラえもん のび太と竜の騎士]]（監督：芝山努）
+|-
+|rowspan="2"|10月2日||rowspan="2"|292||936||ようこそ質屋へ||18巻||もとひら了||colspan="2" style="text-align:center"|平井峰太郎||中村英一
+|-
+|768||エネルギー節約熱気球||+4巻||colspan="4" style="text-align:center"|再放送
+|-
+|10月9日||SPECIAL||937||タイムカプセル||26巻||-||芝山努||平井峰太郎||rowspan="21"|中村英一
+|-
+|rowspan="2"|10月23日||rowspan="2"|293||938||泣くな，ベソ!!||16巻||水出弘一||colspan="2" style="text-align:center"|平井峰太郎
+|-
+|939||心ふきこみマイク||大16巻||滝原弥生||rowspan="3" colspan="2" style="text-align:center"|安藤敏彦
+|-1
+|rowspan="2"|10月30日||rowspan="2"|294||940||あの頃に戻りたい!||13巻||松岡清治
+|-
+|941||ツーカー錠||42巻||もとひら了
+|-
+|rowspan="2"|11月6日||rowspan="2"|295||942||パパとおじいちゃん||14巻||丸尾みほ||森脇真琴||平井峰太郎
+|-
+|943||かげふみオイル||C3巻||小川あさ美||colspan="2" style="text-align:center"|平井峰太郎
+|-
+|rowspan="2"|11月13日||rowspan="2"|296||944||なかまバッチ||+4巻||水出弘一||森脇真琴||安藤敏彦
+|-
+|945||半分おでかけ雲||+1巻||丸尾みほ||colspan="2" style="text-align:center"|平井峰太郎
+|-
+|rowspan="2"|11月20日||rowspan="2"|297||946||人間リモコン||43巻||rowspan="2"|松岡清治||金子伸吾||安藤敏彦
+|-
+|947||旅行窓セット||大16巻||森脇真琴||rowspan="3"|平井峰太郎
+|-
+|rowspan="2"|11月27日||rowspan="2"|298||948||ねながらケース||38巻||水出弘一||安藤敏彦
+|-
+|949||モクモクマン||C1巻||松岡清治||森脇真琴
+|-
+|rowspan="2"|12月4日||rowspan="2"|299||950||透明ボディーガード||大13巻||水出弘一||井上修||安藤敏彦
+|-
+|951||へんしんロボット||C2巻||丸尾みほ||colspan="2" style="text-align:center"|平井峰太郎
+|-
+|rowspan="2"|12月11日||rowspan="2"|300||952||完全修正機||C4巻||もとひら了||colspan="2" style="text-align:center"|安藤敏彦
+|-
+|953||あやつりそっくり風船||+3巻||松岡清治||増田光昭||平井峰太郎
+|-
+|rowspan="2"|12月18日||rowspan="2"|301||954||のりものぐつ||39巻||rowspan="2"|丸尾みほ||森脇真琴||安藤敏彦
+|-
+|955||めいれい銃||+2巻||colspan="2" style="text-align:center"|安藤敏彦
+|-
+|rowspan="2"|12月25日||rowspan="2"|302||956||タイムワープリール||45巻||水出弘一||colspan="2" style="text-align:center"|平井峰太郎
+|-
+|957||むせいぶつ指揮棒||C3巻||もとひら了||山下克巳||平井峰太郎
+|-
+|12月31日||colspan="2" style="text-align:center"|SPECIAL||のび太の「夢の金メダル」||-||colspan="4" style="text-align:center"|再放送
+|}
+
+== 1988年 ==
+{| class="wikitable" style="font-size:small;"
+|-
+!放送日!!放送回数!!話数!!サブタイトル!!原作!!脚本!!コンテ!!演出!!作画監督
+|-
+|rowspan="2"|1月8日||rowspan="2"|303||958||たからさがしペーパー||+4巻||丸尾みほ||増田光昭||安藤敏彦||中村英一
+|-
+|618||ドラえもんだいきらい!?||24巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|1月15日||rowspan="2"|304||959||ネムケスイトール||38巻||水出弘一||colspan="2" style="text-align:center"|平井峰太郎||中村英一
+|-
+|619||昆虫ヒコーキに乗ろう||27巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|1月22日||rowspan="2"|305||960||ペットペンキ||C2巻||もとひら了||colspan="2" style="text-align:center"|安藤敏彦||中村英一
+|-
+|620||恐竜たちに「招待錠」を||rowspan="2"|31巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|1月29日||rowspan="2"|306||961||ターザンパンツ||丸尾みほ||前園文夫||安藤敏彦||中村英一
+|-
+|621||のび太の地底文明説||23巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|2月5日||rowspan="2"|307||962||アメダスペン||PC13巻||滝原弥生||中村孝一郎||安藤敏彦||中村英一
+|-
+|622||のび太放送協会||大5巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|2月12日||rowspan="2"|308||963||虫のしらせ||12巻||丸尾みほ||colspan="2" style="text-align:center"|安藤敏彦||中村英一
+|-
+|623||のび太の結婚式?!||25巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|2月19日||rowspan="2"|309||964||空中つりセット||大15巻||松岡清治||森脇真琴||安藤敏彦||中村英一
+|-
+|624||魔女っ子しずかちゃん||26巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|2月26日||rowspan="2"|310||965||エレベート・ボタン||C4巻||松岡清治||colspan="2" style="text-align:center"|安藤敏彦||中村英一
+|-
+|625||裏山のガリバー探検||22巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|3月4日||rowspan="2"|311||966||クロマキーセット||30巻||水出弘一||岡嶋國敏||安藤敏彦||中村英一
+|-
+|626||新聞日付変更ポスト||25巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|3月11日||rowspan="2"|312||967||大きくなる虫メガネ||C1巻||水出弘一||福富博||安藤敏彦||中村英一
+|-
+|627||昔はよかった!?||30巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|3月18日||rowspan="2"|313||968||タスケロン・カプセル||20巻||滝原弥生||平井峰太郎||安藤敏彦||中村英一
+|-
+|628||神さまロボット||28巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|3月25日||rowspan="2"|314||969||ポケット信号機||C4巻||もとひら了||井上修||安藤敏彦||中村英一
+|-
+|630||パパの月給騒動||+2巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|4月1日||rowspan="2"|315||970||ワラシベにお願い||13巻||丸尾みほ||colspan="2" style="text-align:center"|安藤敏彦||中村英一
+|-
+|629||のび太のスペースシャトル||25巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|4月5日||rowspan="2"|SPECIAL||SPECIAL||気球で世界一周を!||27巻||丸尾みほ||森脇真琴||安藤敏彦||富永貞義
+|-
+|791||サイラン液でサケをもどそう||rowspan="2"|36巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|4月8日||rowspan="2"|316||971||断層ビジョン||丸尾みほ||colspan="2" style="text-align:center"|安藤敏彦||中村英一
+|-
+|631||クロススイッチ||33巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|4月15日||rowspan="2"|317||972||イス改良機||大15巻||水出弘一||井上修||平井峰太郎||中村英一
+|-
+|632||腹話ロボット||32巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|4月29日||rowspan="2"|318||973||遠写かがみ||14巻||水出弘一||[[松本淳]]||安藤敏彦||中村英一
+|-
+|633||のび太の童話旅行||32巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|5月6日||rowspan="2"|319||974||イメージ・ベレー||C4巻||もとひら了||[[湖山禎崇]]||平井峰太郎||中村英一
+|-
+|634||チューケンパー||+4巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|5月13日||rowspan="2"|320||975||実物ジオラマ||C3巻||水出弘一||colspan="2" style="text-align:center"|安藤敏彦||中村英一
+|-
+|635||シャラガム||+3巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|5月20日||rowspan="2"|321||976||おたすけだんご||C3巻||丸尾みほ||岡嶋國敏||平井峰太郎||中村英一
+|-
+|636||世界平和安全バッヂ||大2巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|5月27日||rowspan="2"|322||977||パパのおみやげ||37巻||水出弘一||colspan="2" style="text-align:center"|安藤敏彦||中村英一
+|-
+|637||ショージキデンパ||大3巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|6月3日||rowspan="2"|323||978||チョーダイハンド||37巻||水出弘一||colspan="2" style="text-align:center"|安藤敏彦||中村英一
+|-
+|638||かぜぶくろ||大2巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|6月10日||rowspan="2"|324||979||透明ハンド||C1巻||水出弘一||芝山努||安藤敏彦||中村英一
+|-
+|639||のび太ツバメを助けろ||29巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|6月17日||rowspan="2"|325||980||ワープペン||C3巻||もとひら了||colspan="2" style="text-align:center"|平井峰太郎||中村英一
+|-
+|640||いいなりキャップ||+5巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|6月24日||rowspan="2"|326||981||糸なし糸電話||C1巻||松岡清治||colspan="2" style="text-align:center"|安藤敏彦||中村英一
+|-
+|641||いたわりロボット||+5巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|7月8日||rowspan="2"|327||982||スベールガス||C4巻||丸尾みほ||湖山禎崇||平井峰太郎||中村英一
+|-
+|642||せわやきロープ||27巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|7月15日||rowspan="2"|328||983||かげぼうしフラッシュ||C2巻||水出弘一||山下克巳||平井峰太郎||中村英一
+|-
+|643||のび太劇団のクリスマス||28巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|7月22日||rowspan="2"|329||984||オモイデコロン||20巻||丸尾みほ||colspan="2" style="text-align:center"|安藤敏彦||中村英一
+|-
+|644||ロボット雪だるま||コロコロ文庫ロボット編||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|7月29日||rowspan="2"|330||985||海水コントローラー||C1巻||水出弘一||緒形静||安藤敏彦||中村英一
+|-
+|645||空想動物サファリパーク||26巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|8月5日||rowspan="2"|331||986||なんでも操縦機||C3巻||もとひら了||colspan="2" style="text-align:center"|平井峰太郎||中村英一
+|-
+|646||空気中継衛星||26巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|8月12日||rowspan="2"|SPECIAL||987||死神山の宝物||13巻||-||芝山努||平井峰太郎||中村英一
+|-
+|868||地球製造セット||5巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|8月19日||rowspan="2"|332||988||いねむりシール||C2巻||松岡清治||colspan="2" style="text-align:center"|安藤敏彦||中村英一
+|-
+|647||むすびの糸||31巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|8月26日||rowspan="2"|333||989||しんきろうそく立て||+1巻||もとひら了||colspan="2" style="text-align:center"|平井峰太郎||中村英一
+|-
+|648||さかさカメラ||大11巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|9月2日||rowspan="2"|334||990||昆虫マーカー||41巻||丸尾みほ||湖山禎崇||平井峰太郎||中村英一
+|-
+|649||水ビデオ||26巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|9月9日||rowspan="2"|335||991||やってきた御先祖様||14巻||丸尾みほ||colspan="2" style="text-align:center"|安藤敏彦||中村英一
+|-
+|650||チクタクボン・ワッペン||大6巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|9月16日||rowspan="2"|336||992||ハイレールペーパー||C2巻||丸尾みほ||金子伸吾||安藤敏彦||中村英一
+|-
+|651||そっくりかかし||大13巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|9月23日||rowspan="2"|337||993||中味ごとのびちぢみカップ||C2巻||水出弘一||colspan="2" style="text-align:center"|平井峰太郎||中村英一
+|-
+|652||三月の雪||+5巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|9月30日||rowspan="3"|SPECIAL||994||剣豪のび太||11巻||-||望月智充||安藤敏彦||富永貞義
+|-
+|903||のび太の秘密基地||20巻||colspan="4" style="text-align:center"|再放送
+|-
+|10月2日||colspan="7" style="text-align:center;"|[[ドラえもん のび太のパラレル西遊記]]（監督：芝山努）
+|-
+|rowspan="2"|10月7日||rowspan="2"|338||995||占いカードボックス||C2巻||水出弘一||湖山禎崇||平井峰太郎||中村英一
+|-
+|653||空気クレヨン||C4巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|10月14日||rowspan="2"|339||996||入り込みミラーII||大16巻||もとひら了||colspan="2" style="text-align:center"|安藤敏彦||中村英一
+|-
+|654||必中けん賞はがき||33巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|10月21日||rowspan="2"|340||997||たつまきストロー||大15巻||松岡清治||望月智充||平井峰太郎||中村英一
+|-
+|655||ドライライト||33巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|10月28日||rowspan="2"|341||998||ヘリカメラ||PC6巻||水出弘一||湖山禎崇||安藤敏彦||中村英一
+|-
+|659||こごとひらいしん||C4巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|11月4日||rowspan="2"|342||999||マリオネッター||C3巻||もとひら了||金子伸吾||平井峰太郎||中村英一
+|-
+|660||チャンスカメラ||+4巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|11月11日||rowspan="2"|343||1000||カメレオンちゃ||C1巻||丸尾みほ||colspan="2" style="text-align:center"|安藤敏彦||中村英一
+|-
+|661||九官マイク||大14巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|11月18日||rowspan="2"|344||1001||トランポリンゲン||C1巻||水出弘一||colspan="2" style="text-align:center"|平井峰太郎||中村英一
+|-
+|663||ラジコンテレビ||C4巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|11月25日||rowspan="2"|345||1002||ゆうどう足あとスタンプ||大16巻||水出弘一||井上修||安藤敏彦||中村英一
+|-
+|664||おやゆび姫をおいかけろ||C1巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|12月2日||rowspan="2"|346||1003||写真シャベール||C2巻||もとひら了||湖山禎崇||平井峰太郎||中村英一
+|-
+|665||のび太の魚つり||34巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|12月9日||rowspan="2"|347||1004||タイム・ルーム||40巻||松岡清治||[[善聡一郎]]||安藤敏彦||中村英一
+|-
+|666||エスパー訓練ボックス||27巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|12月16日||rowspan="2"|348||1005||即席イワノモト||44巻||丸尾みほ||colspan="2" style="text-align:center"|安藤敏彦||中村英一
+|-
+|667||タイムコピー||43巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|12月23日||rowspan="2"|349||1006||ぜったいあんぜんかさ||C2巻||丸尾みほ||藤みねお||安藤敏彦||中村英一
+|-
+|668||サカユメンでいい夢見よう||36巻||rowspan="10" colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="9"|12月31日||rowspan="9"|SPECIAL||rowspan="2"|SPECIAL||ドラえもんのびっくり全百科||1巻<br />方倉陽二『ドラえもん百科』
+|-
+|びっくり全百科 －ドラえもんとドラミちゃん－||+4巻<br />方倉陽二『ドラえもん百科』
+|-
+|842||時限バカ弾||41巻
+|-
+|730||十戒石板||39巻
+|-
+|791||サイラン液でサケをもどそう||36巻
+|-
+|940||あの頃に戻りたい!||13巻
+|-
+|SPECIAL||おまたせ ドラミちゃん初登場! のび太の海底ハイキング||4巻
+|-
+|831||強いイシ||43巻
+|-
+|SPECIAL||ゾウとおじさん||5巻
+|}
+
+== 1989年 ==
+{| class="wikitable" style="font-size:small;"
+|-
+!放送日!!放送回数!!話数!!サブタイトル!!原作!!脚本!!コンテ!!演出!!作画監督
+|-
+|rowspan="3"|1月6日||rowspan="3"|SPECIAL||1007||あげられタコ||C2巻||水出弘一||colspan="2" style="text-align:center"|平井峰太郎||中村英一
+|-
+|561||ひっこし地図||9巻||rowspan="2" colspan="4" style="text-align:center"|再放送
+|-
+|758||さらばキー坊||33巻
+|-
+|rowspan="2"|1月13日||rowspan="2"|350||1008||セットメーカー||40巻||松岡清治||colspan="2" style="text-align:center"|平井峰太郎||中村英一
+|-
+|669||代用シール||+1巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|1月20日||rowspan="2"|351||1009||ラジコンアンテナ||PC12巻||水出弘一||[[高柳哲司]]||平井峰太郎||中村英一
+|-
+|670||じつぶつベニヤ||CC6巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|1月27日||rowspan="2"|352||1010||鬼は外ビーンズ||大15巻||水出弘一||colspan="2" style="text-align:center"|安藤敏彦||中村英一
+|-
+|671||ゆめはしご||28巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|2月3日||rowspan="2"|353||1011||タイムドリーマー||大16巻||松岡清治||colspan="2" style="text-align:center"|安藤敏彦||中村英一
+|-
+|672||水ざいくで遊ぼう||23巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|2月10日||rowspan="2"|354||1012||陸上ボート||C2巻||水出弘一||colspan="2" style="text-align:center"|平井峰太郎||中村英一
+|-
+|673||しあわせトランプ||27巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|2月17日||rowspan="2"|355||1013||アニメばこ||44巻||松岡清治||colspan="2" style="text-align:center"|安藤敏彦||中村英一
+|-
+|674||ペタンコアイロン||29巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|2月24日||rowspan="2"|356||1014||望遠メガフォン||大15巻||松岡清治||金子伸吾||安藤敏彦||中村英一
+|-
+|675||四次元たてましブロック||27巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|3月3日||rowspan="2"|357||1015||なんでも空港||32巻||松岡清治||colspan="2" style="text-align:center"|安藤敏彦||中村英一
+|-
+|676||ラジコンせん水かんセット||26巻||rowspan="2" colspan="4" style="text-align:center"|再放送
+|-
+|3月4日||colspan="2" style="text-align:center"|SPECIAL||山おく村の怪事件||7巻
+|-
+|rowspan="2"|3月10日||rowspan="2"|358||1016||どうぶつ指キャップ||C3巻||水出弘一||colspan="2" style="text-align:center"|平井峰太郎||中村英一
+|-
+|677||カンゲキドリンク||大19巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|3月17日||rowspan="2"|359||1017||ゴロアワセトウ||C1巻||松岡清治||[[三家本泰美]]||平井峰太郎||中村英一
+|-
+|678||ひさしぶりトランク||30巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|3月24日||rowspan="2"|360||1018||ナゾの予言書||36巻||もとひら了||colspan="2" style="text-align:center"|安藤敏彦||中村英一
+|-
+|679||フェザープレーン||32巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|3月31日||rowspan="2"|361||1019||ききがきタイプライター||35巻||丸尾みほ||colspan="2" style="text-align:center"|平井峰太郎||中村英一
+|-
+|680||入れかえ表札||28巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|4月7日||rowspan="2"|SPECIAL||1020||のび太と風船イカダ||6巻||-||芝山努||平井峰太郎||中村英一
+|-
+|776||ドンジャラ村のホイ||35巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|4月14日||rowspan="2"|362||1021||超巨大立体テレビ||32巻||水出弘一||井上修||平井峰太郎||中村英一
+|-
+|681||早くつづきがみたい||31巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|4月21日||rowspan="2"|363||1022||実物ミニチュア大百科||30巻||丸尾みほ||石原ひろし||平井峰太郎||中村英一
+|-
+|682||人間メカを作ろう||29巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|4月28日||rowspan="2"|364||1023||ザンゲボウ||+5巻||松岡清治||井上修||平井峰太郎||中村英一
+|-
+|683||ぼく、失恋しちゃった||27巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="4"|5月5日||rowspan="4"|SPECIAL||1024||雪山のプレゼント||rowspan="2"|20巻||rowspan="4"|-||高柳哲司||rowspan="4"|平井峰太郎||中村英一
+|-
+|1025||へやに自然を||富永貞義||rowspan="2"|富永貞義
+|-
+|1026||アパートごっこ||10巻||芝山努
+|-
+|1027||無人島はボクの島||14巻||井上修||rowspan="2"|中村英一
+|-
+|rowspan="2"|5月12日||rowspan="2"|365||1028||いいとこ選たくしボード||40巻||丸尾みほ||colspan="2" style="text-align:center"|安藤敏彦
+|-
+|684||新種図鑑で有名に||28巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|5月19日||rowspan="2"|366||1029||自動ぶんなぐりガス||C4巻||水出弘一||山下克巳||安藤敏彦||中村英一
+|-
+|685||ニンニン修業セット||28巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|5月26日||rowspan="2"|367||1030||ミニ・テレビ局||C3巻||もとひら了||善聡一郎||安藤敏彦||中村英一
+|-
+|686||部分進化ガン||29巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|6月2日||rowspan="2"|368||1031||影ぶんちんと影実体化液||大16巻||水出弘一||colspan="2" style="text-align:center"|安藤敏彦||中村英一
+|-
+|687||地平線テープ||28巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|6月9日||rowspan="2"|369||1032||らくらく登山帽||大16巻||水出弘一||パクキョンスン||平井峰太郎||中村英一
+|-
+|688||きょうふのスタンプ||27巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|6月16日||rowspan="2"|370||1033||断ち物願かけ神社||42巻||丸尾みほ||colspan="2" style="text-align:center"|安藤敏彦||中村英一
+|-
+|689||コピーとりよせ機||29巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|6月23日||rowspan="2"|371||1034||標本さいしゅう箱||PC2巻||松岡清治||ほんごうみつる||平井峰太郎||中村英一
+|-
+|690||カッコータマゴ||27巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|6月30日||rowspan="2"|372||1035||CMキャンデー発射機||39巻||松岡清治||colspan="2" style="text-align:center"|平井峰太郎||中村英一
+|-
+|691||もしもボックスで天才に||30巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|7月7日||rowspan="2"|373||1036||フリーサイズぬいぐるみカメラ||40巻||水出弘一||colspan="2" style="text-align:center"|安藤敏彦||中村英一
+|-
+|692||空とぶクリスマス||C4巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|7月14日||rowspan="2"|374||1037||夢ホール||C3巻||もとひら了||藤みねお||平井峰太郎||中村英一
+|-
+|693||神さまごっこ||36巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|7月21日||rowspan="2"|375||1038||人間貯金箱製造機||40巻||松岡清治||colspan="2" style="text-align:center"|パクキョンスン||中村英一
+|-
+|694||まほうじてん||37巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|7月28日||rowspan="2"|376||1039||そうなる貝セット||+5巻||もとひら了||伊東政雄||平井峰太郎||中村英一
+|-
+|695||最初の感動を呼びさまそう||29巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|8月4日||rowspan="2"|377||1040||セルフアラーム||+6巻||水出弘一||colspan="2" style="text-align:center"|安藤敏彦||中村英一
+|-
+|696||しゅん間固定カメラ||29巻||rowspan="2" colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="3"|8月11日||rowspan="3"|SPECIAL||893||コメットハンターに挑戦||大14巻
+|-
+|1041||変身リングとカード||41巻||丸尾みほ||高柳哲司||平井峰太郎||富永貞義
+|-
+|900||ユメ完結チップ||+6巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|8月18日||rowspan="2"|378||1042||ドラミ型ミニ熱気球||40巻||松岡清治||colspan="2" style="text-align:center"|平井峰太郎||中村英一
+|-
+|725||しずかちゃんとスイートホーム||35巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|8月25日||rowspan="2"|379||1043||おとりケース||C4巻||もとひら了||ほんごうみつる||安藤敏彦||中村英一
+|-
+|726||しあわせ保険機||大11巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|9月1日||rowspan="2"|380||1044||ホームズ三点セット||PC9巻||水出弘一||colspan="2" style="text-align:center"|パクキョンスン||中村英一
+|-
+|727||たましいステッキ||39巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|9月8日||rowspan="2"|381||1045||続きをよろしく||41巻||もとひら了||colspan="2" style="text-align:center"|安藤敏彦||中村英一
+|-
+|728||空とぶドレス||29巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|9月15日||rowspan="2"|382||1046||身がわりマイク||40巻||丸尾みほ||金子伸吾||安藤敏彦||中村英一
+|-
+|729||しりとり変身カプセル||28巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|9月22日||rowspan="2"|383||1047||無視虫||+5巻||丸尾みほ||colspan="2" style="text-align:center"|平井峰太郎||中村英一
+|-
+|731||でんしょひこうき||+4巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|9月29日||rowspan="2"|384||1048||さいみんメガフォン||40巻||松岡清治||colspan="2" style="text-align:center"|安藤敏彦||中村英一
+|-
+|732||SLえんとつ||33巻||colspan="4" style="text-align:center"|再放送
+|-
+|10月2日||rowspan="5"|SPECIAL||colspan="7" style="text-align:center;"|[[ドラえもん のび太の日本誕生]]（監督：芝山努）
+|-
+|10月3日||colspan="7" style="text-align:center;"|[[ドラミちゃん ミニドラSOS!!!]]（監督：森脇真琴）
+|-
+|rowspan="3"|10月6日||802||ドラマチックガス||36巻||colspan="4" style="text-align:center"|再放送
+|-
+|1049||家庭科エプロン||40巻||-||芝山努||平井峰太郎||中村英一
+|-
+|784||地震訓練ペーパー||34巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|10月20日||rowspan="2"|385||1050||地図ちゅうしゃき||45巻||水出弘一||安藤敏彦||塚田庄英||中村英一
+|-
+|733||能力カセット||34巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|10月27日||rowspan="2"|386||1051||そのときどこにいた||+3巻||丸尾みほ||colspan="2" style="text-align:center"|パクキョンスン||中村英一
+|-
+|734||へやこうかんスイッチ||30巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|11月3日||rowspan="2"|387||1052||なりきりプレート||C1巻||水出弘一||colspan="2" style="text-align:center"|平井峰太郎||中村英一
+|-
+|735||みせかけつり針||31巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|11月10日||rowspan="2"|388||1053||いつでもどこでもスケッチセット||41巻||松岡清治||colspan="2" style="text-align:center"|安藤敏彦||中村英一
+|-
+|736||かぐやロボット||37巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|11月17日||rowspan="2"|389||1054||ジャイアンのディナーショー||41巻||松岡清治||善聡一郎||平井峰太郎||中村英一
+|-
+|737||貸し切りチップ||36巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|11月24日||rowspan="2"|390||1055||高層マンション化エレベーター||41巻||水出弘一||佐々木裕之||平井峰太郎||中村英一
+|-
+|738||本の味の友||32巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|12月1日||rowspan="2"|391||1056||半分こ刀||42巻||丸尾みほ||colspan="2" style="text-align:center"|塚田庄英||中村英一
+|-
+|739||むだ時間とりもどしポンプ||34巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|12月8日||rowspan="2"|392||1057||エアコンフォト||+5巻||水出弘一||colspan="2" style="text-align:center"|パクキョンスン||中村英一
+|-
+|741||動物変身恩返しグスリ||35巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|12月15日||rowspan="2"|393||1058||強力ウルトラスーパーデラックスキャンデー||+5巻||松岡清治||森脇真琴||塚田庄英||中村英一
+|-
+|740||決心コンクリート||43巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|12月22日||rowspan="2"|394||1059||のび太誕生||2巻||もとひら了||colspan="2" style="text-align:center"|塚田庄英||中村英一
+|-
+|742||タッチてぶくろ||rowspan="2"|40巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|12月29日||rowspan="12"|SPECIAL||1060||お好み建国用品||もとひら了||colspan="2" style="text-align:center"|平井峰太郎||中村英一
+|-
+|490||ゆきふらし||大11巻||rowspan="11" colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="10"|12月31日||809||オオカミ一家を救え!!||2巻
+|-
+|797||アドベン茶||36巻
+|-
+|847||ゲームブック||38巻
+|-
+|SPECIAL||お子さまハンググライダー||30巻
+|-
+|827||浦島事件のなぞに挑戦||25巻
+|-
+|811||トカゲロン||PC2巻
+|-
+|860||ミュンヒハウゼン城へようこそ||12巻
+|-
+|SPECIAL||おばあちゃん大好き||4巻
+|-
+|751||モーゼステッキ||31巻
+|-
+|805||ドラえもんに休日を||35巻
+|}
+
+== 1990年 ==
+{| class="wikitable" style="font-size:small;"
+|-
+!放送日!!放送回数!!話数!!サブタイトル!!原作!!脚本!!コンテ!!演出!!作画監督
+|-
+|rowspan="3"|1月5日||rowspan="3"|SPECIAL||SPECIAL||三輪飛行機||28巻||colspan="4" style="text-align:center"|再放送
+|-
+|1061||ドリームプレイヤー||rowspan="2"|38巻||もとひら了||colspan="2" style="text-align:center"|平井峰太郎||中村英一
+|-
+|SPECIAL||石器時代に集合!!||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|1月12日||rowspan="2"|395||1062||流行性コレクション||9巻||松岡清治||colspan="2" style="text-align:center"|パクキョンスン||中村英一
+|-
+|744||あとからアルバム||31巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|1月19日||rowspan="2"|396||1063||のぞみ実現機||42巻||松岡清治||colspan="2" style="text-align:center"|塚田庄英||中村英一
+|-
+|745||ゼンマイ式潜地艦||35巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|1月26日||rowspan="2"|397||1064||ぬいぐるみせいぞうカメラ||PC5巻||丸尾みほ||colspan="2" style="text-align:center"|パクキョンスン||中村英一
+|-
+|746||することレンズ||31巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|2月2日||rowspan="2"|398||1065||のび太の悪人志願||14巻||松岡清治||colspan="2" style="text-align:center"|塚田庄英||中村英一
+|-
+|747||悪魔のイジワール||34巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|2月9日||rowspan="2"|399||1066||未来図書券||41巻||丸尾みほ||colspan="2" style="text-align:center"|塚田庄英||中村英一
+|-
+|749||たましいふきこみ銃||34巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|2月16日||rowspan="2"|400||1067||ゴルゴンの首||20巻||水出弘一||colspan="2" style="text-align:center"|平井峰太郎||中村英一
+|-
+|750||カワイソメダル||PC12巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|2月23日||rowspan="2"|401||1068||物体交換クロス||41巻||もとひら了||colspan="2" style="text-align:center"|パクキョンスン||中村英一
+|-
+|748||自動買い取り機||29巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|3月2日||rowspan="2"|402||1069||環境スクリーンとプロジェクター||40巻||水出弘一||colspan="2" style="text-align:center"|平井峰太郎||中村英一
+|-
+|752||ホンワカキャップ||30巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|3月9日||rowspan="2"|403||1070||ぼくの守り紙さま||23巻||もとひら了||colspan="2" style="text-align:center"|塚田庄英||中村英一
+|-
+|753||運動神経コントローラー||43巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|3月16日||rowspan="2"|404||1071||ペーパークラフト||42巻||水出弘一||colspan="2" style="text-align:center"|パクキョンスン||中村英一
+|-
+|754||時差時計||32巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|3月23日||rowspan="2"|405||1072||全体復元液||+2巻||丸尾みほ||colspan="2" style="text-align:center"|塚田庄英||中村英一
+|-
+|755||フエール銀行||30巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|3月30日||rowspan="2"|406||1073||フンワリズッシリメーター||41巻||もとひら了||colspan="2" style="text-align:center"|平井峰太郎||中村英一
+|-
+|757||雲かためガス||34巻||rowspan="2" colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="3"|4月6日||rowspan="3"|SPECIAL||861||アトカラホントスピーカー||37巻
+|-
+|1074||ドラえもんの健康診断||45巻||-||森脇真琴||塚田庄英||中村英一
+|-
+|657||おとし物つり堀とつりざお||32巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|4月13日||rowspan="2"|407||1075||室内旅行セット||+3巻||松岡清治||colspan="2" style="text-align:center"|パクキョンスン||中村英一
+|-
+|756||のぞき穴ボード||29巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|4月20日||rowspan="2"|408||1076||無敵コンチュー丹||19巻||丸尾みほ||塚田庄英||平井峰太郎||中村英一
+|-
+|759||メモリーディスク||39巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|4月27日||rowspan="2"|409||1077||ママのありがたみ||19巻||松岡清治||[[矢吹勉]]||塚田庄英||中村英一
+|-
+|760||やじうまアンテナ||34巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|5月4日||rowspan="2"|410||1078||あなただけの物ガス||42巻||丸尾みほ||善聡一郎||パクキョンスン||中村英一
+|-
+|761||ジャイアンへのホットなレター||35巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|5月11日||rowspan="2"|411||1079||スピード増感ゴーグル||+3巻||もとひら了||矢吹勉||塚田庄英||中村英一
+|-
+|762||ロッカーカッター||PC11巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|5月18日||rowspan="2"|412||1080||ピンチランナー||+2巻||丸尾みほ||[[須藤典彦]]||平井峰太郎||中村英一
+|-
+|763||雨男はつらいよ||34巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|5月25日||rowspan="2"|413||1081||高層マンション脱出大作戦||+7巻||水出弘一||[[西村純二]]||平井峰太郎||中村英一
+|-
+|710||バリヤーポイント||31巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|6月1日||rowspan="2"|414||1082||万能クリーナー||42巻||水出弘一||colspan="2" style="text-align:center"|パクキョンスン||中村英一
+|-
+|711||やめさせロボット||大14巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|6月8日||rowspan="2"|415||1083||タイムピストル||+2巻||丸尾みほ||colspan="2" style="text-align:center"|塚田庄英||中村英一
+|-
+|712||いやなことヒューズ||33巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|6月15日||rowspan="2"|416||1084||進路アドバイザー||41巻||松岡清治||colspan="2" style="text-align:center"|平井峰太郎||中村英一
+|-
+|714||宇宙救命ボート||32巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|6月22日||rowspan="2"|417||1085||町の中でダイビング||41巻||もとひら了||矢吹勉||平井峰太郎||中村英一
+|-
+|713||ヒミツゲンシュ犬||+1巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|6月29日||rowspan="2"|418||1086||つきぬけザブトン||PC3巻||松岡清治||colspan="2" style="text-align:center"|塚田庄英||中村英一
+|-
+|716||ほしい人探知機||32巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|7月6日||rowspan="2"|419||1087||ウラメシズキン||+4巻||水出弘一||colspan="2" style="text-align:center"|パクキョンスン||中村英一
+|-
+|717||ペンシルミサイル||+5巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|7月20日||rowspan="2"|420||1088||かわり絵ミラー||+7巻||丸尾みほ||colspan="2" style="text-align:center"|塚田庄英||中村英一
+|-
+|719||家元かんばん||28巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|7月27日||rowspan="2"|421||1089||落し物カムバックスプレー||41巻||もとひら了||colspan="2" style="text-align:center"|平井峰太郎||中村英一
+|-
+|715||うらめしドロップ||29巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|8月3日||rowspan="2"|422||1090||密閉空間探査機||42巻||水出弘一||colspan="2" style="text-align:center"|塚田庄英||中村英一
+|-
+|718||変身ドリンク||34巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|8月10日||rowspan="2"|423||1091||お返しハンド||+7巻||もとひら了||colspan="2" style="text-align:center"|パクキョンスン||中村英一
+|-
+|720||のび太はいかが||28巻||rowspan="2" colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="3"|8月17日||rowspan="3"|SPECIAL||828||山寺のユーレイ騒動||37巻
+|-
+|1092||ペタリ甲板||+6巻||-||芝山努||平井峰太郎||富永貞義
+|-
+|677||カンゲキドリンク||大19巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|8月24日||rowspan="2"|424||1093||きまぐれカレンダー||41巻||丸尾みほ||善聡一郎||パクキョンスン||中村英一
+|-
+|722||物体電送アダプター||30巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|8月31日||rowspan="2"|425||1094||ほんものえほん||rowspan="2"|44巻||松岡清治||colspan="2" style="text-align:center"|平井峰太郎||中村英一
+|-
+|721||10円なんでもストア||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|9月7日||rowspan="2"|426||1095||動物生まれ変わりタマゴ||43巻||松岡清治||colspan="2" style="text-align:center"|塚田庄英||中村英一
+|-
+|705||宇宙たんけんごっこ||29巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|9月14日||rowspan="2"|427||1096||町内突破大作戦||42巻||水出弘一||colspan="2" style="text-align:center"|パクキョンスン||中村英一
+|-
+|706||無敵メンコレータム||大14巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|9月21日||rowspan="2"|428||1097||宇宙完全大百科||42巻||丸尾みほ||善聡一郎||平井峰太郎||中村英一
+|-
+|707||ジャイアンテレビに出る||30巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|9月28日||rowspan="2"|429||1098||仙人らくらくコース||43巻||もとひら了||colspan="2" style="text-align:center"|塚田庄英||中村英一
+|-
+|708||まんがかジャイ子||29巻||colspan="4" style="text-align:center"|再放送
+|-
+|10月1日||rowspan="4"|SPECIAL||colspan="7" style="text-align:center;"|[[ドラえもん のび太とアニマル惑星]]（監督：芝山努）
+|-
+|rowspan="3"|10月5日||792||ドッキリビデオ||37巻||colspan="4" style="text-align:center"|再放送
+|-
+|1099||7万年前の日本へ行こう||+7巻||-||望月智充||塚田庄英||富永貞義
+|-
+|769||神さまセット||29巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|10月19日||rowspan="2"|430||1100||正義の味方パトカー||+3巻||松岡清治||colspan="2" style="text-align:center"|平井峰太郎||中村英一
+|-
+|698||鏡の中の世界||33巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|10月26日||rowspan="2"|431||1101||バッジをさがせ||+2巻||水出弘一||colspan="2" style="text-align:center"|パクキョンスン||中村英一
+|-
+|699||インスタントロボット||29巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|11月2日||rowspan="2"|432||1102||食品視覚化ガス||42巻||松岡清治||善聡一郎||平井峰太郎||中村英一
+|-
+|697||空とぶコエカタマリン||34巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|11月9日||rowspan="2"|433||1103||ペットクリーム||37巻||丸尾みほ||colspan="2" style="text-align:center"|塚田庄英||中村英一
+|-
+|709||しずかのネックレス||28巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|11月16日||rowspan="2"|434||1104||原料ライト||+3巻||もとひら了||colspan="2" style="text-align:center"|パクキョンスン||中村英一
+|-
+|701||テストはやっぱりこわい||28巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|11月23日||rowspan="2"|435||1105||ラジコンのもと||大10巻||もとひら了||colspan="2" style="text-align:center"|平井峰太郎||中村英一
+|-
+|700||人間ブックカバー||27巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|11月30日||rowspan="2"|436||1106||気候集中装置||43巻||水出弘一||colspan="2" style="text-align:center"|塚田庄英||中村英一
+|-
+|702||位置固定スプレー||33巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|12月7日||rowspan="2"|437||1107||ダルマさんが転んだ帽||大17巻||松岡清治||colspan="2" style="text-align:center"|パクキョンスン||中村英一
+|-
+|703||アンケーターでプレゼント||28巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|12月14日||rowspan="2"|438||1108||ジャイアンとジャイ子||44巻||丸尾みほ||colspan="2" style="text-align:center"|平井峰太郎||中村英一
+|-
+|743||どこでも誰でもローラースケート||33巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|12月21日||rowspan="2"|439||1109||うつしぼくろ||+6巻||丸尾みほ||colspan="2" style="text-align:center"|塚田庄英||中村英一
+|-
+|730||十戒石板||39巻||colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="2"|12月28日||rowspan="2"|440||1110||しあわせカイロ||大3巻||松岡清治||colspan="2" style="text-align:center"|パクキョンスン||中村英一
+|-
+|704||ジャイアンのファンクラブ||33巻||rowspan="10" colspan="4" style="text-align:center"|再放送
+|-
+|rowspan="9"|12月31日||rowspan="9"|SPECIAL||864||無人境ドリンク||38巻
+|-
+|820||ジャストホンネ||39巻
+|-
+|851||パパだって甘えんぼ||16巻
+|-
+|796||地球下車マシン||35巻
+|-
+|879||20世紀のおとのさま||24巻
+|-
+|853||無敵砲台||38巻
+|-
+|910||ガンファイターのび太||24巻
+|-
+|840||ツモリナール||36巻
+|-
+|SPECIAL||モアよドードーよ永遠に||17巻
+|}
+
+== 脚注 ==
+=== 注釈 ===
+<references group="注" />
+=== 出典 ===
+{{Reflist}}
+
+{{ドラえもん}}
+{{DEFAULTSORT:とらえもんのあにめえひそおといちらん1986}}
+
+[[Category:ドラえもんのアニメエピソード一覧|1986]]
